@@ -32,6 +32,33 @@ financial_years:
   EX1998:                                        # Code d'un exercice comptable
     started_on: 1998-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
     stopped_on: 1998-12-31                       # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    currency: FRF
+  EX1999:                                        # Code d'un exercice comptable
+    started_on: 1999-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
+    stopped_on: 1999-12-31                       # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    currency: FRF
+  EX2000:                                        # Code d'un exercice comptable
+    started_on: 2000-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
+    stopped_on: 2000-12-31                       # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    currency: FRF
+  EX2001:                                        # Code d'un exercice comptable
+    started_on: 2001-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
+    stopped_on: 2001-12-31                       # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    currency: EUR
+journals:
+  21:
+    name: Crédit Agricole
+    nature: bank
+    currency: EUR
+  11:
+    name: Caisse
+    nature: cash
+    currency: EUR
+  VUSA:
+    name: Ventes États-Unis
+    closed_on: 2013-12-31
+    nature: sales
+    currency: USD
 catalogs:
   VENTE:                                         # Code d'un catalogue de prix
     name: Prix de vente                          # Nom d'un catalogue de prix
@@ -53,11 +80,11 @@ cashes:
   caisse:                                        # Code d'une trésorerie
     name: Caisse                                 # Nom d'une trésorerie
     nature: cash_box                             # Type d'une trésorerie (compte bancaire ou caisse)
-    journal: cash                                # Code journal d'une trésorerie
+    journal: '11'                                # Code journal d'une trésorerie
     account: caisse                              # Code comptable d'une trésorerie (décrit au dessus)
   banque:
     name: Compte courant CA
-    journal: bank
+    journal: '21'
     account: banque
     mode: iban                                   # Mode de saisie IBAN ou BBAN (RIB)
     country: fr                                  # Code pays de la banque
