@@ -4,6 +4,8 @@ currency: EUR                                    # Code monnaie
 country: fr                                      # Code pays
 language: fra                                    # Code langue
 map_measure_srid: 2154                           # Code référentiel spatial
+host: demo.ekylibre.farm
+sales_conditions: "Une indemnité forfaitaire de 40 € sera réclamée pour frais de recouvrement, en cas de retard de paiement" 		#conditions de vente par défault
 demo: true                                       # Mode démo (oui/non)
 create_activities_from_telepac: false            # Création des activités uniquement à partir des fichiers TELEPAC
 company:
@@ -59,6 +61,10 @@ journals:
     closed_on: 2013-12-31
     nature: sales
     currency: USD
+  CCCA:
+    name: Compte courant coop Charentes Alliance
+    nature: bank
+    currency: EUR
 catalogs:
   VENTE:                                         # Code d'un catalogue de prix
     name: Prix de vente                          # Nom d'un catalogue de prix
@@ -76,6 +82,9 @@ accounts:                                        # Description de compte comptab
   caisse:                                        # Code d'un compte comptable de caisse
     name: Caisse                                 # Nom d'un compte comptable de caisse
     number: 531101                               # Numéro d'un compte de caisse
+  cc_coopca:                                        # Code d'un compte comptable de caisse
+    name: Compte coop ca                         # Nom d'un compte comptable de caisse
+    number: 47201                                # Numéro d'un compte de caisse
 cashes:
   caisse:                                        # Code d'une trésorerie
     name: Caisse                                 # Nom d'une trésorerie
@@ -89,6 +98,24 @@ cashes:
     mode: iban                                   # Mode de saisie IBAN ou BBAN (RIB)
     country: fr                                  # Code pays de la banque
     iban: "FR7611111222223333333333391"          # Numéro IBAN du compte
+  cc_coopca:
+    name: Compte courant activité Coop CA
+    journal: CCCA
+    account: cc_coopca
+    nature: "associated_account"
+    mode: "" 							#mode
+    country: fr 						#code pays
+    iban: "" 			#numéro IBAN du compte
+outgoing_payment_modes:
+  cc_coopca:
+    with_accounting: true
+    cash: cc_coopca
+  cb:
+    with_accounting: true
+    cash: banque
+  cheque:
+    with_accounting: true
+    cash: banque
 net_services:                                    # Services en ligne
   telepac:                                       # Nom d'un service web (ex: TELEPAC)
     pacage_number: 852364554                     # Nom et valeur du premier identifiant pour ce service
