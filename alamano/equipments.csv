@@ -58,12 +58,12 @@ NH 250,grape_reaper,,,,,,ETA,"Population : 1 ; application_width : 2,5m",,88,
 Presse balle carré,baler,,,,,,ETA,Population : 1,,93,usage_duration
 ,TRANSPORT,,,,,,,,,,
 Remorque 11T,trailer,,S06_D02,,,,,Population : 1 ;  nominal_storable_net_mass : 11000 kg,,0.68,usage_duration
-Remorque épandeur ,spreader_trailer,,S06_D02,,,,,Population : 1 ;  nominal_storable_net_mass : 8000 kg,,8,usage_duration
+Remorque épandeur ,spreader_trailer,SPREADER_TRAILER,S06_D02,,,,,Population : 1 ;  nominal_storable_net_mass : 8000 kg,,8,usage_duration
 Remorque monocoque,trailer,,S06_D02,,,,,Population : 1 ;  nominal_storable_net_mass : 8000 kg,,0.5,usage_duration
 Benne vendange 60,grape_trailer,,S06_D02,,,,,Population : 1 ;  nominal_storable_net_mass : 6000 kg,,0.5,usage_duration
 Gimbre pro 60,grape_trailer,,S06_D02,,,,,Population : 1 ;  nominal_storable_net_mass : 6000 kg,,0.5,usage_duration
 ,ENTRETIEN,,,,,,,,,,
-Girobroyeur,mower,,S06_D02,,,,,"Population : 1 ; application_width : 1,8m",,9,usage_duration
+Girobroyeur,mower,MOWER,S06_D02,,,,,"Population : 1 ; application_width : 1,8m",,9,usage_duration
 ,ELEVAGE,,,,,,,,,,
 Désileuse,silage_distributor,,S06_D02,,,,,Population : 1 ;  nominal_storable_net_volume : 1000l ;  nominal_storable_net_mass : 500kg,,,
 Pailleuse,silage_distributor,,S06_D02,,,,,Population : 1 ;  nominal_storable_net_volume : 3000l ;  nominal_storable_net_mass : 1500kg,,,
