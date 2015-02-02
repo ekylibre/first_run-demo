@@ -1,0 +1,5 @@
+intervention id;Campagne;Date début;Heure début;durée (heures);procedure;description;Zones cultivables;cible variant;cible variété;code personnes;code equipements;code intrant 1;quantité intrant 1;unité intrant 1;unité de surface (hectare );code intrant 2;quantité intrant 2;unité intrant 2;Dose 2 (hectare );code intrant 3;quantité intrant 3;unité intrant 3;Dose 3 (hectare )
+1;2015;21/08/2014;09:00;3;land_parcel_grinding;Broyage;ZC05,ZC06,ZC07;;;DJ;TRAC_745,MOWER;;;;;;;;;;;;
+2;2015;28/08/2014;09:00;2,5;raking;Préparation de Sol;ZC05,ZC06,ZC07;;;DJ;TRAC_4240,PLOW_07;;;;;;;;;;;;
+5;2015;28/08/2014;09:00;2,5;organic_fertilizing;Fertilisation organique;ZC05,ZC06,ZC07;;;YJ;TRAC_745,SPREADER_TRAILER;FUMIER_2014;5;ton;hectare;;;;;;;;
+15;2015;08/09/2014;09:00;8;plowing;Labour;ZC05,ZC06,ZC07;;;BT;TRAC_R110,PLOW_02;;;;;;;;;;;;
