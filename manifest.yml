@@ -140,5 +140,6 @@ identifiers:                                     # Identifiants
   husbandry_owner_number: FR01700006989
   cattling_root_number: 173513
   cattling_number: FR17387001
+  quandl_token: BwQESxTYjPRj58EbvzQA
   cooperative_cartodb_account: coop
   cooperative_cartodb_key: 644b0c1e22d3993b62b189e2d64389ad1e516002
