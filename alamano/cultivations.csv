@@ -4,3 +4,4 @@ Vigne Jeune B,PLANT_ZC01,vine_grape_crop,ZC16,2011-07-30,vitis_vinifera_colombar
 Vigne Vieille B,PLANT_ZC02,vine_grape_crop,ZC18,1982-10-25,vitis_vinifera_ugni_blanc,Population : 6.00 ; plants_count : 4875 ; woodstock_variety : vitis_cinerea_x_vitis_rupestris_99R ; certification : cognac
 Vigne Poussé N,PLANT_ZC03,vine_grape_crop,ZC21,2010-07-30,vitis_vinifera_ugni_blanc,Population : 0.421 ; plants_count : 4875 ; woodstock_variety : vitis_cinerea_x_vitis_rupestris_99R ; certification : cognac
 Poirier plant Williams,PLANT_ZC011_1,pear_crop,ZC11,2012-10-15,pyrus_communis_william,Population : 0.62 ; plants_count : 400
+Noisetier,PLANT_ZC10,hazel_crop,ZC10,2013-10-15,corylus_avellana_corabel,Population : 0.62 ; plants_count : 750
