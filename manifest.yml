@@ -21,11 +21,11 @@ users:
     last_name: DUPONT                            # Nom de famille
     password: 12345678                           # Mot de passe
     employed: true
-  veto@ekylibre.org:                             # Adresse e-mail de l'utilisateur 1 qui sert d'identifiant
+  veto@ekylibre.org:                             # Adresse e-mail de l'utilisateur 2 qui sert d'identifiant
     first_name: Jean-Yves                        # Prénom
     last_name: BRASLONG                          # Nom de famille
     password: 12345678                           # Mot de passe
-  comptable@ekylibre.org:                        # Adresse e-mail de l'utilisateur 1 qui sert d'identifiant
+  comptable@ekylibre.org:                        # Adresse e-mail de l'utilisateur 3 qui sert d'identifiant
     first_name: Michel                           # Prénom
     last_name: DURAND                            # Nom de famille
     password: 12345678                           # Mot de passe
@@ -75,6 +75,9 @@ catalogs:
   ACHAT:
     name: "Prix d'achat"
     usage: purchase
+  STOCK:
+    name: "Prix d'achat"
+    usage: stock
 accounts:                                        # Description de compte comptables
   banque:                                        # Code d'un compte comptable de banque
     name: Banque CRCA                            # Nom d'un compte de banque
