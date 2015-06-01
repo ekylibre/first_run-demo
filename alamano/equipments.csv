@@ -53,6 +53,7 @@ Presse balle carré moyenne densité,baler,,,,CASE-IH,,,Population : 1,,50,usag
 Faucheuse,mower,,,,,,CUMA,"Population : 1 ; application_width : 3,2m",,49,usage_duration
 Andaineur,hay_rake,,,,,,CUMA,Population : 1 ;  application_width : 5m,,18,usage_duration
 Presse balle ronde,baler,,,,,,CUMA,Population : 1,,54,usage_duration
+CLAAS JAGUAR 870,forager,CLAAS_JAGUAR_870,,,,,ETA,"Population : 1 ; application_width : 4,5m",,220,usage_duration
 CLAAS 98 SL,reaper,CLAAS_98_SL,,,,,ETA,"Population : 1 ; application_width : 4,5m",,103,usage_duration
 NH 250,grape_reaper,,,,,,ETA,"Population : 1 ; application_width : 2,5m",,88,usage_duration
 Presse balle carré,baler,,,,,,ETA,Population : 1,,93,usage_duration

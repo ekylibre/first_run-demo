@@ -1,4 +1,3 @@
 nom de la culture,code culture,code variant culture,code support,date implantation,Espèce/Variété,Indicateurs
 ,PLANTATION,,,,,
-Poirier plant Williams,PLANT_ZC011_1,pear_crop,ZC11,2012-10-15,pyrus_communis_william,Population : 0.62 ; plants_count : 400
-Noisetier,PLANT_ZC10,hazel_crop,ZC10,2013-10-15,corylus_avellana_corabel,Population : 0.62 ; plants_count : 750
+Noisetier,PLANT_ZC11,hazel_crop,ZC11,2013-10-15,corylus_avellana_corabel,Population : 0.62 ; plants_count : 750
