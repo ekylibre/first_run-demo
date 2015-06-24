@@ -10,8 +10,13 @@ demo: true                                       # Mode démo (oui/non)
 create_activities_from_telepac: false            # Création des activités uniquement à partir des fichiers TELEPAC
 company:
   last_name: GAEC DUPONT                         # Nom
+  activity_code: 0111Z
+  siren: 123465798
+  vat_number: FR17123465798				 # Nom
   addresses:
     email: gaec.dupont@truc.com                  # Adresse e-mail de votre société
+    website: www.ekylibre.com
+    mobile: 06 12 34 56 78
     mail:
       line_4: 8 rue du bouil bleu                # Adresse de votre société
       line_6: 17250 SAINT-PORCHAIRE              # Code postal et ville de votre société
@@ -95,14 +100,14 @@ cashes:
     journal: '11'                                # Code journal d'une trésorerie
     account: caisse                              # Code comptable d'une trésorerie (décrit au dessus)
   banque:
-    name: Compte courant CA
+    name: Compte CRCA
     journal: '21'
     account: banque
     mode: iban                                   # Mode de saisie IBAN ou BBAN (RIB)
     country: fr                                  # Code pays de la banque
     iban: "FR7611111222223333333333391"          # Numéro IBAN du compte
   cc_coopca:
-    name: Compte courant activité Coop CA
+    name: Compte courant activité Coop
     journal: CCCA
     account: cc_coopca
     nature: "associated_account"
@@ -114,6 +119,13 @@ outgoing_payment_modes:
     with_accounting: true
     cash: cc_coopca
   cb:
+    with_accounting: true
+    cash: banque
+  cheque:
+    with_accounting: true
+    cash: banque
+incoming_payment_modes:
+  virement:
     with_accounting: true
     cash: banque
   cheque:

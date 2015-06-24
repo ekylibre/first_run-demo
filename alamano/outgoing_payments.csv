@@ -1,3 +1,7 @@
 reference_number (purchase_reference_number),(outgoing payment mode name),Prix payé TTC,date paiement si différente
-2014-11-30_CHARENTES-ALLIANCE_91124523,cc_coopca,"3398,89",
+2014-11-30_CHARENTES-ELLIANCE_91124523,cc_coopca,"3398,89",
+2014-11-29_CHARENTES-ELLIANCE_91124524,cc_coopca,"1957,36",
+2014-11-28_CHARENTES-ELLIANCE_91124525,cc_coopca,"60,95",
+2014-11-27_CHARENTES-ELLIANCE_91124526,cc_coopca,"51,57",
 2014-12-05_EDF_958623,cheque,"229,2",
+2014-12-12_DELTI-SUD_56328965,tractor,"34743,6",

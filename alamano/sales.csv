@@ -1,3 +1,6 @@
 reference_number (sale_reference_number),variant_nomen,quantité,Prix unitaire HT,Taux TVA,Description
-2015-01-20_CHARENTES-ALLIANCE_20150120001,wheat_grain,"2,11",177,"5,5",Blé tendre 2014
-2015-01-25_CHARENTES-ALLIANCE_20150125002,hard_wheat_grain,"4,15",370,"5,5",Blé dur 2014
+2015-01-20_CHARENTES-ELLIANCE_20150120001,wheat_grain,"2,11",177,"5,5",Blé tendre 2014
+2015-01-25_CHARENTES-ELLIANCE_20150125002,hard_wheat_grain,"4,15",370,"5,5",Blé dur 2014
+2015-01-10_TERRILACTI_201501456,cow_milk,32256,"0,33","5,5",Lait
+2015-02-10_VITIS_202036,wine,"11,5",450,"5,5",
+2015-03-12_VITIS_202056,wine,"15,5",465,"5,5",
