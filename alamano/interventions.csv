@@ -39,4 +39,7 @@ intervention id;Campagne;Date début;Heure début;durée (heures);procedure;desc
 38;2015;02/04/2015;09:00;3;mineral_fertilizing;Fertilisation mineral – apport 2;ZC27, ZC28;;;YJ;TRAC_533, EPAN_01;AMMO_2014;150;kilogram;hectare;;;;;;;;
 39;2015;02/04/2015;14:00;3;mineral_fertilizing;Fertilisation mineral – apport 2;ZC18, ZC25, ZC26;;;YJ;TRAC_533, EPAN_01;AMMO_2014;140;kilogram;hectare;;;;;;;;
 40;2015;09/04/2015;14:00:00;4;spraying_on_cultivation;Protection des cultures – Fongicide;ZC05,ZC06,ZC07,ZC18;;;DJ;TRAC_745,PULVE_01;OPUS_2015_01;1,5;liter;hectare;;;;;;;;
-41;2015;17/07/2015;09:00:00;3;grains_harvest;Moisson;Z05;wheat_crop;triticum_aestivum_caphorn;DJ;CLAAS_98_SL;GRAIN_BLE_TENDRE;72;quintal;hectare;PAILLE_BLE;2;ton;hectare;;;;
+41;2015;15/07/2015;09:00:00;3;grains_harvest;Moisson;ZC05;wheat_crop;triticum_aestivum_caphorn;DJ;CLAAS_98_SL;GRAIN_BLE_TENDRE;72;quintal;hectare;PAILLE_BLE;2;ton;hectare;;;;
+42;2015;16/07/2015;13:30:00;4;administrative_task;Rangement;exploitation;;;DJ;;;;;;;;;;;;;
+43;2015;16/07/2015;13:30:00;2;maintenance_task;Réparation 745 IH;TRAC_745;;;YJ;;;;;;;;;;;;;
+44;2015;16/07/2015;09:00;0,25;fuel_up;Plein de carburant;TRAC_533;;;DJ;TRAC_533;GASOIL_2014;95;l;;;;;;;;;

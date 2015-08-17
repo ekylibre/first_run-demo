@@ -47,7 +47,7 @@ Bouchon Nomacorc S500,nomacorc_cork,,S05_D07,2014-01-05,,,,Population : 1000 ;
 ,CARBURANT ET LUBRIFIANT,,,,,,,,,
 Huile moteur MOTUL ,motor_oil,,S09_D01,2013-01-01,oil,,,Population : 220,,2.87
 Huile hydraulique PROBEOL HV,hydraulic_oil,,S09_D01,2013-01-01,oil,,,Population : 80,,4.24
-Gasoil,diesel,,S09_D01,2013-01-01,fuel,,,Population : 4500,,0.61
+Gasoil,diesel,GASOIL_2014,S09_D01,2013-01-01,fuel,,,Population : 4500,,0.61
 ,PIECE ET CONSOMMABLE,,,,,,,,,
 Boulons,bolt,,S09_D01,2013-01-01,,,,Population : 80,,1.05
 ,FOURRAGE,,,,,,,,,
