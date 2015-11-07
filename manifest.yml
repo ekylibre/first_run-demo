@@ -11,8 +11,8 @@ create_activities_from_telepac: false            # Création des activités uniq
 company:
   last_name: GAEC DUPONT                         # Nom
   activity_code: 0111Z
-  siren: 123465798
-  vat_number: FR17123465798				 # Nom
+  siret: 32627372900011
+  vat_number: FR17326273729				 # Nom
   addresses:
     email: gaec.dupont@truc.com                  # Adresse e-mail de votre société
     website: www.ekylibre.com
