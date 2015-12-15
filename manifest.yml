@@ -151,6 +151,7 @@ net_services:                                    # Services en ligne
     cartodb_login: demo-ekylibre
     password: 000000
 identifiers:                                     # Identifiants
+  openwheatermap_api_key: 25ec253e68abca2e4115718432525549
   pacage_number: 12346578                        # Nom et valeur d'un identifiant
   husbandry_owner_number: FR01700006989
   cattling_root_number: 173513
