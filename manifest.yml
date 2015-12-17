@@ -5,9 +5,9 @@ country: fr                                      # Code pays
 language: fra                                    # Code langue
 map_measure_srid: 2154                           # Code référentiel spatial
 host: demo.ekylibre.farm
-sales_conditions: "Une indemnité forfaitaire de 40 € sera réclamée pour frais de recouvrement, en cas de retard de paiement" 		#conditions de vente par défault
+sales_conditions: "Une indemnité forfaitaire de 40 € sera réclamée pour frais de recouvrement, en cas de retard de paiement" 		# Conditions de vente par défaut
 demo: true                                       # Mode démo (oui/non)
-create_activities_from_telepac: false            # Création des activités uniquement à partir des fichiers TELEPAC
+create_activities_from_telepac: true             # Création des activités uniquement à partir des fichiers TELEPAC
 company:
   last_name: GAEC DUPONT                         # Nom
   activity_code: 0111Z
