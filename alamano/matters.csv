@@ -50,6 +50,15 @@ Huile hydraulique PROBEOL HV,hydraulic_oil,,S09_D01,2013-01-01,oil,,,Population�
 Gasoil,diesel,GASOIL_2014,S09_D01,2013-01-01,fuel,,,Population : 4500,,0.61
 ,PIECE ET CONSOMMABLE,,,,,,,,,
 Boulons,bolt,,S09_D01,2013-01-01,,,,Population : 80,,1.05
+,PRODUIT VEGETAUX,,,,,,,,,
+Blé dur 2015,hard_wheat_grain,HARD_WHEAT_GRAIN_2015,SILO_EXT_01,2015-01-01,,,,Population : 15,,398
+Blé tendre en stockage à façon à la coopérative,wheat_grain,WHEAT_GRAIN_2014,SILO_EXT_01,2014-01-01,,,,Population : 27.7,,180
+Blé tendre 2015,wheat_grain,WHEAT_GRAIN_2015,SILO_EXT_01,2015-01-01,,,,Population : 1,,180
+Mais en stockage à façon,corn_grain,CORN_GRAIN_2014,SILO_EXT_02,2014-01-01,,,,Population : 12,,210
+Merlot Rouge 2012,wine,,TANK_1_S05_D06,2012-10-01,wine,,,Population : 40; reference_year : 2012; certification : bordeaux_rouge,,100.20
+Merlot Rouge 2013,wine,,TANK_2_S05_D06,2013-10-01,wine,,,Population : 50; reference_year : 2013; certification : bordeaux_superieur_rouge,,111.20
+Jus de raisin Merlot 2013,vine_grape_juice,,TANK_6_S05_D06,2013-09-15,juice,grape,,Population : 150; reference_year : 2013; certification : bordeaux_superieur_rouge,,1.11
+Mout Merlot 2013 Cuve N°3,vine_grape_must,,TANK_3_S05_D06,2013-09-15,fermented_juice,grape,,Population : 45; reference_year : 2013; certification : bordeaux_superieur_rouge,,70.00
 ,FOURRAGE,,,,,,,,,
 Ensilage Herbe – Silo Génisse,grass_silage,,S03_D02,2014-01-01,,,,Population : 49,,29
 Ensilage Herbe – Silo VL 2,grass_silage,,S05_D02,2014-01-01,,,,Population : 140,,29
@@ -61,7 +70,7 @@ Foin bottes cubiques  - Génisse,hay_big_rectangular_bales,,S03_D07,2014-01-01,,
 Foin bottes rondes - Intrabois,hay_round_bales,,S06_D02,2014-01-01,,,,Population : 25,"7,5",27.3
 Foin bottes cubiques  - Intrabois,hay_big_rectangular_bales,,S06_D02,2014-01-01,,,,Population : 50,22,39.85
 Foin petites bottes  - Crêche,hay_small_rectangular_bales,,S05_D08,2014-01-01,,,,Population : 350,"8,75",2.27
-Paille bottes cubiques  - Intrabois,wheat_straw_big_rectangular_bales,,S06_D02,2014-01-01,,,,Population : 140,"30,66",8.32
+Paille bottes cubiques  - Intrabois,wheat_straw_big_rectangular_bales,WHEAT_STRAW_2015,S06_D02,2014-01-01,,,,Population : 140,"30,66",8.32
 Paille bottes cubiques  - Nurserie,wheat_straw_big_rectangular_bales,,S03_D12,2014-01-01,,,,Population : 40,"8,76",8.32
 Paille bottes cubiques  - Silo VL 3,wheat_straw_big_rectangular_bales,,S05_D03,2014-01-01,,,,Population : 40,"8,76",8.32
 ,PRODUIT HYGIENE ELEVAGE,,,,,,,,,
@@ -82,12 +91,3 @@ ESTIM SANDIBOOST 26/12,bulk_animal_food,,TANK_1_S05_D07,2014-01-01,,,,Population
 FLORI ECLAIR SAC ,25kg_bag_animal_food,,S05_D07,2014-01-01,,,,Population : 18,18.00,12.07
 FLORIJUNIOR SAC,25kg_bag_animal_food,,S05_D07,2014-01-01,,,,Population : 9,9.00,11.13
 RUMIDECOX,bulk_kg_animal_food,,S05_D07,2014-01-01,,,,Population : 500,500.00,0.49
-,PRODUIT VEGETAUX,,,,,,,,,
-Blé dur 2015,hard_wheat_grain,HARD_WHEAT_GRAIN_2015,SILO_EXT_01,2015-01-01,,,,Population : 15,,398
-Blé tendre en stockage à façon à la coopérative,wheat_grain,WHEAT_GRAIN_2014,SILO_EXT_01,2014-01-01,,,,Population : 27.7,,180
-Blé tendre 2015,wheat_grain,WHEAT_GRAIN_2015,SILO_EXT_01,2015-01-01,,,,Population : 1,,180
-Mais en stockage à façon,corn_grain,CORN_GRAIN_2014,SILO_EXT_02,2014-01-01,,,,Population : 12,,210
-Merlot Rouge 2012,wine,,TANK_1_S05_D06,2012-10-01,wine,,,Population : 40; reference_year : 2012; certification : bordeaux_rouge,,100.20
-Merlot Rouge 2013,wine,,TANK_2_S05_D06,2013-10-01,wine,,,Population : 50; reference_year : 2013; certification : bordeaux_superieur_rouge,,111.20
-Jus de raisin Merlot 2013,vine_grape_juice,,TANK_6_S05_D06,2013-09-15,juice,grape,,Population : 150; reference_year : 2013; certification : bordeaux_superieur_rouge,,1.11
-Mout Merlot 2013 Cuve N°3,vine_grape_must,,TANK_3_S05_D06,2013-09-15,fermented_juice,grape,,Population : 45; reference_year : 2013; certification : bordeaux_superieur_rouge,,70.00
