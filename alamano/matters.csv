@@ -29,7 +29,7 @@ Riflexine,riflexine,,S05_D07,2013-01-01,preparation,,,Population : 40,,4
 Actilact,actilact,,S05_D07,2013-01-01,preparation,,,Population : 150,,2.85
 Acetal,acetal,,S05_D07,2013-01-01,preparation,,,Population : 4,,15.58
 Belem 0.8 MG,granulated_insecticide_12,,S05_D07,2013-01-01,preparation,,,Population : 2,,50.23
-Callisto,coop:callisto_5_l,,S05_D07,2014-01-06,preparation,,,Population : 10 ; wait_before_harvest_period : 0day ; approved_input_dose : 1.50kilogram_per_hectare ; untreated_zone_length : 50meter ; wait_before_entering_period : 1day,,45.78
+Callisto,CALLISTO 5 L,CALLISTO_2015_01,S05_D07,2014-01-06,preparation,,,Population : 10 ; wait_before_harvest_period : 0day ; approved_input_dose : 1.50kilogram_per_hectare ; untreated_zone_length : 50meter ; wait_before_entering_period : 1day,,45.78
 ,PRODUITS OENOLOGIQUES,,,,,,,,,
 Solution Sulfureuse A8,so2_liquid_A8,,S05_D07,2013-01-01,,,,Population : 5,,
 Comprimés de 5g,so2_solid_5g,,S05_D07,2013-01-01,,,,Population : 18,,

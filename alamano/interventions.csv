@@ -7,6 +7,7 @@ intervention id;Campagne;Date début;Heure début;durée (heures);procedure;desc
 6;2014;26/04/2014;08:00:00;6;sowing;Semis;ZC13, ZC20;corn_crop;zea_mays;DJ;TRAC_533, SEM_02;ZEA_SEED_SHANNON_2014;23;kilogram;hectare;;;;;;;;
 7;2014;01/05/2014;09:00;3;mineral_fertilizing;Fertilisation mineral – apport 1 – 80 u – urée;ZC06, ZC10, ZC13, ZC20;;;YJ;TRAC_533, EPAN_01;UREE_2014;120;kilogram;hectare;;;;;;;;
 8;2014;15/05/2014;09:00;5;hoeing;Binage 1;ZC06, ZC10, ZC13, ZC20;;;DJ;TRAC_533, PLOW_07;;;;;;;;;;;;
+20;2014;05/06/14;09:00;4;spraying_on_cultivation;Protection des cultures – Herbicide;ZC06, ZC13;;;DJ;TRAC_745,PULVE_01;2015-02-11_CALLISTO 5 L;2;liter;hectare;;;;;;;;
 9;2014;10/06/2014;09:00;5;hoeing;Binage 2;ZC06, ZC10, ZC13, ZC20;;;DJ;TRAC_533, PLOW_07;;;;;;;;;;;;
 10;2014;28/09/2014;09:00;5,5;silage;Ensilage;ZC06, ZC10;corn_crop;zea_mays;BT;CLAAS_JAGUAR_870;CORN_SILAGE_2014;14;ton;hectare;;;;;;;;
 11;2014;12/11/2014;09:00:00;3;grains_harvest;Moisson;ZC13, ZC20;corn_crop;zea_mays;DJ;CLAAS_98_SL;CORN_GRAIN_2014;78;quintal;hectare;;;;;;;;
@@ -17,8 +18,8 @@ intervention id;Campagne;Date début;Heure début;durée (heures);procedure;desc
 16;2015;01/03/2015;09:00;3;mineral_fertilizing;Fertilisation mineral – apport 1;ZC13;;;YJ;TRAC_533, EPAN_01;AMMO_2014;150;kilogram;hectare;;;;;;;;
 17;2015;02/04/2015;14:00;3;mineral_fertilizing;Fertilisation mineral – apport 2;ZC13;;;YJ;TRAC_533, EPAN_01;AMMO_2014;100;kilogram;hectare;;;;;;;;
 18;2015;01/05/2015;14:00;3;mineral_fertilizing;Fertilisation mineral – apport 3;ZC13;;;YJ;TRAC_533, EPAN_01;AMMO_2014;55;kilogram;hectare;;;;;;;;
-19;2015;10/04/2015;14:00:00;4;spraying_on_cultivation;Protection des cultures – Fongicide;ZC13;;;DJ;TRAC_745,PULVE_01;OPUS_2015_01;2;liter;hectare;;;;;;;;
-20;2015;14/03/2015;09:00;7;spraying_on_cultivation;Protection des cultures – Herbicide;ZC13;;;YJ;TRAC_745,PULVE_01;AXIAL_2015_01;1,5;liter;hectare;;;;;;;;
+19;2015;10/04/2015;14:00:00;4;spraying_on_cultivation;Protection des cultures – Fongicide;ZC13;;;DJ;TRAC_745,PULVE_01;2015-02-11_AVIATOR XPRO 5L;2;liter;hectare;;;;hectare;;;;
+20;2015;14/03/2015;09:00;7;spraying_on_cultivation;Protection des cultures – Herbicide;ZC13;;;YJ;TRAC_745,PULVE_01;2015-03-10_BOFIX 5 L;1,5;liter;hectare;;;;hectare;;;;
 21;2015;19/07/2015;09:00:00;3;grains_harvest;Moisson;ZC13;miradoux_hard_wheat_crop;triticum_durum;DJ;CLAAS_98_SL;HARD_WHEAT_GRAIN_2015;55;quintal;hectare;WHEAT_STRAW_2015;2;ton;hectare;;;;
 22;2015;21/08/2014;09:00;3;land_parcel_grinding;Broyage;ZC05,ZC06,ZC07;;;DJ;TRAC_745,MOWER;;;;;;;;;;;;
 23;2015;28/08/2014;09:00;2,5;organic_fertilizing;Fertilisation organique;ZC05,ZC06,ZC07;;;YJ;TRAC_745,SPREADER_TRAILER;FUMIER_2014;5;ton;hectare;;;;;;;;
@@ -34,9 +35,9 @@ intervention id;Campagne;Date début;Heure début;durée (heures);procedure;desc
 33;2015;01/03/2015;09:00;3;mineral_fertilizing;Fertilisation mineral – apport 1;ZC05,ZC06,ZC07;;;YJ;TRAC_533, EPAN_01;AMMO_2014;150;kilogram;hectare;;;;;;;;
 34;2015;02/03/2015;09:00;3;mineral_fertilizing;Fertilisation mineral – apport 1;ZC27, ZC28;;;YJ;TRAC_533, EPAN_01;AMMO_2014;150;kilogram;hectare;;;;;;;;
 35;2015;02/03/2015;14:00;3;mineral_fertilizing;Fertilisation mineral – apport 1;ZC18, ZC25, ZC26;;;YJ;TRAC_533, EPAN_01;AMMO_2014;140;kilogram;hectare;;;;;;;;
-36;2015;15/03/2015;09:00;7;spraying_on_cultivation;Protection des cultures – Herbicide;ZC05,ZC06,ZC07,ZC18, ZC27, ZC28;;;YJ;TRAC_745,PULVE_01;AXIAL_2015_01;1,5;liter;hectare;;;;;;;;
+36;2015;15/03/2015;09:00;7;spraying_on_cultivation;Protection des cultures – Herbicide;ZC05,ZC06,ZC07,ZC18, ZC27, ZC28;;;YJ;TRAC_745,PULVE_01;2015-02-12_MADIT DISPERSION 20 L;1,5;liter;hectare;;;;;;;;
 37;2015;01/04/2015;09:00;3;mineral_fertilizing;Fertilisation mineral – apport 2;ZC05,ZC06,ZC07;;;DJ;TRAC_533, EPAN_01;AMMO_2014;150;kilogram;hectare;;;;;;;;
 38;2015;02/04/2015;09:00;3;mineral_fertilizing;Fertilisation mineral – apport 2;ZC27, ZC28;;;YJ;TRAC_533, EPAN_01;AMMO_2014;150;kilogram;hectare;;;;;;;;
 39;2015;02/04/2015;14:00;3;mineral_fertilizing;Fertilisation mineral – apport 2;ZC18, ZC25, ZC26;;;YJ;TRAC_533, EPAN_01;AMMO_2014;140;kilogram;hectare;;;;;;;;
-40;2015;09/04/2015;14:00:00;4;spraying_on_cultivation;Protection des cultures – Fongicide;ZC05,ZC06,ZC07,ZC18;;;DJ;TRAC_745,PULVE_01;OPUS_2015_01;1,5;liter;hectare;;;;;;;;
+40;2015;09/04/2015;14:00:00;4;spraying_on_cultivation;Protection des cultures – Fongicide;ZC05,ZC06,ZC07,ZC18;;;DJ;TRAC_745,PULVE_01;2015-02-11_PROSARO 5 L;1,5;liter;hectare;;;;;;;;
 41;2015;17/07/2015;09:00:00;3;grains_harvest;Moisson;ZC05;wheat_crop;triticum_aestivum;DJ;CLAAS_98_SL;WHEAT_GRAIN_2015;72;quintal;hectare;WHEAT_STRAW_2015;2;ton;hectare;;;;
