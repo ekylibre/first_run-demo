@@ -41,3 +41,7 @@ intervention id;Campagne;Date début;Heure début;durée (heures);procedure;desc
 40;2015;02/04/2015;14:00;3;mineral_fertilizing;Fertilisation mineral – apport 2;ZC18, ZC25, ZC26;;;YJ;TRAC_533, EPAN_01;AMMO_2014;140;kilogram;hectare;;;;;;;;
 41;2015;09/04/2015;14:00:00;4;spraying_on_cultivation;Protection des cultures – Fongicide;ZC05,ZC06,ZC07,ZC18;;;DJ;TRAC_745,PULVE_01;2015-02-11_PROSARO 5 L;1,5;liter;hectare;;;;;;;;
 42;2015;17/07/2015;09:00:00;3;grains_harvest;Moisson;ZC05;wheat_crop;triticum_aestivum;DJ;CLAAS_98_SL;WHEAT_GRAIN_2015;72;quintal;hectare;WHEAT_STRAW_2015;2;ton;hectare;;;;
+43;2016;22/10/2015;09:00:00;3;organic_fertilizing;Fertilisation organique;ZC13;;;BT;TRAC_745,SPREADER_TRAILER;FUMIER_2014;72,78;ton;;;;;;;;;
+44;2016;15/10/2015;09:00;6;sowing;Semis;ZC03, ZC04, ZC09;wheat_crop;triticum_aestivum;YJ;TRAC_533, SEM_01;WHEAT_SEED_APACHE_01;170;kilogram;hectare;;;;;;;;
+45;2016;21/01/2016;09:00:00;3;organic_fertilizing;Fertilisation organique;ZC13;;;BT;TRAC_745,SPREADER_TRAILER;FUMIER_2014;15;ton;hectare;;;;;;;;
+46;2016;15/03/2016;09:00;3;sowing;Semis;ZC13;corn_crop;zea_mays;DJ;TRAC_533, SEM_02;ZEA_SEED_SHANNON_2014;25;kilogram;hectare;;;;;;;;
