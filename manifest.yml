@@ -52,6 +52,14 @@ financial_years:
     started_on: 2001-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
     stopped_on: 2001-12-31                       # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
+  EX2015:                                        # Code d'un exercice comptable
+    started_on: 2015-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
+    stopped_on: 2015-12-31                       # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    currency: EUR
+  EX2016:                                        # Code d'un exercice comptable
+    started_on: 2016-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
+    stopped_on: 2016-12-31                       # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    currency: EUR
 journals:
   21:
     name: Crédit Agricole
@@ -81,7 +89,7 @@ catalogs:
     name: "Prix d'achat"
     usage: purchase
   STOCK:
-    name: "Prix d'achat"
+    name: "Prix de stock"
     usage: stock
 accounts:                                        # Description de compte comptables
   banque:                                        # Code d'un compte comptable de banque
