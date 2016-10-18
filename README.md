@@ -5,7 +5,7 @@ It help to populate Ekylibre with real farm data and drive developpement to be m
 
 # Demo
 
-You can view the implementation of this data throught [demo](https://demo.ekylibre.farm)
+You can view the implementation of this data throught [![demo](https://github.com/ekylibre/first_run-demo/blob/master/alamano/background.jpg)](https://demo.ekylibre.farm)
 
 # Bugs
 
