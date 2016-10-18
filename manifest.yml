@@ -111,6 +111,8 @@ cashes:
     name: Compte CRCA
     journal: '21'
     account: banque
+    bank_name: "CR CA 17-79"
+    bank_account_holder_name: Gaec Dupont
     mode: iban                                   # Mode de saisie IBAN ou BBAN (RIB)
     country: fr                                  # Code pays de la banque
     iban: "FR7611111222223333333333391"          # Numéro IBAN du compte
@@ -132,6 +134,10 @@ outgoing_payment_modes:
   cheque:
     with_accounting: true
     cash: banque
+  virement:
+    with_accounting: true
+    cash: banque
+    sepa: true
 incoming_payment_modes:
   virement:
     with_accounting: true
