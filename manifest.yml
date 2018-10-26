@@ -86,6 +86,10 @@ journals:
     name: Compte courant coop Charentes Alliance
     nature: bank
     currency: EUR
+  CCTL:
+    name: Compte courant coop Terra Lacti
+    nature: bank
+    currency: EUR
 catalogs:
   VENTE:                                         # Code d'un catalogue de prix
     name: Prix de vente                          # Nom d'un catalogue de prix
@@ -105,10 +109,13 @@ accounts:                                        # Description de compte comptab
     number: 51210000                             # Numéro d'un compte de banque
   caisse:                                        # Code d'un compte comptable de caisse
     name: Caisse                                 # Nom d'un compte comptable de caisse
-    number: 531101                               # Numéro d'un compte de caisse
+    number: 53110100                               # Numéro d'un compte de caisse
   cc_coopca:                                        # Code d'un compte comptable de caisse
     name: Compte coop ca                         # Nom d'un compte comptable de caisse
-    number: 47201                                # Numéro d'un compte de caisse
+    number: 47201000                                # Numéro d'un compte de caisse
+  cc_cooptl:                                        # Code d'un compte comptable de caisse
+    name: Compte coop tl                         # Nom d'un compte comptable de caisse
+    number: 47202000
 cashes:
   caisse:                                        # Code d'une trésorerie
     name: Caisse                                 # Nom d'une trésorerie
@@ -125,9 +132,17 @@ cashes:
     country: fr                                  # Code pays de la banque
     iban: "FR7611111222223333333333391"          # Numéro IBAN du compte
   cc_coopca:
-    name: Compte courant activité Coop
+    name: Compte courant activité Coop CA
     journal: CCCA
     account: cc_coopca
+    nature: "associate_account"
+    mode: "" 							#mode
+    country: fr 						#code pays
+    iban: "" 			#numéro IBAN du compte
+  cc_cooptl:
+    name: Compte courant activité Coop TL
+    journal: CCTL
+    account: cc_cooptl
     nature: "associate_account"
     mode: "" 							#mode
     country: fr 						#code pays
@@ -136,6 +151,9 @@ outgoing_payment_modes:
   cc_coopca:
     with_accounting: true
     cash: cc_coopca
+  cc_cooptl:
+    with_accounting: true
+    cash: cc_cooptl
   cb:
     with_accounting: true
     cash: banque
@@ -147,6 +165,12 @@ outgoing_payment_modes:
     cash: banque
     sepa: true
 incoming_payment_modes:
+  cc_coopca:
+    with_accounting: true
+    cash: cc_coopca
+  cc_cooptl:
+    with_accounting: true
+    cash: cc_cooptl  
   virement:
     with_accounting: true
     cash: banque
