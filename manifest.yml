@@ -39,43 +39,34 @@ financial_years:
   EX2010:                                        # Code d'un exercice comptable
     started_on: 2010-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
     stopped_on: 2010-12-31
-    already_existing: true
   EX2011:                                        # Code d'un exercice comptable
     started_on: 2011-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
     stopped_on: 2011-12-31
-    already_existing: true
   EX2012:                                        # Code d'un exercice comptable
     started_on: 2012-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
     stopped_on: 2012-12-31
-    already_existing: true
   EX2013:                                        # Code d'un exercice comptable
     started_on: 2013-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
     stopped_on: 2013-12-31
-    already_existing: true
   EX2014:                                        # Code d'un exercice comptable
     started_on: 2014-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
-    stopped_on: 2014-12-31
-    already_existing: true                          # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    stopped_on: 2014-12-31                          # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
   EX2015:                                        # Code d'un exercice comptable
     started_on: 2015-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
-    stopped_on: 2015-12-31
-    already_existing: true                       # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    stopped_on: 2015-12-31                    # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
   EX2016:                                        # Code d'un exercice comptable
     started_on: 2016-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
-    stopped_on: 2016-12-31
-    already_existing: true                       # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    stopped_on: 2016-12-31                      # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
   EX2017:                                        # Code d'un exercice comptable
     started_on: 2017-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
-    stopped_on: 2017-12-31
-    already_existing: true                       # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    stopped_on: 2017-12-31                     # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
   EX2018:                                        # Code d'un exercice comptable
     started_on: 2018-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
-    stopped_on: 2018-12-31
-    already_existing: true                       # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    stopped_on: 2018-12-31                      # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
 journals:
   21:
