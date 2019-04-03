@@ -9,7 +9,7 @@ sales_conditions: "Une indemnité forfaitaire de 40 € sera réclamée pour fra
 demo: true                                       # Mode démo (oui/non)
 create_activities_from_telepac: true             # Création des activités uniquement à partir des fichiers TELEPAC
 company:
-  last_name: GAEC DUPONT                         # Nom
+  last_name: GAEC JOULIN                         # Nom
   activity_code: 0111Z
   siret: 32627372900011
   vat_number: FR17326273729				 # Nom
@@ -23,7 +23,7 @@ company:
 users:
   admin@ekylibre.org:                            # Adresse e-mail de l'utilisateur 1 qui sert d'identifiant
     first_name: Christian                        # Prénom
-    last_name: DUPONT                            # Nom de famille
+    last_name: JOULIN                            # Nom de famille
     password: 12345678                           # Mot de passe
     employed: true
   veto@ekylibre.org:                             # Adresse e-mail de l'utilisateur 2 qui sert d'identifiant
@@ -87,7 +87,7 @@ journals:
     nature: bank
     currency: EUR
   CCTL:
-    name: Compte courant coop Terra Lacti
+    name: Compte courant coop Terra Lacta
     nature: bank
     currency: EUR
 catalogs:
@@ -127,7 +127,7 @@ cashes:
     journal: '21'
     account: banque
     bank_name: "CR CA 17-79"
-    bank_account_holder_name: Gaec Dupont
+    bank_account_holder_name: Gaec Joulin
     mode: iban                                   # Mode de saisie IBAN ou BBAN (RIB)
     country: fr                                  # Code pays de la banque
     iban: "FR7611111222223333333333391"          # Numéro IBAN du compte
