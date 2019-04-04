@@ -9,4 +9,4 @@ intervention id;Campagne;Date début;Heure début;durée (heures);procedure;desc
 8;2018;22/05/2018;09:00:00;3;plowing;Labour;P_G4_ZC23_2018;;;DJ;TRAC_R110, PLOW_02;;;;;;;;;;;;
 9;2018;23/05/2018;09:00:00;3;raking;Herse rotative;P_G4_ZC23_2018;;;DJ;TRAC_745, PLOW_05;;;;;;;;;;;;
 10;2018;28/05/2018;09:00:00;3;sowing_without_plant_output;Semis 250k ha;P_G4_ZC23_2018;soy_crop;glycine_max;DJ;TRAC_533, SEM_01;SOY_SEED;80;kilogram;hectare;;;;;;;;
-11;2018;05/10/2018;09:00:00;3;harvesting;Recolte;P_G4_ZC23_2018;;;DJ;CLAAS_98_SL;GRAIN_SOJA;15;quintal;hectare;;;;;;;;
+11;2018;05/10/2018;09:00:00;3;harvesting;Recolte;P_G4_ZC23_2018;;;DJ;CLAAS_98_SL;SOY_GRAIN_2018;15;quintal;hectare;;;;;;;;
