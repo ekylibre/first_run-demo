@@ -1,8 +1,8 @@
 intervention id;Campagne;Date début;Heure début;durée (heures);procedure;description;Zones cultivables – parcelles – cultures;cible variant;cible variété;code personnes;code equipements;code produit 1;quantité produit 1;unité produit 1;unité de surface 1;code produit 2;quantité produit 2;unité produit 2;unité de surface 2;code produit 3;quantité produit 3;unité produit 3;unité de surface 3
-1;2017;23/04/17;09:00:00;3;sowing;Semis mais 70k ha;P_Z12_ZC17_2017;corn_crop;zea_mays;DJ;TRAC_533, SEM_02;ZEA_SEED_2017;25;kilogram;hectare;;;;;;;;
-2;2017;12/10/17;09:00:00;3;harvesting;Recolte;P_Z12_ZC17_2017;;;;CLAAS_98_SL;CORN_GRAIN_2017;25;quintal;hectare;;;;;;;;
-3;2018;25/10/17;09:00:00;3;superficial_plowing;Cover crop;P_T32_ZC17_2018;;;DJ;TRAC_745, PLOW_05;;;;;;;;;;;;
-4;2018;07/11/17;09:00:00;3;plowing;Labour;P_T32_ZC17_2018;;;DJ;TRAC_R110, PLOW_02;;;;;;;;;;;;
-5;2018;08/11/17;09:00:00;3;sowing;Semis blé rubisko;P_T32_ZC17_2018;wheat_crop;triticum_aestivum;DJ;TRAC_533, SEM_01;WHEAT_SEED_RUBISKO_2018;145;kilogram;hectare;;;;;;;;
-6;2018;26/04/18;09:00:00;3;organic_fertilizing;Fertilisation organique ORGABIO;P_T32_ZC17_2018;;;DJ;TRAC_745,SPREADER_TRAILER;ORGABIO_2018;530;kilogram;hectare;;;;;;;;
-7;2018;28/07/18;09:00:00;3;harvesting;Recolte;P_T32_ZC17_2018;;;;CLAAS_98_SL;WHEAT_GRAIN_2018;25;quintal;hectare;;;;;;;;
+1;2017;23/04/2017;09:00:00;3;sowing_without_plant_output;Semis mais 70k ha;P_Z12_ZC17_2017;corn_crop;zea_mays;DJ;TRAC_533, SEM_02;ZEA_SEED_2017;25;kilogram;hectare;;;;;;;;
+2;2017;12/10/2017;09:00:00;3;harvesting;Recolte;P_Z12_ZC17_2017;;;;CLAAS_98_SL;CORN_GRAIN_2017;25;quintal;hectare;;;;;;;;
+3;2018;25/10/2017;09:00:00;3;superficial_plowing;Cover crop;P_T32_ZC17_2018;;;DJ;TRAC_745, PLOW_05;;;;;;;;;;;;
+4;2018;07/11/2017;09:00:00;3;plowing;Labour;P_T32_ZC17_2018;;;DJ;TRAC_R110, PLOW_02;;;;;;;;;;;;
+5;2018;08/11/2017;09:00:00;3;sowing_without_plant_output;Semis blé rubisko;P_T32_ZC17_2018;wheat_crop;triticum_aestivum;DJ;TRAC_533, SEM_01;WHEAT_SEED_RUBISKO_2018;145;kilogram;hectare;;;;;;;;
+6;2018;26/04/2018;09:00:00;3;organic_fertilizing;Fertilisation organique ORGABIO;P_T32_ZC17_2018;;;DJ;TRAC_745,SPREADER_TRAILER;ORGABIO_2018;530;kilogram;hectare;;;;;;;;
+7;2018;28/07/2018;09:00:00;3;harvesting;Recolte;P_T32_ZC17_2018;;;;CLAAS_98_SL;WHEAT_GRAIN_2018;25;quintal;hectare;;;;;;;;
