@@ -20,7 +20,7 @@ Ammonitrate 33 vrac,bulk_ammonitrate_33,AMMO_2014,S04_D01,2013-01-01,preparation
 Solution ternaire liquide 15.30 densité 1.4,mixed_liquid_fertilizer,,S04_D01,2013-01-01,preparation,,,Population : 8 ; net_volume: 0.714cubic_meter ;  nitrogen_concentration: 15percent ; phosphorus_concentration: 30percent,,420
 Urée,bulk_urea_46,UREE_2014,S04_D01,2013-01-01,preparation,,,Population : 15,,395
 Solution 10_25,liquid_10_25_d1.4,,S04_D01,2013-01-01,preparation,,,Population : 5,,430
-Orgabio 10 4 0,GEN_FERT_ORG,ORGABIO_2018,S04_D01,2017-01-01,preparation,,,Population : 5,,350
+Orgabio 10 4 0,GEN_FERT_ORG,ORGABIO_2018,S04_D01,2017-01-01,preparation,,,Population : 5 ; nitrogen_concentration: 10percent ; phosphorus_concentration: 4percent,,350
 Fumier de l'exploitation,cattle_manure,FUMIER_2014,S05_D05,2013-01-01,manure,bos,,Population : 4.55,,61
 ,EAU (m³),,,,,,,,,
 Eau de la rivière Bruant,irrigation_water,,S09_D02,2013-01-01,,,,Population : 500 ; nitrogen_concentration: 45parts_per_million,,
