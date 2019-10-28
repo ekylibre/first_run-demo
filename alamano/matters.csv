@@ -15,6 +15,7 @@ Semence d'épeautre,spelt_seed_25,,S05_D07,2013-01-01,seed,triticum_spelta,,Popu
 Semence de blé dur MIRADOUX,miradoux_hard_wheat_seed_25,HARD_WHEAT_SEED_MIRADOUX_01,S05_D07,2013-01-01,seed,triticum_durum_miradoux,,Population : 6,,5.23
 Semence de mais 2017,GEN_SEMENCE,ZEA_SEED_2017,S05_D07,2017-01-01,seed,zea_mays,,Population : 15,,
 Semence de blé Rubisko,GEN_SEMENCE,WHEAT_SEED_RUBISKO_2018,S05_D07,2017-01-01,seed,triticum_aestivum,,Population : 15,,
+Semence d’orge Amistar,GEN_SEMENCE,BARLEY_SEED_AMISTAR_2016,S05_D07,2016-01-01,seed,hordeum_hexastichum,,Population : 15,,
 ,FERTILISANT,,,,,,,,,
 Ammonitrate 33 vrac,bulk_ammonitrate_33,AMMO_2014,S04_D01,2013-01-01,preparation,,,Population : 2.47,,387
 Solution ternaire liquide 15.30 densité 1.4,mixed_liquid_fertilizer,,S04_D01,2013-01-01,preparation,,,Population : 8 ; net_volume: 0.714cubic_meter ;  nitrogen_concentration: 15percent ; phosphorus_concentration: 30percent,,420
@@ -61,6 +62,7 @@ Blé tendre 2015,wheat_grain,WHEAT_GRAIN_2015,SILO_EXT_01,2015-01-01,,,,Populati
 Mais 2017,corn_grain,CORN_GRAIN_2017,SILO_EXT_02,2014-01-01,,,,Population : 1,,
 Blé tendre 2018,wheat_grain,WHEAT_GRAIN_2018,SILO_EXT_01,2017-01-01,,,,Population : 1,,250
 Soja 2018,soy_grain,SOY_GRAIN_2018,SILO_EXT_01,2017-01-01,,,,Population : 1,,
+Orge 2017,barley_grain,BARLEY_GRAIN_2017,SILO_EXT_01,2017-01-01,,,,Population : 1,,
 Mais en stockage à façon,corn_grain,CORN_GRAIN_2014,SILO_EXT_02,2014-01-01,,,,Population : 12,,210
 Merlot Rouge 2012,wine,,TANK_1_S05_D06,2012-10-01,wine,,,Population : 40; reference_year : 2012; certification : bordeaux_rouge,,100.20
 Merlot Rouge 2013,wine,,TANK_2_S05_D06,2013-10-01,wine,,,Population : 50; reference_year : 2013; certification : bordeaux_superieur_rouge,,111.20

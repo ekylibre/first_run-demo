@@ -36,37 +36,25 @@ users:
     password: 12345678                           # Mot de passe
 chart_of_account: fr_pcga                        # Code plan comptable
 financial_years:
-  EX2010:                                        # Code d'un exercice comptable
-    started_on: 2010-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
-    stopped_on: 2010-12-31
-  EX2011:                                        # Code d'un exercice comptable
-    started_on: 2011-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
-    stopped_on: 2011-12-31
-  EX2012:                                        # Code d'un exercice comptable
-    started_on: 2012-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
-    stopped_on: 2012-12-31
-  EX2013:                                        # Code d'un exercice comptable
-    started_on: 2013-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
-    stopped_on: 2013-12-31
-  EX2014:                                        # Code d'un exercice comptable
-    started_on: 2014-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
-    stopped_on: 2014-12-31                          # Fin d'un exercice comptable (format AAAA-MM-JJ)
-    currency: EUR
-  EX2015:                                        # Code d'un exercice comptable
-    started_on: 2015-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
-    stopped_on: 2015-12-31                    # Fin d'un exercice comptable (format AAAA-MM-JJ)
-    currency: EUR
   EX2016:                                        # Code d'un exercice comptable
     started_on: 2016-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
-    stopped_on: 2016-12-31                      # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    stopped_on: 2016-12-31
+    already_existing: true                      # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
   EX2017:                                        # Code d'un exercice comptable
     started_on: 2017-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
-    stopped_on: 2017-12-31                     # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    stopped_on: 2017-12-31
+    already_existing: true                     # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
   EX2018:                                        # Code d'un exercice comptable
     started_on: 2018-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
-    stopped_on: 2018-12-31                      # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    stopped_on: 2018-12-31
+    already_existing: true                      # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    currency: EUR
+  EX2019:                                        # Code d'un exercice comptable
+    started_on: 2019-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
+    stopped_on: 2019-12-31
+    already_existing: true                      # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
 journals:
   21:
@@ -77,13 +65,8 @@ journals:
     name: Caisse
     nature: cash
     currency: EUR
-  VUSA:
-    name: Ventes États-Unis
-    closed_on: 2013-12-31
-    nature: sales
-    currency: USD
   CCCA:
-    name: Compte courant coop Charentes Alliance
+    name: Compte courant coop Ocealio
     nature: bank
     currency: EUR
   CCTL:
@@ -126,23 +109,25 @@ cashes:
     name: Compte CRCA
     journal: '21'
     account: banque
-    bank_name: "CR CA 17-79"
+    bank_name: "CA17"
     bank_account_holder_name: Gaec Joulin
     mode: iban                                   # Mode de saisie IBAN ou BBAN (RIB)
     country: fr                                  # Code pays de la banque
-    iban: "FR7611111222223333333333391"          # Numéro IBAN du compte
+    iban: "FR7611706410292993961500245"          # Numéro IBAN du compte
   cc_coopca:
-    name: Compte courant activité Coop CA
+    name: Compte courant activité Coop Ocealio
     journal: CCCA
     account: cc_coopca
+    bank_name: "OCEALIO"
     nature: "associate_account"
     mode: "" 							#mode
     country: fr 						#code pays
     iban: "" 			#numéro IBAN du compte
   cc_cooptl:
-    name: Compte courant activité Coop TL
+    name: Compte courant activité Coop Terri Lacti
     journal: CCTL
     account: cc_cooptl
+    bank_name: "TERRILACTI"
     nature: "associate_account"
     mode: "" 							#mode
     country: fr 						#code pays
