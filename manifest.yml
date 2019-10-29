@@ -8,6 +8,7 @@ host: demo.ekylibre.farm
 sales_conditions: "Une indemnité forfaitaire de 40 € sera réclamée pour frais de recouvrement, en cas de retard de paiement" 		# Conditions de vente par défaut
 demo: true                                       # Mode démo (oui/non)
 create_activities_from_telepac: true             # Création des activités uniquement à partir des fichiers TELEPAC
+permanent_stock_inventory: false
 company:
   last_name: GAEC JOULIN                         # Nom
   activity_code: 0111Z
