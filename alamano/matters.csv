@@ -1,18 +1,16 @@
 nom,variant_nomen,code produit,code place,date naissance,variété,dérivé,nom du propriétaire,indicateurs,notes,prix unitaire
 ,SEMENCE ET PLANT,,,,,,,,,
-Plant de vigne Trad(GS-RN) MERLOT_NOIR SO4,merlot_noir_so4_vine_seedling,,S05_D07,2013-01-01,seedling,vitis_vinifera_merlot_noir,,Population : 8500,,0.96
-Plant de vigne Trad(GS-RN) UGNI BLANC SO4,so4_vine_seedling,,S05_D07,2013-01-01,seedling,vitis_vinifera_ugni_blanc,,Population : 16250,,0.93
 Semence de blé dur,hard_wheat_seed_25,,S05_D07,2013-01-01,seed,triticum_durum,,Population : 4,,3.39
-Semence de blé tendre CAPHORN,wheat_seed_25,WHEAT_SEED_CAPHORN_01,S05_D07,2013-01-01,seed,triticum_aestivum_caphorn,,Population : 6,,3.40
+Semence de blé tendre CAPHORN,wheat_seed_25,WHEAT_SEED_CAPHORN_01,S05_D07,2013-01-01,seed,triticum_aestivum,,Population : 6,,3.40
 Semence de tournesol,seed,,S05_D07,2013-01-01,seed,helianthus,,Population : 2 ; net_mass : 40kg,,3.56
-Semence de blé tendre APACHE,wheat_seed_25,WHEAT_SEED_APACHE_01,S05_D07,2013-01-01,seed,triticum_aestivum_apache,,Population : 6,,3.30
+Semence de blé tendre APACHE,wheat_seed_25,WHEAT_SEED_APACHE_01,S05_D07,2013-01-01,seed,triticum_aestivum,,Population : 6,,3.30
 Semence d'orge d'hiver,winter_barley_seed_25,WINTER_BARLEY_SEED_01,S05_D07,2013-01-01,seed,hordeum_hexastichum,,Population : 6,,3.56
-Semence de maïs,corn_seed_25,ZEA_SEED_SHANNON_2014,S05_D07,2013-01-01,seed,zea_mays_shannon,,Population : 6,,4.10
+Semence de maïs,corn_seed_25,ZEA_SEED_SHANNON_2014,S05_D07,2013-01-01,seed,zea_mays,,Population : 6,,4.10
 Semence de prairie,grass_seed_25,,S05_D07,2013-01-01,seed,poa,,Population : 6,,5.23
 Semence de sorgho,sorghum_seed_25,,S05_D07,2013-01-01,seed,sorghum,,Population : 6,,5.63
 Semence de soja,soy_seed,SOY_SEED,S05_D07,2013-01-01,seed,glycine_max,,Population : 6,,5.63
 Semence d'épeautre,spelt_seed_25,,S05_D07,2013-01-01,seed,triticum_spelta,,Population : 6,,5.36
-Semence de blé dur MIRADOUX,miradoux_hard_wheat_seed_25,HARD_WHEAT_SEED_MIRADOUX_01,S05_D07,2013-01-01,seed,triticum_durum_miradoux,,Population : 6,,5.23
+Semence de blé dur MIRADOUX,miradoux_hard_wheat_seed_25,HARD_WHEAT_SEED_MIRADOUX_01,S05_D07,2013-01-01,seed,triticum_durum,,Population : 6,,5.23
 Semence de mais 2015,GEN_SEMENCE,ZEA_SEED_2015,S05_D07,2015-01-01,seed,zea_mays,,Population : 15,,
 Semence de mais 2017,GEN_SEMENCE,ZEA_SEED_2017,S05_D07,2017-01-01,seed,zea_mays,,Population : 15,,
 Semence de blé Rubisko,GEN_SEMENCE,WHEAT_SEED_RUBISKO_2014,S05_D07,2013-01-01,seed,triticum_aestivum,,Population : 15,,
@@ -103,7 +101,7 @@ ARCACID,dairy_equipment_cleaner,,S05_D09,2014-01-01,,,,Population : 2.00,,23.56
 FERT HYGIENOR,livestock_cleanliness_product,,S05_D09,2014-01-01,,,,Population : 16.00,,33.12
 PHYTEOS,livestock_cleanliness_product,,S05_D09,2014-01-01,,,,Population : 2.00,,120.47
 ,PRODUIT REPRODUCTION ANIMALE,,,,,,,,,
-Paillette sexée GIROPHARE,bos_vial,,COLD_TANK_01,2014-01-01,vial,bos_taurus_normande,,"Population : 4, sex : female",,45.25
+Paillette sexée GIROPHARE,bos_vial,,COLD_TANK_01,2014-01-01,vial,bos_taurus,,"Population : 4, sex : female",,45.25
 ,ALIMENT,,,,,,,,,
 ECA PACK TONUS - Silo gauche,bulk_animal_food,,TANK_1G_S05,2014-01-01,,,,Population : 0.50,,339.90
 ECA PACK TONUS - Silo droite,bulk_animal_food,,TANK_1D_S05,2014-01-01,,,,Population : 0.40,,339.90
