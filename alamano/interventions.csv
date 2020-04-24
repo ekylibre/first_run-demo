@@ -3,7 +3,7 @@ intervention id;Campagne;Date début;Heure début;durée (heures);procedure;desc
 2;2015;17/05/2015;09:00:00;3;spraying;Pulvérisation;ZC22;;;DJ;TRAC_745, PULVE_01;BROMOTRIL_225_2016;0,5;liter;hectare;CALLISTO_2015_01;0,5;liter;hectare;ELITE_4SC_2016;0,5;liter;hectare
 3;2015;15/09/2015;09:00:00;3;direct_silage;Ensilage;ZC22;;;DJ;CLAAS_JAGUAR_870;ENSILAGE_MAIS_2016;17;ton;hectare;;;;;;;;
 4;2015;29/10/2014;09:00:00;3;sowing_without_plant_output;Semis blé Arrezo Euclide Rubisko;ZC06;wheat_crop;triticum_aestivum;DJ;TRAC_533, SEM_01;WHEAT_SEED_RUBISKO_2014;165;kilogram;hectare;;;;;;;;
-5;2015;09/03/2015;09:00:00;3;spraying;Pulvérisation;ZC06;;;DJ;TRAC_745, PULVE_01;MEXTRA_2015;1,4;liter;hectare;ATLANTIS_WG_2015;0,4;liter;hectare;;;;
+5;2015;09/03/2015;09:00:00;3;spraying;Pulvérisation;ZC06;;;DJ;TRAC_745, PULVE_01;MEXTRA_2015;1,4;liter;hectare;ATLANTIS_WG_2015;0,4;kilogram;hectare;;;;
 6;2015;30/04/2015;09:00:00;3;spraying;Pulvérisation;ZC06;;;DJ;TRAC_745, PULVE_01;AVIATOR_XPRO_2015;0,8;liter;hectare;;;;;;;;
 7;2015;16/07/2015;09:00:00;3;harvesting;Recolte;ZC06;;;DJ;CLAAS_98_SL;WHEAT_GRAIN_2015;55;quintal;hectare;;;;;;;;
 8;2016;25/10/2015;09:00:00;3;sowing_without_plant_output;Semis blé Arrezo Euclide Rubisko;ZC06;wheat_crop;triticum_aestivum;DJ;TRAC_533, SEM_01;WHEAT_SEED_RUBISKO_2015;135;kilogram;hectare;;;;;;;;
