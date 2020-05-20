@@ -1,5 +1,5 @@
 Prénom,Nom,Type,Client CC,Fournisseur CC,Adresse,code postal,Ville,Telephone,Fax,Portable,Lien,Nom entité,pays,email,Actif,Prospect,Transporteur,SIREN,TVA,APE
-Christian,JOULIN,person,411,401,10 rue des Vergers,17250,SAINT-PORCHAIRE,05 46 95 53 90,,,management,GAEC JOULIN,fr,christian.joulin@laposte.net,1,,,,,
+Frédéric ,AURIOL,person,411,401,10 rue des Vergers,17250,SAINT-PORCHAIRE,05 46 95 53 90,,,management,GAEC JOULIN,fr,christian.joulin@laposte.net,1,,,,,
 Laurent,JOULIN,person,411,401,8 rue Bouil Bleu,17250,SAINT-PORCHAIRE,05 46 95 65 56,,,management,GAEC JOULIN,fr,,1,,,,,
 Dominique,JOULIN,person,411,401,le petit palet,17250,LES ESSARDS,05 46 95 64 48,,,management,GAEC JOULIN,fr,,1,,,,,
 ,MSI 17,legal_entity,431,431,Fief Montlouis,17100,SAINTES,05 46 95 00 00,,,,,fr,,1,,,,,
