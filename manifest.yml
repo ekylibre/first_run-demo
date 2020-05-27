@@ -34,8 +34,8 @@ users:
     last_name: BEAUJAN                          # Nom de famille
     password: 12345678                           # Mot de passe
   comptable@ekylibre.org:                        # Adresse e-mail de l'utilisateur 3 qui sert d'identifiant
-    first_name: Michel                           # Prénom
-    last_name: DURAND                            # Nom de famille
+    first_name: Aymeric                           # Prénom
+    last_name: NICOLAS                            # Nom de famille
     password: 12345678
 chart_of_account: fr_pcga                        # Code plan comptable
 financial_years:

@@ -2,7 +2,7 @@ code_activite,nom activite,code variant support,type_activite,campagne,code supp
 ,ADMINISTRATIF,,,,,,,,,,,
 administrative,administratif,,auxiliary,2020,,2020-01-01,2020-12-31,,,,,
 ,VIGNE,,,,,,,,,,,
-vine,Vigne Bio,vine_grape_crop,,2020,,,,,,,,
+vine,Vignes Bio,vine_grape_crop,,2020,,,,,,,,
 vine,Plantations nouvelles,vine_grape_crop,,2020,,,,,,,,
 ,TRANSFORMATION,,,,,,,,,,,
 winery,Chai,wine,,2020,,,,,,,,
