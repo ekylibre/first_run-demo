@@ -57,6 +57,11 @@ financial_years:
     stopped_on: 2019-12-31
     already_existing: true                      # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
+  EX2020:                                        # Code d'un exercice comptable
+    started_on: 2020-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
+    stopped_on: 2020-12-31
+    already_existing: true                      # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    currency: EUR
 journals:
   21:
     name: Crédit Agricole
