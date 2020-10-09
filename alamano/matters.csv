@@ -2,7 +2,7 @@ nom,variant_nomen,code produit,code place,date naissance,variété,dérivé,nom 
 ,SEMENCE ET PLANT,,,,,,,,,
 Semence de blé dur,hard_wheat_seed_25,,S05_D07,2013-01-01,seed,triticum_durum,,Population : 4,,3.39
 Semence de blé tendre CAPHORN,wheat_seed_25,WHEAT_SEED_CAPHORN_01,S05_D07,2013-01-01,seed,triticum_aestivum,,Population : 6,,3.40
-Semence de tournesol,seed,,S05_D07,2013-01-01,seed,helianthus,,Population : 2,,3.56
+Semence de tournesol,sunflower_seed_150tg,SUNFLOWER_01,S05_D07,2013-01-01,seed,helianthus,,Population : 10,,3.56
 Semence de blé tendre APACHE,wheat_seed_25,WHEAT_SEED_APACHE_01,S05_D07,2013-01-01,seed,triticum_aestivum,,Population : 6,,3.30
 Semence d'orge d'hiver,winter_barley_seed_25,WINTER_BARLEY_SEED_01,S05_D07,2013-01-01,seed,hordeum_hexastichum,,Population : 6,,3.56
 Semence de maïs,corn_seed_25,ZEA_SEED_SHANNON_2014,S05_D07,2013-01-01,seed,zea_mays,,Population : 6,,4.10

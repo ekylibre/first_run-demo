@@ -28,3 +28,6 @@ intervention id;Campagne;Date début;Heure début;durée (heures);procedure;desc
 27;2019;05/11/2018;09:00:00;3;sowing_without_plant_output;Semis Prairie Luzerne;ZC22;lucerne_crop;medicago_sativa;DJ;TRAC_533, SEM_01;LUCERNE_SEED_2019;145;kilogram;hectare;;;;;;;;
 28;2018;03/11/2017;09:00:00;3;sowing_without_plant_output;Semis Orge;ZC06;winter_barley_crop;hordeum_hexastichum;DJ;TRAC_533, SEM_01;WINTER_BARLEY_SEED_01;125;kilogram;hectare;;;;;;;;
 29;2018;05/07/2018;09:00:00;3;harvesting;Recolte;ZC06;;;DJ;CLAAS_98_SL;WINTER_BARLEY_GRAIN_2018;30;quintal;hectare;;;;;;;;
+30;2020;04/11/2019;09:00:00;6;superficial_plowing;Cover crop;ZC28, ZC23, ZC04, ZC03;;;AJ;TRAC_745, PLOW_05;;;;;;;;;;;;
+31;2020;15/03/2020;09:00:00;6;sowing_without_plant_output;Semis Tournesol;ZC16, ZC17;sunflower_crop;helianthus;DJ;TRAC_533, SEM_02;SUNFLOWER_01;50;kilogram;hectare;;;;;;;;
+32;2020;16/03/2020;09:00:00;8;sowing_without_plant_output;Semis Tournesol;ZC19, ZC18, ZC20;sunflower_crop;helianthus;DJ;TRAC_533, SEM_02;SUNFLOWER_01;55;kilogram;hectare;;;;;;;;
