@@ -31,3 +31,7 @@ intervention id;Campagne;Date début;Heure début;durée (heures);procedure;desc
 30;2020;04/11/2019;09:00:00;6;superficial_plowing;Cover crop;ZC28, ZC23, ZC04, ZC03;;;AJ;TRAC_745, PLOW_05;;;;;;;;;;;;
 31;2020;15/03/2020;09:00:00;6;sowing_without_plant_output;Semis Tournesol;ZC16, ZC17;sunflower_crop;helianthus;DJ;TRAC_533, SEM_02;SUNFLOWER_01;50;kilogram;hectare;;;;;;;;
 32;2020;16/03/2020;09:00:00;8;sowing_without_plant_output;Semis Tournesol;ZC19, ZC18, ZC20;sunflower_crop;helianthus;DJ;TRAC_533, SEM_02;SUNFLOWER_01;55;kilogram;hectare;;;;;;;;
+33;2019;25/03/2019;09:00:00;5;sowing_without_plant_output;Semis Tournesol;ZC15, ZC18, ZC19;sunflower_crop;helianthus;DJ;TRAC_533, SEM_02;SUNFLOWER_01;65;kilogram;hectare;;;;;;;;
+34;2019;20/03/2019;09:00:00;8;superficial_plowing;Cover crop;ZC15, ZC18, ZC19;;;CJ;TRAC_745, PLOW_05;;;;;;;;;;;;
+35;2019;05/05/2019;09:00:00;5;hoeing;Binage;ZC15, ZC18, ZC19;;;DJ;TRAC_745, PLOW_07;;;;;;;;;;;;
+36;2019;28/05/2019;09:00:00;5;hoeing;Binage;ZC15, ZC18, ZC19;;;DJ;TRAC_745, PLOW_07;;;;;;;;;;;;
