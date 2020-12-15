@@ -95,7 +95,10 @@ catalogs:
 accounts:                                        # Description de compte comptables
   banque:                                        # Code d'un compte comptable de banque
     name: Banque CRCA                            # Nom d'un compte de banque
-    number: 51210000                             # Numéro d'un compte de banque
+    number: 51201000                             # Numéro d'un compte de banque
+  suspense_banque:                                        # Code d'un compte comptable de banque
+    name: Banque CRCA attente                           # Nom d'un compte de banque
+    number: 51101000                             # Numéro d'un compte de banque
   caisse:                                        # Code d'un compte comptable de caisse
     name: Caisse                                 # Nom d'un compte comptable de caisse
     number: 53110100                               # Numéro d'un compte de caisse
@@ -113,8 +116,10 @@ cashes:
     account: caisse                              # Code comptable d'une trésorerie (décrit au dessus)
   banque:
     name: Compte CRCA
+    nature: bank_account
     journal: '21'
     account: banque
+    suspense_account: suspense_banque
     bank_name: "CA17"
     bank_account_holder_name: Gaec Joulin
     mode: iban                                   # Mode de saisie IBAN ou BBAN (RIB)
