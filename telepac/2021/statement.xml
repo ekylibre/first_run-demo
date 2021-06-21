@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<producteurs xmlns="urn:x-telepac:fr.gouv.agriculture.telepac:echange-producteur" xmlns:gml="http://www.opengis.net/gml"><producteur numero-pacage="017168772" campagne="Courante" fichier-xsd="Echanges-producteur-export-2021-V9">
+ <demandeur certificat-environnemental="false">
+  <identification-societe>
+   <exploitation>EARL JOULIN</exploitation>
+  </identification-societe>
+  <siret>32627372900011</siret>
+  <iban compte-iban="FR7613335000400417071728245" bic="CEPAFRPP333" titulaire="HAURIGOT PIERRE" />
+  <courriel>gaec.joulin@gmail.com</courriel>
+ </demandeur>
+ <rpg>
+  <ilot numero-ilot-reference="064012238778" numero-ilot="1">
+   <commune>64488</commune>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440271.49,6259581.284 440274.701,6259575.801 440300.768,6259550.682 440318.432,6259533.707 440330.219,6259516.447 440341.87,6259491.742 440356.864,6259461.325 440361.603,6259456.585 440386.937,6259426.426 440401.1575,6259416.5177 
+        440422.0597,6259433.7156 440449.3118,6259463.349 440478.6806,6259500.6553 440509.9015,6259540.6075 440515.9869,6259551.1908 440516.2515,6259557.8054 440515.9869,6259564.1555 440415.473,6259698.995 440405.248,6259695.964 440390.771,6259691.138 
+        440379.198,6259687.584 440367.2908,6259679.7786 440350.0929,6259668.4015 440332.8949,6259655.9661 440315.9615,6259652.2619 440297.7052,6259646.7056 440271.5114,6259633.4764 440256.6947,6259626.8618 440249.551,6259623.6868 440271.49,6259581.284 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="1">
+      <culture-principale production-semences="false">
+       <code-culture>MIS</code-culture>
+       <declare-sie>false</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440271.49,6259581.284 440274.701,6259575.801 440300.768,6259550.682 440318.432,6259533.707 440330.219,6259516.447 440341.87,6259491.742 440356.864,6259461.325 440361.603,6259456.585 440386.937,6259426.426 440401.1575,6259416.5177 
+        440422.0597,6259433.7156 440449.3118,6259463.349 440478.6806,6259500.6553 440509.9015,6259540.6075 440515.9869,6259551.1908 440516.2515,6259557.8054 440515.9869,6259564.1555 440415.473,6259698.995 440405.248,6259695.964 440390.771,6259691.138 
+        440379.198,6259687.584 440367.2908,6259679.7786 440350.0929,6259668.4015 440332.8949,6259655.9661 440315.9615,6259652.2619 440297.7052,6259646.7056 440271.5114,6259633.4764 440256.6947,6259626.8618 440249.551,6259623.6868 440271.49,6259581.284 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>405</surface-admissible>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot-reference="064012238779" numero-ilot="2">
+   <commune>64516</commune>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441217.989,6253988.082 441254.035,6253905.043 441257.4933,6253898.835 441260.6894,6253894.7572 441269.0027,6253884.1506 441281.5043,6253869.7307 441290.1694,6253865.5834 441318.2153,6253855.7938 441346.2612,6253845.9182 441426.0994,6253839.4825 
+        441463.6042,6253836.4593 441450.041,6253858.336 441471.4094,6253872.7271 441482.5219,6253878.0188 441494.8912,6253870.7891 441508.9141,6253868.6724 441509.0641,6253868.4249 441514.2058,6253859.9411 441515.198,6253830.7708 441518.4507,6253830.0854 
+        441538.6913,6253827.7041 441559.5935,6253825.3229 441574.6784,6253824.0528 441580.7639,6253823.5236 441584.2034,6253824.8465 441586.5847,6253828.2861 441576.7951,6253891.7863 441574.1493,6253906.0738 441572.0326,6253921.1551 441566.4763,6253952.9051 
+        441563.3013,6253960.3135 441559.068,6253966.6635 441527.02,6253963.789 441440.025,6253961.759 441439.921,6253963.668 441437.659,6253994.623 441436.283,6254008.26 441367.751,6253996.808 441366.832,6253996.745 441366.092,6253996.652 
+        441359.039,6253995.391 441217.989,6253988.082 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="1">
+      <culture-principale production-semences="false">
+       <code-culture>AVH</code-culture>
+       <declare-sie>false</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441482.5219,6253878.0188 441494.8912,6253870.7891 441508.9141,6253868.6724 441509.0641,6253868.4249 441514.2058,6253859.9411 441515.198,6253830.7708 441518.4507,6253830.0854 441538.6913,6253827.7041 441559.5935,6253825.3229 441574.6784,6253824.0528 
+        441580.7639,6253823.5236 441584.2034,6253824.8465 441586.5847,6253828.2861 441577.305,6253888.4787 441576.7951,6253891.7863 441574.1493,6253906.0738 441572.0326,6253921.1551 441566.4763,6253952.9051 441563.3013,6253960.3135 441559.068,6253966.6635 
+        441527.02,6253963.789 441445.4781,6253961.8862 441476.2283,6253875.0218 441479.6617,6253876.6568 441481.2539,6253877.415 441481.3681,6253877.4811 441481.3802,6253877.4751 441482.5219,6253878.0188 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>132</surface-admissible>
+    </parcelle>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="2">
+      <culture-principale production-semences="false">
+       <code-culture>BOR</code-culture>
+       <precision>3</precision>
+       <declare-sie>false</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441346.2612,6253845.9182 441426.0994,6253839.4825 441426.0994,6253840.2473 441343.0201,6253850.3015 441326.8804,6253856.9161 441276.6095,6253906.1287 441260.6894,6253894.7572 441269.0027,6253884.1506 441281.5043,6253869.7307 441290.1694,6253865.5834 
+        441318.2153,6253855.7938 441346.2612,6253845.9182 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+    </parcelle>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="3">
+      <culture-principale production-semences="false">
+       <code-culture>MIS</code-culture>
+       <declare-sie>false</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441471.4094,6253872.7271 441476.3418,6253875.0998 441445.3855,6253961.6187 441440.025,6253961.759 441439.921,6253963.668 441437.659,6253994.623 441436.283,6254008.26 441367.751,6253996.808 441366.832,6253996.745 441366.092,6253996.652 
+        441359.039,6253995.391 441217.989,6253988.082 441254.035,6253905.043 441257.4933,6253898.835 441260.6894,6253894.7572 441276.6095,6253906.1287 441326.8804,6253856.9161 441343.0201,6253850.3015 441426.0994,6253840.2473 441426.0994,6253839.4825 
+        441463.6042,6253836.4593 441450.041,6253858.336 441471.4094,6253872.7271 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>305</surface-admissible>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot-reference="064012238780" numero-ilot="3">
+   <commune>64389</commune>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440623.3057,6260412.6525 440624.3641,6260394.3963 440630.4495,6260345.4482 440646.4572,6260221.9185 440649.8968,6260182.2309 440652.4103,6260155.2124 440649.7645,6260145.4228 440671.725,6260147.2748 440674.815,6260148.851 440674.9161,6260094.1255 
+        440674.7838,6260040.1504 440680.2224,6259971.352 440708.3493,6259969.3208 440849.7377,6259962.0761 440887.9208,6259960.7686 440911.376,6260037.607 440916.2004,6260056.5183 440931.0171,6260068.5569 440957.7401,6260086.9454 440965.6776,6260094.883 
+        440973.2183,6260103.6142 440979.1714,6260114.5945 440984.3308,6260126.5007 440990.4162,6260139.9945 440994.1204,6260150.7454 440997.2954,6260160.7996 440999.1475,6260167.6788 441001.5287,6260178.7913 441007.085,6260207.631 441008.9371,6260222.7122 
+        441007.3496,6260240.9685 441000.4704,6260265.0457 440997.8246,6260269.8082 440993.7235,6260275.8583 440978.051,6260295.135 440975.085,6260314.96 440981.825,6260339.154 440991.086,6260377.321 440999.213,6260405.864 441010.606,6260454.978 
+        440879.566,6260455.139 440875.79,6260455.17 440863.505,6260478.397 440766.163,6260455.963 440715.123,6260442.672 440648.761,6260428.156 440635.281,6260425.736 440623.357,6260421.934 440623.3057,6260412.6525 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="1">
+      <culture-principale production-semences="false">
+       <code-culture>MIS</code-culture>
+       <declare-sie>false</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440674.815,6260148.851 440674.9161,6260094.1255 440674.7838,6260040.1504 440680.2224,6259971.352 440708.3495,6259969.3208 440849.7377,6259962.0761 440887.9208,6259960.7686 440911.376,6260037.607 440916.1296,6260056.2409 440916.2004,6260056.5183 
+        440931.0171,6260068.5569 440957.7401,6260086.9454 440965.6776,6260094.883 440973.2183,6260103.6142 440979.1714,6260114.5945 440984.3308,6260126.5007 440990.4162,6260139.9945 440994.1204,6260150.7454 440997.2954,6260160.7996 440999.1475,6260167.6788 
+        441001.5287,6260178.7913 441007.085,6260207.631 441008.9371,6260222.7122 441007.3496,6260240.9685 441000.4704,6260265.0457 440997.8246,6260269.8082 440993.7235,6260275.8583 440978.051,6260295.135 440975.085,6260314.96 440981.825,6260339.154 
+        440991.086,6260377.321 440999.213,6260405.864 441010.606,6260454.978 440879.566,6260455.139 440875.79,6260455.17 440863.505,6260478.397 440766.163,6260455.963 440715.123,6260442.672 440648.761,6260428.156 440635.281,6260425.736 
+        440623.357,6260421.934 440623.3057,6260412.6525 440624.3641,6260394.3963 440630.4495,6260345.4482 440646.4572,6260221.9185 440649.8968,6260182.2309 440652.4103,6260155.2124 440649.7645,6260145.4228 440671.725,6260147.2748 440674.815,6260148.851 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>1564</surface-admissible>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot-reference="064012238781" numero-ilot="4">
+   <commune>64338</commune>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        443051.637,6256213.9785 443059.38,6256103.176 443131.2768,6256014.5572 443136.833,6256017.2031 443137.8914,6256016.9385 443142.7415,6256017.3899 443145.6519,6256018.3821 443148.9592,6256019.1097 443161.527,6256020.2341 443180.114,6256019.0435 
+        443209.8135,6256017.7206 443233.8906,6256016.3977 443280.768,6256013.411 443283.923,6256012.206 443272.0354,6255972.2238 443292.74,6255967.961 443300.311,6255970.186 443312.2521,6255974.2655 443316.455,6255984.927 443342.178,6255995.823 
+        443346.893,6255998.302 443366.7564,6256006.5447 443371.5189,6256009.4552 443360.925,6256065.695 443341.461,6256158.427 443339.79,6256167.711 443328.9209,6256232.764 443328.1272,6256315.3141 443328.9209,6256361.8809 443329.444,6256366.736 
+        443329.1855,6256396.5414 443301.1396,6256388.8684 443183.9289,6256355.5309 443185.2519,6256233.8223 443185.781,6256197.5743 443184.9873,6256192.018 443182.3414,6256189.3722 443177.0498,6256186.9909 443159.5872,6256185.668 443132.5997,6256186.1972 
+        443098.4684,6256195.9868 443074.3912,6256204.7181 443051.637,6256213.9785 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="1">
+      <culture-principale production-semences="false">
+       <code-culture>MIS</code-culture>
+       <declare-sie>false</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        443051.637,6256213.9785 443059.38,6256103.176 443131.2768,6256014.5572 443136.833,6256017.2031 443137.8914,6256016.9385 443142.7415,6256017.3899 443145.6519,6256018.3821 443148.9592,6256019.1097 443161.527,6256020.2341 443180.114,6256019.0435 
+        443209.8135,6256017.7206 443233.8906,6256016.3977 443280.768,6256013.411 443283.923,6256012.206 443272.0354,6255972.2238 443292.74,6255967.961 443300.311,6255970.186 443312.2521,6255974.2655 443316.455,6255984.927 443342.178,6255995.823 
+        443346.893,6255998.302 443366.7564,6256006.5447 443371.5189,6256009.4552 443360.925,6256065.695 443341.461,6256158.427 443339.79,6256167.711 443328.9209,6256232.764 443328.1272,6256315.3141 443328.9209,6256361.8809 443329.444,6256366.736 
+        443329.1855,6256396.5414 443301.1396,6256388.8684 443183.9289,6256355.5309 443185.2519,6256233.8223 443185.781,6256197.5743 443184.9873,6256192.018 443182.3414,6256189.3722 443177.0498,6256186.9909 443159.5872,6256185.668 443132.5997,6256186.1972 
+        443098.4684,6256195.9868 443074.3912,6256204.7181 443051.637,6256213.9785 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>783</surface-admissible>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot-reference="064012238782" numero-ilot="5">
+   <commune>64389</commune>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441006.106,6260261.818 441009.908,6260246.178 441011.665,6260222.415 441060.543,6260214.034 441097.786,6260208.072 441121.721,6260202.455 441140.04,6260198.826 441160.519,6260197.443 441177.586,6260205.025 441180.277,6260212.785 
+        441178.06,6260247.301 441102.711,6260260.781 441070.739,6260267.867 441041.879,6260275.125 441017.373,6260276.161 441000.662,6260278.754 441006.106,6260261.818 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="1">
+      <culture-principale production-semences="false">
+       <code-culture>J6S</code-culture>
+       <declare-sie>true</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441006.106,6260261.818 441009.908,6260246.178 441011.665,6260222.415 441060.543,6260214.034 441097.786,6260208.072 441121.721,6260202.455 441140.04,6260198.826 441160.519,6260197.443 441177.586,6260205.025 441180.277,6260212.785 
+        441178.06,6260247.301 441102.711,6260260.781 441070.739,6260267.867 441041.879,6260275.125 441017.373,6260276.161 441000.662,6260278.754 441006.106,6260261.818 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>93</surface-admissible>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot-reference="064012238783" numero-ilot="6">
+   <commune>64389</commune>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441001.785,6260148.622 441131.571,6260089.346 441144.588,6260089.589 441156.436,6260110.319 441033.065,6260167.891 441004.78,6260178.528 441003.217,6260169.501 440999.309,6260153.51 441001.785,6260148.622 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="1">
+      <culture-principale production-semences="false">
+       <code-culture>J6S</code-culture>
+       <declare-sie>true</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441001.785,6260148.622 441131.571,6260089.346 441144.588,6260089.589 441156.436,6260110.319 441033.065,6260167.891 441004.78,6260178.528 441003.217,6260169.501 440999.309,6260153.51 441001.785,6260148.622 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>48</surface-admissible>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot-reference="064012238784" numero-ilot="7">
+   <commune>64389</commune>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440980.6,6260113.25 440990.122,6260108.525 441050.091,6260080.298 441103.051,6260056.779 441123.018,6260048.294 441126.027,6260072.962 441118.005,6260079.754 441002.044,6260138.167 440992.729,6260139.44 440980.6,6260113.25 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="1">
+      <culture-principale production-semences="false">
+       <code-culture>J6S</code-culture>
+       <declare-sie>true</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440980.6,6260113.25 440990.122,6260108.525 441050.091,6260080.298 441103.051,6260056.779 441123.018,6260048.294 441126.027,6260072.962 441118.005,6260079.754 441002.044,6260138.167 440992.729,6260139.44 440980.6,6260113.25 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>45</surface-admissible>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot-reference="064012238785" numero-ilot="8">
+   <commune>64488</commune>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440315.761,6259464.599 440345.748,6259462.1 440356.088,6259461.066 440344.628,6259484.59 440328.2,6259517.477 440317.816,6259532.636 440303.266,6259547.063 440290.574,6259560.332 440274.2127,6259575.6164 440272.4929,6259578.5268 
+        440259.1314,6259604.1914 440248.8127,6259623.5061 440243.249,6259621.944 440246.811,6259614.915 440269.566,6259573.562 440267.937,6259570.372 440219.641,6259546.062 440203.342,6259537.965 440184.618,6259523.045 440137.304,6259485.538 
+        440137.725,6259482.735 440137.678,6259481.876 440137.778,6259479.032 440154.236,6259462.186 440181.811,6259448.141 440191.72,6259449.347 440206.283,6259457.189 440227.696,6259463.479 440267.678,6259465.461 440315.761,6259464.599 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="1">
+      <culture-principale production-semences="false">
+       <code-culture>MIS</code-culture>
+       <declare-sie>false</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440352.3763,6259468.6851 440344.628,6259484.59 440328.2,6259517.477 440317.816,6259532.636 440303.266,6259547.063 440290.574,6259560.332 440274.2127,6259575.6164 440272.4929,6259578.5268 440259.1314,6259604.1914 440248.8127,6259623.5061 
+        440243.249,6259621.944 440246.811,6259614.915 440269.566,6259573.562 440267.937,6259570.372 440219.641,6259546.062 440203.342,6259537.965 440184.618,6259523.045 440137.304,6259485.538 440137.5061,6259484.1922 440156.2083,6259466.529 
+        440178.4334,6259452.7707 440187.9584,6259453.829 440212.3001,6259462.8249 440229.2335,6259468.6457 440287.9711,6259470.2332 440325.542,6259470.2332 440352.3763,6259468.6851 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>157</surface-admissible>
+    </parcelle>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="2">
+      <culture-principale production-semences="false">
+       <code-culture>BOR</code-culture>
+       <precision>1</precision>
+       <longueur-bordure>10</longueur-bordure>
+       <declare-sie>true</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440356.088,6259461.066 440352.3763,6259468.6851 440325.542,6259470.2332 440287.9711,6259470.2332 440229.2335,6259468.6457 440212.3001,6259462.8249 440187.9584,6259453.829 440178.4334,6259452.7707 440156.2083,6259466.529 440137.5061,6259484.1922 
+        440137.725,6259482.735 440137.678,6259481.876 440137.778,6259479.032 440154.236,6259462.186 440181.811,6259448.141 440191.72,6259449.347 440206.283,6259457.189 440227.696,6259463.479 440267.678,6259465.461 440315.761,6259464.599 
+        440345.748,6259462.1 440356.088,6259461.066 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot-reference="064012238786" numero-ilot="10">
+   <commune>64488</commune>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440773.407,6259706.218 440775.992,6259706.132 440777.292,6259706.253 440785.652,6259716.973 440791.785,6259726.552 440792.466,6259727.975 440794.82,6259734.849 440797.5217,6259750.0564 440797.7863,6259755.7449 440798.1832,6259758.3908 
+        440797.654,6259776.5148 440796.331,6259794.637 440790.8038,6259838.425 440744.0758,6259847.1587 440726.2164,6259850.9951 440709.5476,6259853.9056 440708.2247,6259833.5326 440691.159,6259831.2836 440656.7631,6259818.7159 440641.1527,6259811.7044 
+        440636.613,6259812.293 440624.51,6259807.536 440615.3557,6259803.8992 440598.4224,6259841.9993 440585.1932,6259840.5441 440567.7307,6259837.5014 440556.4858,6259784.1877 440604.244,6259778.744 440622.537,6259776.645 440711.365,6259771.147 
+        440714.639,6259714.189 440727.752,6259711.916 440740.705,6259710.182 440773.407,6259706.218 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="1">
+      <culture-principale production-semences="false">
+       <code-culture>J5M</code-culture>
+       <declare-sie>true</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440599.4897,6259839.5979 440598.4224,6259841.9993 440585.1932,6259840.5441 440567.7307,6259837.5014 440560.0242,6259800.9637 440612.6437,6259795.5543 440611.0562,6259798.7293 440599.4897,6259839.5979 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>17</surface-admissible>
+    </parcelle>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="2">
+      <culture-principale production-semences="false">
+       <code-culture>MIS</code-culture>
+       <declare-sie>false</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440615.3557,6259803.8992 440599.4897,6259839.5979 440611.0562,6259798.7293 440612.6437,6259795.5543 440560.0242,6259800.9637 440556.4858,6259784.1877 440604.244,6259778.744 440622.537,6259776.645 440711.365,6259771.147 440714.639,6259714.189 
+        440727.752,6259711.916 440740.705,6259710.182 440773.407,6259706.218 440775.992,6259706.132 440777.292,6259706.253 440785.652,6259716.973 440791.785,6259726.552 440792.466,6259727.975 440794.82,6259734.849 440797.5217,6259750.0564 
+        440797.7863,6259755.7449 440798.1832,6259758.3908 440797.654,6259776.5148 440796.331,6259794.637 440790.8038,6259838.425 440744.0758,6259847.1587 440726.2164,6259850.9951 440709.5476,6259853.9056 440708.2247,6259833.5326 440691.159,6259831.2836 
+        440656.7631,6259818.7159 440641.1527,6259811.7044 440636.613,6259812.293 440624.51,6259807.536 440615.3557,6259803.8992 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>161</surface-admissible>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot-reference="064012238787" numero-ilot="11">
+   <commune>64488</commune>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        439522.9967,6259137.8721 439845.002,6259040.133 439842.7463,6259121.071 439806.8952,6259127.6856 439771.044,6259135.4908 439642.7209,6259180.0732 439551.9686,6259213.0139 439537.4165,6259175.8399 439522.9967,6259137.8721 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="1">
+      <culture-principale production-semences="false">
+       <code-culture>MIS</code-culture>
+       <declare-sie>false</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        439522.9967,6259137.8721 439845.002,6259040.133 439842.7463,6259121.071 439806.8952,6259127.6856 439771.044,6259135.4908 439642.7209,6259180.0732 439551.9686,6259213.0139 439537.4165,6259175.8399 439522.9967,6259137.8721 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>239</surface-admissible>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot-reference="064012238788" numero-ilot="12">
+   <commune>64488</commune>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440885.272,6259079.215 440876.714,6259095.429 440844.0156,6259145.2268 440790.4374,6259102.6288 440782.8967,6259096.0142 440784.4842,6259092.9715 440787.5269,6259089.0028 440791.628,6259084.108 440803.9311,6259072.4663 440816.6312,6259061.2215 
+        440829.0666,6259052.0933 440835.0198,6259047.0662 440839.7823,6259042.8329 440847.4552,6259035.6891 440851.2917,6259028.9422 440854.3344,6259021.4016 440856.9802,6259011.4797 440858.0385,6259001.1609 440858.5677,6258974.5702 440861.2136,6258957.3723 
+        440863.1979,6258950.2285 440865.8438,6258944.1431 440873.649,6258929.8556 440880.6605,6258919.8014 440887.5396,6258910.9378 440894.948,6258904.4555 440903.0178,6258899.8253 440911.4845,6258896.6503 440918.2314,6258896.2534 441088.78,6258982.316 
+        441089.5494,6258983.963 441079.4952,6258996.0015 441067.8535,6259008.9661 441045.6285,6259034.7631 441020.493,6259059.8985 440929.629,6259013.781 440885.272,6259079.215 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="1">
+      <culture-principale production-semences="false">
+       <code-culture>MIS</code-culture>
+       <declare-sie>false</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440885.272,6259079.215 440876.714,6259095.429 440844.0156,6259145.2268 440790.4374,6259102.6288 440782.8967,6259096.0142 440784.4842,6259092.9715 440787.5269,6259089.0028 440791.628,6259084.108 440803.9311,6259072.4663 440816.6312,6259061.2215 
+        440829.0666,6259052.0933 440835.0198,6259047.0662 440839.7823,6259042.8329 440847.4552,6259035.6891 440851.2917,6259028.9422 440854.3344,6259021.4016 440856.9802,6259011.4797 440858.0385,6259001.1609 440858.5677,6258974.5702 440861.2136,6258957.3723 
+        440863.1979,6258950.2285 440865.8438,6258944.1431 440873.649,6258929.8556 440880.6605,6258919.8014 440887.5396,6258910.9378 440894.948,6258904.4555 440903.0178,6258899.8253 440911.4845,6258896.6503 440918.2314,6258896.2534 441088.78,6258982.316 
+        441089.5494,6258983.963 441079.4952,6258996.0015 441067.8535,6259008.9661 441045.6285,6259034.7631 441020.493,6259059.8985 440929.629,6259013.781 440885.272,6259079.215 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>300</surface-admissible>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot-reference="064012238789" numero-ilot="13">
+   <commune>64516</commune>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440908.119,6254129.8226 440915.2628,6254116.3288 440921.6128,6254107.8621 440927.6982,6254101.7767 440941.4566,6254091.1933 440957.5962,6254079.8162 440966.0629,6254073.2016 440974.5295,6254069.762 440985.756,6254082.587 440954.4212,6254110.7725 
+        440925.801,6254140.91 440918.835,6254146.627 440915.13,6254151.486 440971.607,6254209.359 440973.064,6254210.316 440974.046,6254210.708 440975.596,6254210.965 440977.421,6254210.6 441013.221,6254186.141 441015.042,6254185.277 
+        441016.486,6254185.934 441036.53,6254198.705 441050.916,6254172.145 441051.626,6254171.09 441063.613,6254141.912 441081.903,6254154.008 441131.976,6254188.619 441146.227,6254195.474 441143.855,6254199.729 441136.523,6254213.065 
+        441113.188,6254255.493 441178.732,6254287.389 441181.831,6254289.427 441171.247,6254301.598 441160.664,6254315.357 441146.641,6254329.38 441135.793,6254339.963 441131.723,6254338.422 441056.153,6254265.615 441011.703,6254300.805 
+        440978.63,6254260.588 440949.791,6254284.136 440938.943,6254271.7 440929.153,6254258.736 440919.893,6254244.977 440909.045,6254230.161 440897.403,6254212.509 440896.345,6254196.823 440898.197,6254179.89 440905.87,6254169.571 
+        440916.189,6254158.458 440906.7961,6254145.1684 440908.119,6254129.8226 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="1">
+      <culture-principale production-semences="false">
+       <code-culture>J6S</code-culture>
+       <declare-sie>true</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440945.4786,6254182.5847 440971.607,6254209.359 440973.064,6254210.316 440974.046,6254210.708 440975.596,6254210.965 440975.6302,6254210.9582 440981.6731,6254221.0294 440971.0897,6254232.4066 441011.0419,6254278.7087 441022.5497,6254292.218 
+        441011.703,6254300.805 440978.63,6254260.588 440977.2872,6254261.6845 440961.5649,6254243.3418 440925.0524,6254201.0084 440945.4786,6254182.5847 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>26</surface-admissible>
+    </parcelle>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="2">
+      <culture-principale production-semences="false">
+       <code-culture>MIS</code-culture>
+       <declare-sie>false</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441056.153,6254265.615 441022.5497,6254292.218 441011.0419,6254278.7087 440971.0897,6254232.4066 440981.6731,6254221.0294 440975.6302,6254210.9582 440977.421,6254210.6 441013.221,6254186.141 441015.042,6254185.277 441016.486,6254185.934 
+        441036.53,6254198.705 441050.916,6254172.145 441051.626,6254171.09 441063.613,6254141.912 441081.903,6254154.008 441131.976,6254188.619 441146.227,6254195.474 441143.855,6254199.729 441136.523,6254213.065 441113.188,6254255.493 
+        441178.732,6254287.389 441181.831,6254289.427 441171.247,6254301.598 441160.664,6254315.357 441146.641,6254329.38 441135.793,6254339.963 441131.723,6254338.422 441056.153,6254265.615 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>187</surface-admissible>
+    </parcelle>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="3">
+      <culture-principale production-semences="false">
+       <code-culture>MIS</code-culture>
+       <declare-sie>false</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440915.3336,6254151.6946 440911.8948,6254152.3824 440906.7961,6254145.1684 440908.119,6254129.8226 440915.2628,6254116.3288 440921.6128,6254107.8621 440927.6982,6254101.7767 440941.4566,6254091.1933 440957.5962,6254079.8162 440966.0629,6254073.2016 
+        440974.5295,6254069.762 440985.756,6254082.587 440954.4212,6254110.7725 440925.801,6254140.91 440918.835,6254146.627 440915.13,6254151.486 440915.3336,6254151.6946 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>22</surface-admissible>
+    </parcelle>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="4">
+      <culture-principale production-semences="false">
+       <code-culture>AVH</code-culture>
+       <declare-sie>false</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440911.8963,6254152.3821 440915.334,6254151.695 440945.4779,6254182.584 440925.0526,6254201.0088 440977.2866,6254261.6838 440949.7917,6254284.1354 440938.943,6254271.7 440929.153,6254258.736 440919.893,6254244.977 440909.045,6254230.161 
+        440897.403,6254212.509 440896.345,6254196.823 440898.197,6254179.89 440905.87,6254169.571 440916.189,6254158.458 440911.8963,6254152.3821 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>44</surface-admissible>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <ilot numero-ilot-reference="064012238790" numero-ilot="14">
+   <commune>64516</commune>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441466.1358,6253804.747 441475.9254,6253787.9459 441482.1432,6253777.4949 441488.6255,6253765.8532 441535.5891,6253788.0782 441512.9672,6253825.5168 441457.6691,6253830.9408 441449.9962,6253831.6023 441448.1441,6253828.1627 441448.2764,6253824.8554 
+        441466.1358,6253804.747 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <parcelles>
+    <parcelle>
+     <descriptif-parcelle numero-parcelle="1">
+      <culture-principale production-semences="false">
+       <code-culture>J6S</code-culture>
+       <declare-sie>true</declare-sie>
+      </culture-principale>
+     </descriptif-parcelle>
+     <geometrie>
+      
+      <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441466.1358,6253804.747 441475.9254,6253787.9459 441482.1432,6253777.4949 441488.6255,6253765.8532 441535.5891,6253788.0782 441512.9672,6253825.5168 441457.6691,6253830.9408 441449.9962,6253831.6023 441448.1441,6253828.1627 441448.2764,6253824.8554 
+        441466.1358,6253804.747 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+      
+     </geometrie>
+     <surface-admissible>32</surface-admissible>
+    </parcelle>
+   </parcelles>
+  </ilot>
+  <sna-declaree>
+   <numeroSna>064036527092</numeroSna>
+   <categorieSna>EA</categorieSna>
+   <typeSna>B3</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440669.5287,6259821.5073 440698.5006,6259828.9157 440712.7881,6259829.974 440713.7142,6259833.9428 440715.1237,6259853.0414 440704.5403,6259853.5705 440645.935,6259848.9403 440611.0099,6259845.3684 440598.7068,6259842.8549 440600.9558,6259839.6799 
+        440603.8662,6259837.2986 440603.6016,6259834.3882 440602.8079,6259831.6101 440599.236,6259826.1861 440608.0995,6259806.0777 440612.0683,6259796.0236 440620.7996,6259797.8756 440631.1183,6259801.0506 440640.8213,6259805.7646 440653.6536,6259813.1729 
+        440660.4005,6259817.9355 440669.5287,6259821.5073 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+  <gml:innerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440632.5575,6259835.0056 440629.8247,6259833.8744 440626.6144,6259832.1899 440625.3875,6259831.2284 440625.0704,6259831.8862 440623.3794,6259835.3934 440626.0977,6259834.8814 440626.2455,6259834.8783 440629.3922,6259834.8115 440632.5575,6259835.0056 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:innerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>10</numeroIlot>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064037666035</numeroSna>
+   <categorieSna>VG</categorieSna>
+   <typeSna>V1</typeSna>
+   <geometrie>
+    
+    <gml:Point>
+  <gml:coordinates>
+    440581.9868,6259818.1366 
+  </gml:coordinates>
+</gml:Point>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>10</numeroIlot>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+   <intersectionsSnaParcelles>
+    <intersectionSnaParcelle>
+     <numeroIlot>10</numeroIlot>
+     <numeroParcelle>1</numeroParcelle>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+   </intersectionsSnaParcelles>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064037946461</numeroSna>
+   <categorieSna>VG</categorieSna>
+   <typeSna>V1</typeSna>
+   <geometrie>
+    
+    <gml:Point>
+  <gml:coordinates>
+    440585.825,6259823.842 
+  </gml:coordinates>
+</gml:Point>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>10</numeroIlot>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+   <intersectionsSnaParcelles>
+    <intersectionSnaParcelle>
+     <numeroIlot>10</numeroIlot>
+     <numeroParcelle>1</numeroParcelle>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+   </intersectionsSnaParcelles>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064038370969</numeroSna>
+   <categorieSna>VG</categorieSna>
+   <typeSna>V2</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441127.8061,6260119.9052 441128.5868,6260121.0027 441128.883,6260122.496 441128.7072,6260123.2589 441128.4881,6260124.2088 441127.3832,6260125.5758 441125.7913,6260126.321 441124.0338,6260126.2939 441123.1557,6260125.8495 441122.4656,6260125.5002 
+        441121.4032,6260124.0999 441121.0611,6260122.3758 441121.5085,6260120.6759 441122.6549,6260119.3436 441124.269,6260118.6477 441126.0248,6260118.7287 441127.0453,6260119.2853 441127.1027,6260119.201 441128.2443,6260117.8557 441128.1122,6260117.7559 
+        441127.4371,6260116.2885 441127.5365,6260114.6764 441128.3868,6260113.3032 441129.7855,6260112.4956 441131.3999,6260112.4459 441132.8458,6260113.1658 441133.779,6260114.4841 441134.0026,6260115.6801 441133.6086,6260117.2465 441132.5205,6260118.4401 
+        441130.9971,6260118.9769 441129.4011,6260118.7292 441129.0252,6260118.481 441127.8061,6260119.9052 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>6</numeroIlot>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+   <intersectionsSnaParcelles>
+    <intersectionSnaParcelle>
+     <numeroIlot>6</numeroIlot>
+     <numeroParcelle>1</numeroParcelle>
+     <nombreArbres>2</nombreArbres>
+     <longueur-sie>16.1</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+   </intersectionsSnaParcelles>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064039182340</numeroSna>
+   <categorieSna>EA</categorieSna>
+   <typeSna>B2</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441127.9323,6258951.9164 441138.496,6258956.8513 441137.6495,6258958.6633 441128.6646,6258954.466 441126.8371,6258955.8197 441124.448,6258954.7036 441118.0705,6258960.4696 441109.7503,6258969.6812 441091.8571,6258989.3738 441058.9672,6259026.1624 
+        441037.0706,6259050.8586 441036.9557,6259050.9797 441007.2847,6259080.2511 440986.5912,6259102.039 440977.2135,6259113.9088 440964.0135,6259129.6088 440963.9193,6259129.7147 440955.7193,6259138.4147 440955.3758,6259138.7179 440948.6758,6259143.6179 
+        440948.53,6259143.7168 440937.23,6259150.8168 440937.0478,6259150.9209 440920.2768,6259159.5886 440919.129,6259157.3677 440923.7261,6259152.1777 440934.6589,6259146.5273 440945.7953,6259139.5301 440952.2385,6259134.8179 440960.2321,6259126.3369 
+        440973.3619,6259110.7204 440982.7382,6259098.8504 440982.8873,6259098.6783 441003.7443,6259076.7203 441033.3848,6259047.4789 441055.2362,6259022.8338 441088.1497,6258986.0188 441106.0472,6258966.3215 441114.4447,6258957.0243 441114.6234,6258956.8456 
+        441121.9234,6258950.2456 441123.6,6258952.1 441122.0734,6258950.1202 441130.3849,6258943.7114 441153.5504,6258926.0632 441186.8306,6258902.3773 441189.7561,6258900.2084 441191.245,6258902.2167 441191.9737,6258904.7885 441189.7496,6258906.4368 
+        441156.4828,6258930.1132 441133.4209,6258947.6842 441127.9323,6258951.9164 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>12</numeroIlot>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064039265718</numeroSna>
+   <categorieSna>EA</categorieSna>
+   <typeSna>B2</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440185.4395,6260007.4717 440187.0934,6260009.1257 440215.2884,6260027.6566 440253.7888,6260053.0569 440264.2471,6260059.9634 440271.4541,6260062.3007 440281.9221,6260065.0922 440282.1247,6260065.1655 440290.1247,6260068.8655 440290.2857,6260068.9549 
+        440328.0309,6260093.7189 440340.78,6260100.2896 440343.3794,6260100.6362 440345.2935,6260100.7222 440353.4956,6260096.8857 440372.7643,6260081.5894 440427.364,6260041.0897 440449.3952,6260025.0397 440485.158,6259990.6761 440505.3939,6259972.2345 
+        440516.105,6259959.3416 440526.1087,6259950.0198 440540.1316,6259930.0437 440542.7775,6259926.075 440570.6911,6259887.8426 440558.9171,6259842.5987 440558.5202,6259838.7623 440554.0223,6259816.0081 440552.0379,6259803.8372 440549.7889,6259796.958 
+        440548.8629,6259791.7986 440545.3037,6259764.7217 440545.1633,6259762.4172 440546.7993,6259763.3564 440546.5048,6259756.7485 440546.6457,6259753.8653 440548.642,6259753.7436 440549.2934,6259764.4302 440552.381,6259792.6175 440556.4628,6259815.8138 
+        440561.6527,6259839.6492 440626.7322,6259845.4058 440626.7113,6259845.655 440675.9005,6259850.054 440694.0019,6259851.3542 440704.9149,6259852.247 440706.132,6259852.176 440716.8802,6259851.5548 440734.5961,6259849.1662 440769.7781,6259842.2699 
+        440809.8686,6259835.0375 440843.5455,6259829.2225 440884.1591,6259946.0362 440906.5165,6259986.7821 440918.1582,6260019.8551 440913.3957,6260019.5905 440895.9331,6259975.405 440882.8362,6259953.18 440854.2612,6259870.7621 440841.1643,6259833.3235 
+        440770.2312,6259844.7285 440734.967,6259851.6388 440717.0722,6259854.0479 440704.9722,6259854.7479 440704.7981,6259854.7458 440693.8043,6259853.8463 440675.6887,6259852.545 440626.4899,6259848.1451 440626.4678,6259848.3942 440562.3906,6259842.7262 
+        440572.7427,6259884.3245 440576.2381,6259898.6059 440597.6291,6259979.272 440614.9463,6260040.6398 440619.7463,6260060.9398 440619.7775,6260061.1012 440623.1728,6260083.5698 440627.4491,6260106.841 440631.3694,6260120.4311 440631.4989,6260120.8802 
+        440631.8944,6260122.2513 440636.3101,6260133.3396 440643.047,6260145.4263 440643.1974,6260145.7675 440643.696,6260147.2634 440645.9946,6260154.0592 440646.0775,6260154.4011 440647.3775,6260163.0011 440647.3989,6260163.3671 440646.8989,6260178.2671 
+        440646.8915,6260178.3847 440645.4466,6260207.2783 440641.6101,6260243.394 440628.9809,6260341.8757 440621.3891,6260396.4166 440620.3965,6260409.0225 440619.3981,6260431.6873 440615.9924,6260510.2746 440609.895,6260579.8443 440608.0922,6260611.4412 
+        440735.4273,6260607.9002 440740.9273,6260608.0002 440740.9327,6260608.2504 440763.8232,6260608.8502 440791.1323,6260609.1504 440818.2118,6260609.8499 440832.6437,6260609.7504 440840.8324,6260609.068 440844.403,6260607.7862 440846.7205,6260606.2855 
+        440854.9226,6260600.2 440864.9768,6260591.7334 440868.8853,6260589.2745 440873.7081,6260586.1771 440877.2532,6260586.0326 440877.4956,6260585.9668 440895.0226,6260583.0627 440917.4783,6260579.8432 440922.9256,6260579.0622 440944.9135,6260575.9639 
+        440962.2377,6260573.1761 440976.614,6260569.3094 440985.0848,6260566.0799 440992.5917,6260563.2185 441005.1766,6260558.8708 441011.7476,6260556.6007 441032.8674,6260550.3951 441049.1674,6260545.8951 441049.2945,6260545.867 441067.3745,6260542.8563 
+        441081.3507,6260541.4464 441090.1745,6260540.5563 441090.2806,6260540.5502 441116.0806,6260540.1502 441116.3248,6260540.1704 441116.5604,6260540.2379 441116.7783,6260540.35 441116.9701,6260540.5025 441117.1284,6260540.6895 441117.2473,6260540.9038 
+        441117.3221,6260541.1372 441117.3498,6260541.3806 441117.3296,6260541.6248 441117.2621,6260541.8604 441117.15,6260542.0783 441116.9975,6260542.2701 441116.8105,6260542.4284 441116.5962,6260542.5473 441116.3628,6260542.6221 441116.1194,6260542.6498 
+        441090.3725,6260543.049 441088.4921,6260543.2387 441081.1737,6260543.977 441074.0807,6260544.6925 441067.6657,6260545.3396 441049.7698,6260548.3223 441033.5425,6260552.8022 441018.076,6260557.3469 441012.4805,6260558.991 440993.4269,6260565.575 
+        440977.4453,6260571.668 440977.3247,6260571.7071 440962.8247,6260575.6071 440962.6986,6260575.6341 440945.2744,6260578.4378 440923.2759,6260581.5376 440895.3909,6260585.5354 440878.0289,6260588.4125 440870.1894,6260591.4128 440863.7498,6260595.901 
+        440853.5459,6260604.1031 440845.7459,6260609.9031 440845.5905,6260610.0017 440845.4223,6260610.0765 440841.5223,6260611.4765 440841.2038,6260611.5457 440832.7086,6260612.25 440818.1677,6260612.3496 440791.077,6260611.6498 440763.7673,6260611.3496 
+        440740.8773,6260610.7498 440740.8727,6260610.9998 440735.4072,6260610.9004 440607.8688,6260614.4486 440602.6863,6260667.8335 440593.9757,6260741.9106 440585.6757,6260794.7106 440585.6537,6260794.828 440577.85,6260830.4444 440568.0653,6260873.3774 
+        440566.7759,6260881.6095 440566.2821,6260881.5321 440564.1863,6260896.4025 440562.8513,6260906.5482 440589.9277,6260915.0959 440695.8277,6260954.8959 440694.7723,6260957.7041 440588.9101,6260917.9183 440562.4123,6260909.5555 440553.9864,6260963.4035 
+        440546.0915,6261030.6599 440541.896,6261073.9138 440540.0001,6261108.2393 440540.0984,6261144.1694 440539.0965,6261165.8017 440538.3965,6261176.1017 440538.353,6261176.3726 440535.353,6261188.0726 440535.3185,6261188.1876 440529.8185,6261204.1876 
+        440529.7792,6261204.2898 440523.2999,6261219.4413 440515.6274,6261241.5622 440513.2849,6261249.3423 440535.9072,6261255.2563 440582.674,6261268.447 440602.3806,6261273.0394 440602.6255,6261273.9031 440602.6885,6261274.6513 440602.348,6261276.1122 
+        440581.8928,6261271.3437 440535.1067,6261258.1476 440512.249,6261252.1723 440507.9751,6261261.6995 440504.4303,6261270.0691 440496.8777,6261301.8697 440493.7023,6261326.578 440493.8973,6261334.6698 440498.3789,6261364.4472 440501.0736,6261378.5196 
+        440506.5736,6261407.4196 440506.5994,6261407.6591 440506.8993,6261418.7454 440506.8334,6261420.9196 440543.3708,6261425.1617 440581.0708,6261430.3617 440581.305,6261430.4174 440588.605,6261432.9174 440588.8128,6261433.0105 440589.0002,6261433.1397 
+        440592.6002,6261436.1397 440592.7637,6261436.3039 440592.8941,6261436.4954 440595.4187,6261438.909 440595.6171,6261439.9012 440596.8077,6261440.8934 440598.4614,6261452.5351 440603.6208,6261481.044 440606.9064,6261502.456 440610.145,6261510.994 
+        440616.6951,6261523.8957 440626.6884,6261540.6172 440632.9832,6261546.7183 440652.0385,6261559.1241 440668.8059,6261568.1553 440671.2333,6261569.4627 440702.4928,6261586.2995 440702.6774,6261586.4211 440712.9529,6261594.5862 440720.5211,6261601.655 
+        440727.3953,6261609.1485 440731.6823,6261613.827 440734.2949,6261617.1471 440741.2554,6261625.9928 440741.4143,6261626.2335 440741.5034,6261626.4618 440741.5462,6261626.703 440741.5412,6261626.948 440741.4885,6261627.1873 440741.3901,6261627.4118 
+        440741.2498,6261627.6127 440741.073,6261627.7823 440740.8665,6261627.9143 440740.6382,6261628.0034 440740.397,6261628.0462 440740.152,6261628.0412 440739.9127,6261627.9885 440739.6882,6261627.8901 440739.4873,6261627.7498 440739.3177,6261627.573 
+        440736.5261,6261624.0254 440729.7469,6261615.4102 440718.7117,6261603.3807 440711.2836,6261596.4479 440709.3646,6261594.924 440701.2095,6261588.4479 440664.418,6261568.6315 440650.8072,6261561.3005 440650.718,6261561.2476 440631.518,6261548.7476 
+        440631.33,6261548.5976 440624.83,6261542.2976 440624.627,6261542.0413 440614.4854,6261525.0659 440608.4494,6261512.2649 440607.9864,6261511.868 440604.5313,6261503.2433 440604.4732,6261503.0397 440601.1072,6261481.2425 440596.2124,6261453.0643 
+        440595.0879,6261443.9361 440593.1697,6261440.4965 440590.8195,6261437.91 440588.0103,6261434.9403 440580.6094,6261432.8218 440562.015,6261430.8392 440543.0425,6261427.6401 440507.2011,6261423.4791 440506.4523,6261458.2898 440501.796,6261513.4263 
+        440499.6951,6261546.6395 440494.6951,6261618.1395 440494.6663,6261618.3658 440493.0663,6261626.9658 440492.9904,6261627.253 440491.0904,6261632.753 440490.9358,6261633.0935 440490.7205,6261633.3993 440486.0205,6261638.8993 440485.7827,6261639.1345 
+        440485.5091,6261639.3267 440477.8091,6261643.8267 440477.5022,6261643.9727 440471.1156,6261646.3677 440466.5386,6261648.1586 440460.9899,6261650.3976 440457.9407,6261652.2081 440454.2762,6261654.4983 440445.6383,6261666.0156 440437.0491,6261685.5635 
+        440426.5012,6261712.8287 440418.9277,6261740.2328 440418.8961,6261740.3361 440413.6961,6261755.8361 440413.5425,6261756.1817 440409.5425,6261763.2817 440409.2548,6261763.6724 440408.8815,6261763.9824 440404.6815,6261766.6824 440404.376,6261766.8433 
+        440404.0474,6261766.9493 440397.9474,6261768.3493 440397.6258,6261768.396 440397.301,6261768.3901 440390.301,6261767.6901 440390.1976,6261767.677 440381.7958,6261766.392 440376.1949,6261766.0972 440375.9639,6261766.0716 440371.0038,6261765.2261 
+        440380.9591,6261795.2714 440402.7425,6261853.9266 440424.0413,6261910.8235 440424.0846,6261910.9493 440435.995,6261948.7831 440445.1141,6261979.2505 440462.4198,6262043.5719 440475.2907,6262093.1596 440492.3914,6262140.485 440507.2304,6262168.4922 
+        440527.2715,6262188.3379 440551.6386,6262203.9603 440579.1517,6262214.6488 440591.2793,6262218.7286 440590.4822,6262221.0982 440589.8116,6262221.6702 440587.7511,6262222.8171 440577.5029,6262219.3695 440577.3947,6262219.3303 440549.5947,6262208.5303 
+        440549.1507,6262208.3046 440524.3507,6262192.4046 440523.9409,6262192.0764 440503.4409,6262171.7764 440503.1929,6262171.4905 440502.9909,6262171.1704 440487.8909,6262142.6704 440487.7488,6262142.3496 440470.5488,6262094.7496 440470.4802,6262094.5281 
+        440457.583,6262044.8388 440440.8275,6261982.5627 440434.3154,6261984.5506 440433.7315,6261982.6378 440433.1519,6261980.7236 440439.7353,6261978.7139 440431.2101,6261950.2339 440419.3354,6261912.5142 440398.0564,6261855.6704 440376.2269,6261796.8863 
+        440365.17,6261763.5164 440343.3825,6261757.5407 440336.6699,6261755.5956 440337.0873,6261754.1549 440338.1275,6261752.8945 440344.2071,6261754.6563 440364.0425,6261760.0963 440359.2293,6261745.4936 440340.2342,6261689.6081 440325.2286,6261645.8916 
+        440279.7329,6261509.6043 440263.9357,6261463.9125 440225.1287,6261350.9918 440185.2231,6261231.4749 440160.0257,6261154.1827 440157.6219,6261146.9713 440154.8319,6261138.3688 440157.21,6261137.5975 440157.4246,6261137.5961 440159.9972,6261138.0878 
+        440162.3749,6261145.4191 440164.7769,6261152.6251 440189.9741,6261229.9167 440229.8678,6261349.3978 440267.4967,6261458.89 440271.3529,6261453.5647 440274.0402,6261450.3004 440291.8996,6261422.7837 440307.6424,6261398.9711 440308.7007,6261396.9867 
+        440313.1986,6261390.3721 440315.9767,6261386.1388 440317.0351,6261384.2867 440324.0651,6261375.1174 440327.226,6261371.1664 440329.9166,6261367.8031 440336.1407,6261354.4657 440338.3241,6261355.4846 440337.1413,6261359.4157 440332.5593,6261369.2343 
+        440332.3713,6261369.537 440328.9414,6261371.719 440326.6924,6261376.0846 440325.3695,6261377.0107 440317.5565,6261386.4595 440310.8174,6261398.8388 440276.2892,6261454.0046 440274.4371,6261455.9889 440273.511,6261457.5764 440268.6889,6261462.3586 
+        440284.4714,6261508.0084 440329.968,6261644.2984 440344.967,6261687.9955 440363.9743,6261743.9174 440369.5805,6261760.9258 440376.5213,6261762.1089 440382.1051,6261762.4028 440382.3024,6261762.423 440390.7509,6261763.7151 440397.3725,6261764.3773 
+        440402.8122,6261763.1288 440406.3011,6261760.886 440409.9643,6261754.3838 440415.0867,6261739.1151 440422.6723,6261711.6672 440422.7347,6261711.4784 440433.369,6261683.9955 440442.069,6261664.1955 440442.3,6261663.8 440451.3,6261651.8 
+        440451.5471,6261651.527 440451.84,6261651.304 440455.8789,6261648.7803 440459.0789,6261646.8803 440459.3516,6261646.7453 440465.0712,6261644.4375 440469.6978,6261642.6273 440475.9381,6261640.2872 440483.1991,6261636.0438 440487.4334,6261631.0888 
+        440489.161,6261626.0877 440490.7128,6261617.7465 440495.7044,6261546.3671 440497.8034,6261513.1831 440500.8049,6261457.4599 440503.3049,6261421.8599 440503.8025,6261421.8948 440503.8994,6261418.6977 440503.6039,6261407.8617 440498.6027,6261381.7624 
+        440389.5942,6261350.0123 440391.4462,6261345.5144 440473.9964,6261369.8561 440497.5444,6261376.603 440490.9167,6261335.0232 440490.9004,6261334.8361 440490.7004,6261326.5361 440490.7122,6261326.3088 440493.9122,6261301.4088 440493.9406,6261301.2534 
+        440501.5406,6261269.2534 440501.6188,6261269.015 440505.2314,6261260.486 440509.9917,6261249.8746 440512.7828,6261240.6085 440520.4828,6261218.4085 440520.5208,6261218.3102 440526.9993,6261203.1606 440532.4619,6261187.2692 440535.4128,6261175.7609 
+        440536.1024,6261165.6145 440537.0999,6261144.0674 440537.0023,6261108.1173 440538.907,6261073.6552 440543.1102,6261030.3251 440551.018,6260962.9681 440559.7152,6260907.3862 440561.2147,6260895.9907 440563.1274,6260882.4195 440533.5739,6260874.8382 
+        440472.4809,6260856.7403 440455.7969,6260851.9734 440448.2571,6260851.0068 440438.6366,6260851.687 440432.5855,6260853.1998 440426.3806,6260856.9809 440425.2726,6260855.1627 440428.3433,6260852.2717 440431.2194,6260850.5191 440431.4212,6260850.4162 
+        440431.6362,6260850.3448 440438.0362,6260848.7448 440438.2942,6260848.7037 440448.1942,6260848.0037 440448.4907,6260848.0122 440456.2907,6260849.0122 440456.5121,6260849.0577 440473.3261,6260853.8618 440534.3995,6260871.9539 440563.087,6260879.3121 
+        440564.0943,6260872.8806 440564.4608,6260872.4722 440565.9514,6260870.262 440566.4782,6260868.7779 440569.0482,6260854.7714 440573.63,6260832.8884 440574.2324,6260829.4751 440574.3295,6260827.823 440581.7335,6260794.0304 440590.7258,6260741.2143 
+        440595.8852,6260704.0402 440599.5894,6260667.3954 440604.0055,6260612.8464 440605.9076,6260579.5254 440606.4846,6260572.9419 440606.6608,6260572.7462 440609.29,6260540.9337 440612.0038,6260509.9694 440615.4019,6260431.512 440616.4062,6260408.743 
+        440617.4062,6260396.043 440617.4191,6260395.9243 440625.0166,6260341.3424 440637.7737,6260242.9971 440642.2716,6260206.7491 440642.9031,6260178.074 440643.395,6260163.4169 440642.1489,6260155.1735 440639.9026,6260148.5325 440639.4619,6260147.2101 
+        440632.753,6260135.1737 440632.6419,6260134.9399 440628.1419,6260123.6399 440628.0784,6260123.4543 440627.5261,6260121.5398 440627.4733,6260121.3567 440623.5784,6260107.8543 440623.5329,6260107.6615 440619.2225,6260084.1988 440615.8347,6260061.7802 
+        440611.0635,6260041.6019 440593.7668,6259980.3126 440572.3573,6259899.5755 440570.5588,6259893.3988 440545.4233,6259927.5302 440534.1785,6259944.0667 440519.2573,6259962.7417 440507.2615,6259973.8988 440507.142,6259974.0239 440486.8542,6259992.5128 
+        440451.0661,6260026.9013 440450.936,6260027.0103 440428.8404,6260043.1072 440374.2265,6260083.6172 440358.8125,6260094.6271 440347.7125,6260102.3271 440347.4704,6260102.4581 440347.2055,6260102.533 440343.6055,6260103.133 440343.4204,6260103.1498 
+        440343.2348,6260103.139 440340.2348,6260102.739 440340.0256,6260102.6926 440339.8273,6260102.6111 440326.8273,6260095.9111 440326.7143,6260095.8451 440288.9915,6260071.0958 440281.1734,6260067.4799 440270.7144,6260064.689 440263.3144,6260062.289 
+        440263.0112,6260062.1431 440252.4114,6260055.1432 440213.9125,6260029.744 440185.6135,6260011.1446 440185.4161,6260010.9839 440183.7043,6260009.2721 440173.8093,6260019.6252 440169.9244,6260023.7094 440137.6946,6260058.6333 440091.1368,6260116.4808 
+        440076.0541,6260134.9596 440013.1206,6260215.6005 440001.6187,6260229.4026 439972.6921,6260264.034 439961.2921,6260277.234 439961.0798,6260277.4515 439936.2798,6260299.9515 439936.1971,6260300.0233 439907.8308,6260323.5765 439877.2467,6260347.2642 
+        439834.6377,6260381.3712 439816.1373,6260395.803 439812.9812,6260398.265 439813.7114,6260399.6652 439811.0993,6260401.0273 439810.7942,6260400.9798 439810.608,6260401.2836 439807.5007,6260402.8945 439795.2102,6260413.885 439800.0212,6260412.9463 
+        439800.5,6260412.9 439801.985,6260412.9 439801.985,6260415.4 439800.425,6260417.9618 439792.7788,6260419.4537 439792.1782,6260419.497 439789.2432,6260419.3539 439775.2993,6260434.4283 439764.4506,6260446.8608 439757.7641,6260457.8659 
+        439752.0863,6260469.5153 439740.8304,6260497.5056 439717.5407,6260559.5782 439717.4963,6260559.6884 439704.1963,6260590.5884 439704.1457,6260590.6986 439688.223,6260623.2437 439652.7048,6260692.2786 439638.0496,6260719.6948 439624.3816,6260750.722 
+        439615.8844,6260769.6923 439612.08,6260786.6659 439610.7905,6260804.4176 439606.9905,6260847.9176 439606.9645,6260848.1201 439605.4645,6260856.9201 439605.3935,6260857.2219 439599.6935,6260876.1219 439599.5793,6260876.427 439584.0799,6260910.8257 
+        439567.2805,6260948.2244 439567.0935,6260948.5665 439551.4935,6260972.4665 439551.3662,6260972.6441 439536.3662,6260991.7441 439536.2844,6260991.8428 439532.8719,6260995.7571 439483.4732,6261051.5579 439482.0594,6261051.356 439478.1745,6261050.0001 
+        439529.1218,6260992.45 439532.4734,6260988.6055 439547.3663,6260969.6419 439562.7996,6260945.9973 439579.5207,6260908.773 439594.9536,6260874.5218 439600.5616,6260855.9268 439602.0184,6260847.3806 439605.8079,6260804.0007 439607.1066,6260786.1189 
+        439607.1605,6260785.7532 439610.9048,6260769.8136 439617.3869,6260754.1065 439619.8153,6260748.6851 439633.5121,6260717.5922 439633.5952,6260717.4214 439641.9679,6260701.7582 439648.286,6260689.9388 439683.7654,6260620.9787 439699.6277,6260588.5559 
+        439712.687,6260558.2151 439712.8802,6260557.7662 439736.1805,6260495.6673 439747.4805,6260467.5673 439747.5527,6260467.4047 439749.6598,6260463.0814 439760.8187,6260444.6589 439760.9438,6260444.478 439761.042,6260444.3456 439771.442,6260431.2456 
+        439771.5648,6260431.1024 439786.0661,6260415.4253 439791.1446,6260403.3519 439794.5809,6260391.9628 439795.5829,6260387.5256 439795.666,6260387.39 439795.6482,6260387.2363 439796.6572,6260382.7679 439797.799,6260377.3277 439797.468,6260376.2716 
+        439794.3761,6260366.8962 439794.3315,6260366.7505 439792.5435,6260360.4136 439792.331,6260358.578 439791.4181,6260356.4254 439781.8264,6260322.4322 439779.7477,6260314.9092 439763.2035,6260264.1803 439758.3118,6260251.6576 439749.7555,6260235.4301 
+        439738.5881,6260217.1472 439723.3089,6260196.2128 439704.7727,6260172.5939 439666.3123,6260125.9421 439665.3956,6260124.856 439663.0612,6260122.0906 439564.5322,6260005.3657 439527.6198,6259962.1662 439532.0844,6259956.6156 439569.8745,6260000.8424 
+        439670.7447,6260120.3408 439671.7006,6260121.4736 439673.0436,6260123.1026 439710.2533,6260168.2392 439728.8533,6260191.9392 439728.9271,6260192.0366 439744.3271,6260213.1366 439744.4869,6260213.3756 439755.7869,6260231.8756 439755.896,6260232.0676 
+        439764.596,6260248.5676 439764.7601,6260248.9265 439769.7601,6260261.7265 439769.8275,6260261.9148 439786.4275,6260312.8148 439786.4736,6260312.9678 439788.5711,6260320.5587 439801.0478,6260364.7762 439804.1398,6260374.1532 439806.2113,6260380.7624 
+        439810.9742,6260393.4893 439813.0619,6260391.8607 439815.4455,6260390.0013 439831.55,6260377.4385 439874.1692,6260343.3235 439904.7356,6260319.6495 439932.9607,6260296.2117 439957.6074,6260273.8507 439968.8945,6260260.7815 439997.7804,6260226.1984 
+        440009.2538,6260212.4303 440072.1632,6260131.8192 440085.7333,6260115.1936 440076.1372,6260111.5676 440076.6674,6260110.1644 440077.6613,6260108.9365 440087.7288,6260112.7406 440133.8524,6260055.4325 440133.9628,6260055.3045 440166.2886,6260020.277 
+        440170.1927,6260016.1727 440181.0077,6260004.8571 440195.1144,6259990.3502 440234.2144,6259950.4502 440234.4249,6259950.2586 440245.0914,6259941.6065 440259.8979,6259930.4016 440289.5811,6259908.0894 440297.9466,6259900.1176 440310.7464,6259887.1193 
+        440340.8769,6259851.0026 440389.1851,6259792.5928 440428.9256,6259745.2457 440452.2907,6259718.7748 440460.4884,6259710.1772 440467.8348,6259702.4315 440469.6487,6259704.1519 440470.4905,6259706.3037 440470.5833,6259706.7994 440464.1093,6259713.6252 
+        440455.9425,6259722.1904 440432.6949,6259748.531 440393.0207,6259795.8003 440344.7197,6259854.2015 440314.5197,6259890.4015 440314.3813,6259890.5541 440301.4247,6259903.7098 440292.9247,6259911.8098 440292.7021,6259911.9984 440262.9054,6259934.396 
+        440248.1423,6259945.568 440237.6858,6259954.0516 440198.689,6259993.8463 440185.4395,6260007.4717 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+  <gml:innerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        439794.8087,6260407.5365 439805.2596,6260398.191 439800.9193,6260386.5932 439799.4386,6260393.1507 439799.3934,6260393.3222 439795.8934,6260404.9222 439795.8044,6260405.1693 439794.8087,6260407.5365 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:innerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>10</numeroIlot>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+    <intersectionSnaIlot>
+     <numeroIlot>3</numeroIlot>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064039334256</numeroSna>
+   <categorieSna>EA</categorieSna>
+   <typeSna>B2</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        442514.2514,6256855.0085 442517.0084,6256851.5976 442571.6939,6256783.9432 442575.4032,6256779.517 442629.519,6256714.9423 442657.814,6256679.3697 442762.1687,6256532.1933 442799.979,6256480.1886 442808.4404,6256468.8862 442808.7297,6256467.2875 
+        442809.8456,6256461.1214 442772.4581,6256458.996 442772.2581,6256458.9765 442543.3581,6256427.3765 442543.2243,6256427.3543 442520.5191,6256422.9533 442490.5422,6256417.0774 442473.5512,6256415.4876 442472.4803,6256415.3805 442471.7275,6256412.8032 
+        442471.6914,6256410.3024 442472.0488,6256410.3124 442474.0408,6256410.5116 442491.1329,6256412.1109 442491.3809,6256412.1467 442521.4783,6256418.0462 442544.1091,6256422.4328 442772.8423,6256454.0097 442811.2939,6256456.1956 442867.752,6256452.7105 
+        442915.5201,6256446.1287 442947.8772,6256440.636 442994.4865,6256432.5517 443044.9195,6256420.1176 443061.7916,6256413.1529 443102.0458,6256389.8374 443155.9446,6256358.5381 443156.6157,6256358.2692 443167.0047,6256355.7719 443169.7937,6256355.0746 
+        443170.1599,6256355.0116 443170.5314,6256355.0035 443181.9314,6256355.6035 443182.3541,6256355.6622 443184.5726,6256356.1665 443199.8726,6256359.7665 443199.9981,6256359.7995 443314.3523,6256393.057 443350.8784,6256399.0124 443366.9528,6256399.9985 
+        443387.6658,6256399.604 443409.7965,6256395.8497 443446.4853,6256386.9766 443470.3825,6256380.6305 443472.2962,6256379.8103 443483.9534,6256374.5861 443485.8236,6256373.8211 443500.539,6256362.1267 443549.8431,6256313.4215 443550.1,6256313.2 
+        443563.7,6256303.0 443564.2784,6256302.6761 443570.0784,6256300.3761 443570.4959,6256300.2514 443580.6767,6256298.1553 443581.5577,6256297.9595 443582.1,6256297.9 443583.7575,6256297.9 443583.5518,6256300.3677 443583.1031,6256302.9 
+        443582.3744,6256302.9 443581.7041,6256303.0486 443571.7183,6256305.1045 443566.4325,6256307.2007 443561.1844,6256311.1367 443558.6199,6256313.0601 443553.236,6256317.098 443503.9569,6256365.7785 443503.7554,6256365.9572 443488.6554,6256377.9572 
+        443488.0466,6256378.3139 443485.8849,6256379.1982 443484.9824,6256379.6027 443481.7768,6256386.2375 443475.0779,6256411.2183 443463.6597,6256443.3665 443445.8137,6256487.7321 443444.5539,6256495.9695 443445.3489,6256515.3488 443445.3428,6256515.5342 
+        443445.3092,6256515.7167 443444.379,6256519.2682 443443.557,6256521.091 443443.1657,6256522.1916 443439.6333,6256529.7274 443394.6697,6256627.0486 443381.1943,6256670.669 443381.0492,6256670.9795 443374.2492,6256681.4795 443374.0621,6256681.7052 
+        443367.7621,6256687.7052 443367.6168,6256687.824 443355.6105,6256696.2284 443339.1086,6256707.6297 443337.6904,6256705.5709 443354.1863,6256694.1738 443366.1061,6256685.8299 443372.231,6256679.9966 443378.8568,6256669.7657 443392.3057,6256626.231 
+        443392.3653,6256626.0757 443437.3682,6256528.6695 443441.8197,6256519.1728 443442.8434,6256515.2643 443442.0511,6256495.9512 443442.0644,6256495.711 443443.3644,6256487.211 443443.4403,6256486.9335 443461.3307,6256442.4574 443472.7055,6256410.4285 
+        443479.3926,6256385.4764 443479.4745,6256385.2562 443481.4383,6256381.1915 443474.2848,6256384.3979 443472.1848,6256385.2979 443471.8417,6256385.4163 443447.6877,6256391.8299 443410.8877,6256400.7299 443410.7181,6256400.7648 443388.3181,6256404.5648 
+        443387.9476,6256404.5995 443366.9476,6256404.9995 443366.7469,6256404.9953 443350.4469,6256403.9953 443350.1977,6256403.9674 443313.3977,6256397.9674 443313.1019,6256397.9005 443198.6642,6256364.6187 443183.4367,6256361.0357 443181.4548,6256360.5853 
+        443170.6428,6256360.0162 443168.1843,6256360.6308 443158.1395,6256363.0454 443104.553,6256394.1633 443064.153,6256417.5633 443063.8539,6256417.7109 443046.6539,6256424.8109 443046.2985,6256424.9273 442995.5985,6256437.4273 442995.4272,6256437.4632 
+        442948.7184,6256445.5647 442916.2412,6256451.0766 442868.3412,6256457.6766 442868.154,6256457.6953 442811.8693,6256461.1696 442810.7796,6256467.1914 442810.3664,6256469.4746 442810.2991,6256469.6959 442810.1829,6256469.8958 442801.5843,6256481.3816 
+        442763.7898,6256533.3646 442659.3964,6256680.5931 442631.0601,6256716.2172 442573.9132,6256784.4088 442573.9099,6256784.4127 442573.2325,6256785.221 442518.7788,6256852.5889 442515.7285,6256856.3575 442504.8023,6256867.8488 442503.3529,6256866.4707 
+        442514.2514,6256855.0085 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>4</numeroIlot>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064039589555</numeroSna>
+   <categorieSna>EA</categorieSna>
+   <typeSna>B2</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441604.1681,6254578.0065 441601.7121,6254576.9242 441599.3915,6254576.3433 441595.0383,6254575.1113 441582.776,6254616.7257 441575.8859,6254657.3671 441575.8543,6254657.499 441568.5543,6254680.799 441568.4536,6254681.0209 441564.8536,6254686.9209 
+        441564.7536,6254687.0574 441560.6536,6254691.7574 441560.5307,6254691.876 441560.3895,6254691.972 441544.8895,6254700.672 441544.7529,6254700.7357 441539.2813,6254702.7993 441538.0423,6254702.1979 441537.6894,6254701.2622 441543.9764,6254698.891 
+        441559.26,6254690.3125 441563.1906,6254685.8066 441566.6824,6254680.0839 441573.9254,6254656.9659 441580.8141,6254616.3329 441580.8408,6254616.2174 441593.5085,6254573.2267 441593.0224,6254573.1418 441594.8172,6254562.8714 441598.9872,6254531.696 
+        441596.6201,6254513.2525 441591.233,6254488.0131 441591.2,6254487.6955 441591.235,6254487.378 441593.0372,6254479.1781 441561.6507,6254463.8228 441561.466,6254463.7118 441546.2783,6254452.6932 441539.2545,6254449.6691 441420.3954,6254410.0827 
+        441416.628,6254408.7939 441396.0617,6254403.0034 441394.3493,6254402.5227 441376.0925,6254397.398 441374.0725,6254396.831 441373.2622,6254396.6035 441373.0492,6254396.5221 441372.8546,6254396.4034 441372.7,6254396.2886 441373.9825,6254394.127 
+        441374.1601,6254394.2589 441376.0052,6254394.7768 441396.7388,6254400.5968 441398.2767,6254401.0298 441404.6455,6254402.8236 441417.4046,6254406.4173 441421.1998,6254407.7157 441540.095,6254447.314 441540.1943,6254447.3519 441547.3943,6254450.4519 
+        441547.634,6254450.5882 441562.8465,6254461.6247 441593.5911,6254476.6659 441596.9987,6254461.2422 441596.8004,6254436.3575 441594.6035,6254404.4029 441594.6026,6254404.211 441595.8026,6254384.011 441595.8294,6254383.8043 441599.5294,6254365.4043 
+        441599.5778,6254365.2231 441605.2774,6254348.2244 441616.4749,6254314.632 441618.6266,6254307.9811 441620.8978,6254288.0346 441620.8004,6254284.3334 441620.2017,6254257.4921 441617.7117,6254232.7918 441611.4227,6254192.7618 441606.7271,6254168.9838 
+        441603.0473,6254149.8888 441597.4163,6254133.5884 441587.1976,6254113.5479 441567.8376,6254083.4102 441563.5369,6254076.709 441552.1369,6254058.909 441552.0249,6254058.6993 441551.9475,6254058.4745 441547.8475,6254042.5745 441547.8053,6254042.3256 
+        441546.8052,6254030.4246 441546.3052,6254024.4246 441546.3041,6254024.1896 441548.1041,6253999.7896 441548.1533,6253999.5039 441550.4533,6253991.1039 441550.5483,6253990.8497 441555.6513,6253980.2435 441564.7818,6253961.4862 441568.9283,6253944.7028 
+        441586.5038,6253833.1587 441586.8133,6253823.4848 441558.8675,6253826.4856 441518.07,6253830.8854 441459.5719,6253837.2852 441459.4653,6253837.2945 441442.8717,6253838.3941 441402.297,6253841.2923 441385.0211,6253842.7902 441353.1284,6253845.6895 
+        441304.5148,6253850.1908 441230.2447,6253856.5958 441223.3522,6253856.9954 441210.9508,6253857.7891 441191.7318,6253860.4366 441180.0393,6253864.9783 441163.9454,6253873.4696 441149.7233,6253882.321 441120.6136,6253900.5271 441033.0123,6253954.6279 
+        441018.3051,6253963.698 441016.9928,6253961.5701 441016.3604,6253959.5075 441016.3119,6253959.0529 441030.387,6253950.3725 441117.9803,6253896.2767 441147.079,6253878.0775 441161.379,6253869.1775 441161.5334,6253869.0889 441177.8334,6253860.4889 
+        441178.0948,6253860.3696 441190.1948,6253855.6696 441190.7588,6253855.5234 441210.3588,6253852.8234 441210.5403,6253852.8051 441223.0553,6253852.0042 441229.9202,6253851.6062 441304.0773,6253845.2099 441352.6737,6253840.7103 441384.584,6253837.8093 
+        441401.9219,6253836.3064 441441.3215,6253833.4921 441441.402,6253831.9232 441441.4616,6253831.5746 441441.6012,6253831.2496 441446.8012,6253822.2496 441446.9375,6253822.052 441465.8301,6253798.8837 441481.0584,6253768.0292 441483.6584,6253762.8292 
+        441483.8683,6253762.5155 441531.3831,6253707.8987 441533.9688,6253705.0147 441534.9368,6253703.8707 441549.5557,6253674.3346 441549.6593,6253674.157 441554.9593,6253666.357 441555.0439,6253666.2443 441588.0036,6253626.3763 441604.5479,6253608.6579 
+        441606.9988,6253610.4288 441590.2273,6253628.3906 441557.4011,6253668.1014 441552.1986,6253675.7578 441537.5443,6253705.3654 441537.3451,6253705.6689 441536.2169,6253707.0013 441533.6243,6253709.893 441486.2566,6253764.341 441483.7434,6253769.3673 
+        441468.4451,6253800.3639 441468.2625,6253800.648 441449.3386,6253823.8547 441444.3795,6253832.4376 441444.336,6253833.2861 441459.0813,6253832.309 441517.5319,6253825.9144 441558.3331,6253821.5143 441588.131,6253818.3145 441674.3702,6253808.9106 
+        441680.8666,6253808.3109 441718.6608,6253804.7115 441748.5737,6253801.8103 441750.9785,6253801.5916 441750.3131,6253806.6728 441749.0338,6253806.7891 441719.137,6253809.6887 441681.3298,6253813.2894 441674.8504,6253813.8875 441589.8253,6253823.1594 
+        441589.4992,6253833.348 441589.4817,6253833.5335 441571.8817,6253945.2335 441571.8562,6253945.3598 441567.6562,6253962.3598 441567.5487,6253962.6565 441558.3502,6253981.5534 441553.3108,6253992.0276 441551.0852,6254000.1556 441549.3046,6254024.2928 
+        441549.7948,6254030.1749 441550.7841,6254041.9481 441554.7926,6254057.4931 441566.0628,6254075.0904 441570.3622,6254081.7896 441589.762,6254111.9893 441589.8363,6254112.1186 441600.1363,6254132.3186 441600.2178,6254132.5102 441605.9178,6254149.0102 
+        441605.9729,6254149.2162 441609.6722,6254168.4128 441614.3818,6254192.2672 441620.6924,6254232.4496 441623.1924,6254257.2496 441623.1996,6254257.3666 441623.7996,6254284.2635 441623.8995,6254288.0605 441623.8904,6254288.2697 441621.5904,6254308.4697 
+        441621.5272,6254308.7617 441619.323,6254315.5743 441608.1222,6254349.1769 441602.452,6254366.0878 441598.7912,6254384.2933 441597.6031,6254404.293 441599.8,6254436.288 441600.0,6254461.388 441599.9647,6254461.7236 441596.1649,6254478.9228 
+        441594.2348,6254487.7046 441599.567,6254512.6869 441599.5878,6254512.8091 441601.9878,6254531.5091 441601.9868,6254531.8989 441597.7776,6254563.3582 441596.2106,6254572.3252 441600.1862,6254573.4504 441602.5638,6254574.0448 441602.8049,6254574.1274 
+        441605.5004,6254575.3152 441604.1681,6254578.0065 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>2</numeroIlot>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064040192760</numeroSna>
+   <categorieSna>VG</categorieSna>
+   <typeSna>V4</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440601.0683,6259821.9252 440609.7334,6259802.5445 440611.0599,6259802.518 440612.247,6259803.0736 440603.4496,6259822.8513 440602.0605,6259825.1664 440599.9438,6259823.5789 440601.0683,6259821.9252 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>10</numeroIlot>
+     <largeur>2.6</largeur>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+   <intersectionsSnaParcelles>
+    <intersectionSnaParcelle>
+     <numeroIlot>10</numeroIlot>
+     <numeroParcelle>1</numeroParcelle>
+     <longueur-sie>15.5</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+    <intersectionSnaParcelle>
+     <numeroIlot>10</numeroIlot>
+     <numeroParcelle>2</numeroParcelle>
+     <longueur-sie>8.3</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+   </intersectionsSnaParcelles>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064040318751</numeroSna>
+   <categorieSna>VG</categorieSna>
+   <typeSna>V4</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440560.6602,6259787.2179 440567.8327,6259833.3548 440567.8836,6259833.5499 440567.9726,6259833.7308 440568.0961,6259833.8902 440568.2491,6259834.0216 440568.4253,6259834.1196 440568.6176,6259834.1803 440577.7176,6259836.0689 440577.3239,6259836.6595 
+        440578.2479,6259838.4617 440566.6063,6259836.6096 440561.05,6259817.4273 440558.6687,6259805.6533 440556.1552,6259787.5293 440559.9119,6259787.5172 440560.6602,6259787.2179 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>10</numeroIlot>
+     <largeur>4.8</largeur>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+   <intersectionsSnaParcelles>
+    <intersectionSnaParcelle>
+     <numeroIlot>10</numeroIlot>
+     <numeroParcelle>1</numeroParcelle>
+     <longueur-sie>45.1</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+    <intersectionSnaParcelle>
+     <numeroIlot>10</numeroIlot>
+     <numeroParcelle>2</numeroParcelle>
+     <longueur-sie>13.6</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+   </intersectionsSnaParcelles>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064040480153</numeroSna>
+   <categorieSna>VG</categorieSna>
+   <typeSna>V4</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441063.806,6260107.0556 441068.7364,6260111.4929 441027.2284,6260137.0014 441004.4868,6260150.9772 441002.9356,6260148.0965 441000.3823,6260143.3547 441050.6817,6260113.6667 441063.806,6260107.0556 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>6</numeroIlot>
+     <largeur>8.6</largeur>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+   <intersectionsSnaParcelles>
+    <intersectionSnaParcelle>
+     <numeroIlot>6</numeroIlot>
+     <numeroParcelle>1</numeroParcelle>
+     <longueur-sie>26.5</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+   </intersectionsSnaParcelles>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064040528756</numeroSna>
+   <categorieSna>VG</categorieSna>
+   <typeSna>V4</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441153.4702,6254322.5508 441181.115,6254288.9562 441182.3346,6254287.4742 441186.7239,6254289.598 441186.3721,6254290.0274 441149.0859,6254335.5415 441147.9685,6254334.6018 441147.5078,6254334.2144 441145.1859,6254332.6181 441153.4702,6254322.5508 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>13</numeroIlot>
+     <largeur>4.8</largeur>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+   <intersectionsSnaParcelles>
+    <intersectionSnaParcelle>
+     <numeroIlot>13</numeroIlot>
+     <numeroParcelle>2</numeroParcelle>
+     <longueur-sie>21.8</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+   </intersectionsSnaParcelles>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064040651791</numeroSna>
+   <categorieSna>VG</categorieSna>
+   <typeSna>V4</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441087.5478,6254295.862 441095.7043,6254302.5866 441110.2564,6254317.4033 441114.3574,6254319.7845 441123.0887,6254330.3679 441121.1043,6254332.0877 441108.9334,6254319.6522 441087.4487,6254296.3081 441087.5478,6254295.862 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>13</numeroIlot>
+     <largeur>3.7</largeur>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+   <intersectionsSnaParcelles>
+    <intersectionSnaParcelle>
+     <numeroIlot>13</numeroIlot>
+     <numeroParcelle>2</numeroParcelle>
+     <longueur-sie>34.9</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+   </intersectionsSnaParcelles>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064040700349</numeroSna>
+   <categorieSna>VG</categorieSna>
+   <typeSna>V4</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441051.9152,6254265.8094 441056.6777,6254267.9261 441047.9464,6254273.6147 441036.0401,6254284.3303 441033.5266,6254288.1668 441024.9321,6254294.2591 441024.8164,6254294.0689 441023.3205,6254291.6077 441023.1571,6254291.3391 441051.9152,6254265.8094 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>13</numeroIlot>
+     <largeur>4.5</largeur>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+   <intersectionsSnaParcelles>
+    <intersectionSnaParcelle>
+     <numeroIlot>13</numeroIlot>
+     <numeroParcelle>2</numeroParcelle>
+     <longueur-sie>39.5</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+   </intersectionsSnaParcelles>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064040896161</numeroSna>
+   <categorieSna>VG</categorieSna>
+   <typeSna>V4</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440632.5182,6259803.8562 440631.2312,6259805.1244 440613.4379,6259798.179 440612.3134,6259798.0467 440611.3874,6259796.9884 440611.8504,6259795.5332 440632.3723,6259803.8063 440632.5182,6259803.8562 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>10</numeroIlot>
+     <largeur>1.9</largeur>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+   <intersectionsSnaParcelles>
+    <intersectionSnaParcelle>
+     <numeroIlot>10</numeroIlot>
+     <numeroParcelle>2</numeroParcelle>
+     <longueur-sie>21</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+    <intersectionSnaParcelle>
+     <numeroIlot>10</numeroIlot>
+     <numeroParcelle>1</numeroParcelle>
+     <longueur-sie>0.5</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+   </intersectionsSnaParcelles>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064041113863</numeroSna>
+   <categorieSna>VG</categorieSna>
+   <typeSna>V6</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440167.9434,6259454.0884 440176.3557,6259446.3555 440180.5891,6259444.768 440188.5266,6259443.9742 440199.0059,6259449.9227 440203.5038,6259452.3039 440229.4049,6259461.4367 440233.3736,6259461.7013 440234.2997,6259463.6857 440227.8455,6259463.681 
+        440216.2038,6259459.7123 440205.0363,6259456.5176 440192.3913,6259448.9966 440182.9986,6259448.2029 440178.093,6259449.1359 440170.8791,6259453.709 440167.4485,6259455.4564 440163.7787,6259457.3255 440167.9434,6259454.0884 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064041273485</numeroSna>
+   <categorieSna>VG</categorieSna>
+   <typeSna>V4</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        441334.5265,6253860.6291 441285.4289,6253905.8608 441283.632,6253904.8126 441278.8372,6253902.0156 441324.4339,6253859.4128 441327.2444,6253859.3221 441334.5265,6253860.6291 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>2</numeroIlot>
+     <largeur>7.7</largeur>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+   <intersectionsSnaParcelles>
+    <intersectionSnaParcelle>
+     <numeroIlot>2</numeroIlot>
+     <numeroParcelle>3</numeroParcelle>
+     <longueur-sie>64.6</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+   </intersectionsSnaParcelles>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064041290781</numeroSna>
+   <categorieSna>VG</categorieSna>
+   <typeSna>V4</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440257.5439,6259469.5541 440257.7684,6259465.2753 440286.6482,6259465.5854 440289.0294,6259470.3479 440257.5439,6259469.5541 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>8</numeroIlot>
+     <largeur>4.7</largeur>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+   <intersectionsSnaParcelles>
+    <intersectionSnaParcelle>
+     <numeroIlot>8</numeroIlot>
+     <numeroParcelle>1</numeroParcelle>
+     <longueur-sie>30.1</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+   </intersectionsSnaParcelles>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064045588866</numeroSna>
+   <categorieSna>VG</categorieSna>
+   <typeSna>V4</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440342.3818,6259463.4202 440312.1804,6259466.2471 440311.7836,6259462.2783 440348.4284,6259459.2356 440355.611,6259455.2181 440360.7703,6259449.3973 440366.9881,6259441.9889 440372.412,6259435.2421 440379.5558,6259426.3785 440385.6412,6259420.0285 
+        440393.5787,6259416.5889 440393.9756,6259419.6316 440391.0652,6259424.2618 440384.0537,6259428.892 440374.661,6259439.6077 440367.1203,6259448.7358 440361.1672,6259456.5411 440353.8912,6259462.3619 440342.3818,6259463.4202 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>8</numeroIlot>
+     <largeur>5.3</largeur>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+    <intersectionSnaIlot>
+     <numeroIlot>1</numeroIlot>
+     <largeur>6.5</largeur>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+   <intersectionsSnaParcelles>
+    <intersectionSnaParcelle>
+     <numeroIlot>8</numeroIlot>
+     <numeroParcelle>1</numeroParcelle>
+     <longueur-sie>21.4</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+    <intersectionSnaParcelle>
+     <numeroIlot>1</numeroIlot>
+     <numeroParcelle>1</numeroParcelle>
+     <longueur-sie>3.9</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+   </intersectionsSnaParcelles>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064048419957</numeroSna>
+   <categorieSna>VG</categorieSna>
+   <typeSna>V4</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        439695.9703,6259161.2608 439557.8636,6259210.4713 439557.1922,6259208.5873 439695.305,6259159.3747 439695.3172,6259159.3705 439767.284,6259134.7642 439767.402,6259134.7317 439846.7725,6259118.0639 439873.1715,6259112.2562 439908.8374,6259100.1033 
+        439909.4824,6259101.9965 439873.7635,6259114.1674 439873.6559,6259114.1974 439847.1976,6259120.0182 439847.1882,6259120.0203 439767.873,6259136.6765 439695.9703,6259161.2608 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>11</numeroIlot>
+     <largeur>2</largeur>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+   <intersectionsSnaParcelles>
+    <intersectionSnaParcelle>
+     <numeroIlot>11</numeroIlot>
+     <numeroParcelle>1</numeroParcelle>
+     <longueur-sie>299.8</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+   </intersectionsSnaParcelles>
+  </sna-declaree>
+  <sna-declaree>
+   <numeroSna>064053778773</numeroSna>
+   <categorieSna>AT</categorieSna>
+   <typeSna>A4</typeSna>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440964.4057,6259119.3522 440965.2086,6259119.9372 440964.3252,6259121.1496 440962.8912,6259120.1047 440962.689,6259119.883 440962.5898,6259119.5998 440962.6095,6259119.3004 440962.7451,6259119.0327 440981.9275,6259094.8233 440981.9928,6259094.7511 
+        441018.6376,6259059.1646 441018.9296,6259058.9889 441019.2692,6259058.9606 441020.6021,6259059.1565 441020.3839,6259060.6405 441019.4171,6259060.4984 440983.0728,6259095.7931 440964.4057,6259119.3522 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+   <intersectionsSnaIlots>
+    <intersectionSnaIlot>
+     <numeroIlot>12</numeroIlot>
+     <largeur>1.5</largeur>
+     <declare-sie>false</declare-sie>
+    </intersectionSnaIlot>
+   </intersectionsSnaIlots>
+   <intersectionsSnaParcelles>
+    <intersectionSnaParcelle>
+     <numeroIlot>12</numeroIlot>
+     <numeroParcelle>1</numeroParcelle>
+     <longueur-sie>0.7</longueur-sie>
+     <declare-sie>true</declare-sie>
+    </intersectionSnaParcelle>
+   </intersectionsSnaParcelles>
+  </sna-declaree>
+  <zdh-declaree>
+   <numeroZdh>064007137675</numeroZdh>
+   <densiteVegetation>MOINS_10</densiteVegetation>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440560.3306,6259802.4164 440570.4794,6259799.5167 440611.7545,6259794.7542 440621.8087,6259796.3417 440640.3295,6259803.75 440662.0595,6259820.6511 440656.7631,6259818.7159 440641.1527,6259811.7044 440636.613,6259812.293 440624.51,6259807.536 
+        440615.3557,6259803.8992 440598.4224,6259841.9993 440585.1932,6259840.5441 440567.7307,6259837.5014 440560.3306,6259802.4164 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+  </zdh-declaree>
+  <zdh-declaree>
+   <numeroZdh>064007425189</numeroZdh>
+   <densiteVegetation>MOINS_10</densiteVegetation>
+   <geometrie>
+    
+    <gml:Polygon>
+  <gml:outerBoundaryIs>
+    <gml:LinearRing>
+      <gml:coordinates>
+        440911.8948,6254152.3824 440915.3336,6254151.6946 440945.4786,6254182.5847 440925.0524,6254201.0084 440961.5649,6254243.3418 440977.2872,6254261.6845 440949.791,6254284.136 440938.943,6254271.7 440929.153,6254258.736 440919.893,6254244.977 
+        440909.045,6254230.161 440897.403,6254212.509 440896.345,6254196.823 440898.197,6254179.89 440905.87,6254169.571 440916.189,6254158.458 440911.8948,6254152.3824 
+      </gml:coordinates>
+    </gml:LinearRing>
+  </gml:outerBoundaryIs>
+</gml:Polygon>
+
+    
+   </geometrie>
+  </zdh-declaree>
+ </rpg>
+ <demandes-aides-pilier1-et-AR paiement-jeunes-agriculteurs="false" soja="false" proteagineux="false" legumineuses-fourrageres-deshydratation="false" semences-legumineuses-fourrageres="false" ble-dur="false" prunes-transformation="false" cerises-transformation="false" peches-transformation="false" poires-transformation="false" tomates-industrie="false" pommes-terre-feculieres="false" chanvre="false" houblon="false" semences-graminees="false" riz="false">
+  <demande-aides-decouplees aides-decouplees="true" derogation-AB="false" schema-certification-mais="false" />
+  <demande-legumineuses-fourrageres legumineuse-fourragere="false" />
+  <demande-assurance-recolte assurance-recolte="false" />
+ </demandes-aides-pilier1-et-AR>
+ <demandes-aides-pilier2 demande-ab="false" demande-maec="false" demande-agroforesterie="false">
+  <ichn demande-ichn="false" />
+ </demandes-aides-pilier2>
+</producteur></producteurs>
