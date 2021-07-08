@@ -9,6 +9,8 @@ sales_conditions: "Une indemnité forfaitaire de 40 € sera réclamée pour fra
 demo: true                                       # Mode démo (oui/non)
 create_activities_from_telepac: true             # Création des activités uniquement à partir des fichiers TELEPAC
 permanent_stock_inventory: false
+subscription_id: sub_JoVT24Sch1Zr3t             # use for SAASY link to Stripe Offer Ekyagri gestion
+customer_id: cus_JoVSup72ICfT9k                 # use for SAASY link to Stripe customer
 company:
   last_name: GAEC JOULIN                         # Nom
   activity_code: 0111Z
