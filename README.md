@@ -1,7 +1,11 @@
 # First-Run Demo
 
-This First-Run is an open *mirror* dataset of french farm (Gaec JOULIN / 17250 SAINT-PORCHAIRE) with husbandry and crops.
 It help to populate Ekylibre with real farm data and drive developpement to be more focus on real things.
+Each folder contains an agricultural dataset of raw data to import in Ekylibre to create a farm instance.
+
+## folders demo and demo-gestion
+
+This First-Run is an open *mirror* dataset of french farm (Gaec JOULIN / 17250 SAINT-PORCHAIRE) with husbandry and crops.
 
 # Demo
 

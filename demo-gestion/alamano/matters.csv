@@ -18,24 +18,22 @@ Semence de blé Rubisko,seed,WHEAT_SEED_RUBISKO_2018,S05_D07,2017-01-01,seed,tri
 Semence d’orge Amistar,seed,BARLEY_SEED_AMISTAR_2016,S05_D07,2016-01-01,seed,hordeum_hexastichum,,Population : 15,,,
 Semence de luzerne Neovia 2019,lucerne_seed,LUCERNE_SEED_2019,S05_D07,2018-01-01,seed,medicago_sativa,,Population : 15,,,
 ,FERTILISANT,,,,,,,,,,
-Ammonitrate 33 vrac,bulk_ammonitrate_33,AMMO_2014,S04_D01,2013-01-01,preparation,,,Population : 2.47 ; net_volume: 1liter ; net_mass : 1kilogram,,387,ton
-Solution ternaire liquide 15.30 densité 1.4,mixed_liquid_fertilizer,,S04_D01,2013-01-01,preparation,,,Population : 8 ; net_volume: 1liter ; net_mass : 1kilogram ;  nitrogen_concentration: 15percent ; phosphorus_concentration: 30percent,,420,ton
-Urée,bulk_urea_46,UREE_2014,S04_D01,2013-01-01,preparation,,,Population : 15; net_volume: 1liter ; net_mass : 1kilogram,,395,ton
-Solution 10_25,liquid_10_25_d1.4,,S04_D01,2013-01-01,preparation,,,Population : 5; net_volume: 1liter ; net_mass : 1kilogram,,430,ton
+Ammonitrate 33 vrac,ammonitrate_33,AMMO_2014,S04_D01,2013-01-01,preparation,,,Population : 2.47,,387,ton
+Solution ternaire liquide 13-26 densité 1.4,0_13_26,,S04_D01,2013-01-01,preparation,,,Population : 8,,420,ton
+Urée,urea_46,UREE_2014,S04_D01,2013-01-01,preparation,,,Population : 15,,395,ton
+Solution 10_45,10_45_0,,S04_D01,2013-01-01,preparation,,,Population : 5; net_volume: 1liter ; net_mass : 1kilogram,,430,ton
 Orgabio 10 4 0,mixed_organic_fertilizer,ORGABIO_2018,S04_D01,2017-01-01,preparation,,,Population : 5 ; nitrogen_concentration: 10percent ; phosphorus_concentration: 4percent,,350,ton
-Fumier de l'exploitation,cattle_manure,FUMIER_2014,S05_D05,2013-01-01,manure,bos,,Population : 350; net_volume: 1liter ; net_mass : 1kilogram,,61,ton
-Fumier de l'exploitation,cattle_manure,FUMIER_2015,S05_D05,2014-01-01,manure,bos,,Population : 450; net_volume: 1liter ; net_mass : 1kilogram,,61,ton
-Fumier de l'exploitation,cattle_manure,FUMIER_2016,S05_D05,2015-01-01,manure,bos,,Population : 400; net_volume: 1liter ; net_mass : 1kilogram,,61,ton
+Fumier de l'exploitation,cowshed_cattle_manure,FUMIER_2014,S05_D05,2013-01-01,manure,bos,,Population : 350; net_volume: 1liter ; net_mass : 1kilogram,,61,ton
+Fumier de l'exploitation,cowshed_cattle_manure,FUMIER_2015,S05_D05,2014-01-01,manure,bos,,Population : 450; net_volume: 1liter ; net_mass : 1kilogram,,61,ton
+Fumier de l'exploitation,cowshed_cattle_manure,FUMIER_2016,S05_D05,2015-01-01,manure,bos,,Population : 400; net_volume: 1liter ; net_mass : 1kilogram,,61,ton
 ,EAU (m³),,,,,,,,,,
 Eau de la rivière Bruant,irrigation_water,,S09_D02,2013-01-01,,,,Population : 500 ; nitrogen_concentration: 45parts_per_million,,,
 Eau du réseau,running_water,,S09_D02,2013-01-01,,,,Population : 500 ; nitrogen_concentration: 15parts_per_million,,,
 Eau du puit,natural_water,,S09_D02,2013-01-01,,,,Population : 500 ; nitrogen_concentration: 30parts_per_million,,,
 ,DEFENSES DES VEGETAUX,,,,,,,,,,
 Axial Pratic,AXIAL,AXIAL_2015_01,S05_D07,2013-01-01,preparation,,,Population : 50,,23.33,l
-Opus team,fungicide,OPUS_2015_01,S05_D07,2015-01-01,preparation,,,Population : 50,,78,l
-Riflexine,riflexine,,S05_D07,2013-01-01,preparation,,,Population : 40,,4,l
-Actilact,actilact,,S05_D07,2013-01-01,preparation,,,Population : 150,,2.85,l
-Acetal,acetal,,S05_D07,2013-01-01,preparation,,,Population : 4,,15.58,l
+Actilact,cow_medicine,,S05_D07,2013-01-01,preparation,,,Population : 150,,2.85,l
+Acetal,cow_medicine,,S05_D07,2013-01-01,preparation,,,Population : 4,,15.58,l
 Belem 0.8 MG,granulated_insecticide_12,,S05_D07,2013-01-01,preparation,,,Population : 2,,50.23,kg
 Callisto,CALLISTO,CALLISTO_2015_01,S05_D07,2014-01-06,preparation,,,Population : 10,,45.78,l
 Bromotril,BROMOTRIL_225,BROMOTRIL_225_2016,S05_D07,2014-01-06,preparation,,,Population : 10,,55,l
@@ -50,11 +48,9 @@ Aviator,AVIATOR_XPRO,AVIATOR_XPRO_2015,S05_D07,2014-01-06,preparation,,,Populati
 Fandango,FANDANGO,FANDANGO_2016,S05_D07,2014-01-06,preparation,,,Population : 10,,,
 Heliosouffre S,HELIOSOUFFRE,HELIOSOUFFRE_2020,S05_D07,2020-01-06,preparation,,,Population : 100,,45,kg
 ,CARBURANT ET LUBRIFIANT,,,,,,,,,,
-Huile moteur MOTUL ,motor_oil,,S09_D01,2013-01-01,oil,,,Population : 220; net_volume: 1liter ; net_mass : 1kilogram,,2.87,l
-Huile hydraulique PROBEOL HV,hydraulic_oil,,S09_D01,2013-01-01,oil,,,Population : 80; net_volume: 1liter ; net_mass : 1kilogram,,4.24,l
-Gasoil,diesel,GASOIL_2014,S09_D01,2013-01-01,fuel,,,Population : 4500 ; net_volume: 1liter ; net_mass : 1kilogram,,0.61,l
-,PIECE ET CONSOMMABLE,,,,,,,,,,
-Boulons,bolt,,S09_D01,2013-01-01,,,,Population : 80,,1.05,unity
+Huile moteur MOTUL ,oil_and_lubricate,,S09_D01,2013-01-01,oil,,,Population : 220,,2.87,l
+Huile hydraulique PROBEOL HV,oil_and_lubricate,,S09_D01,2013-01-01,oil,,,Population : 80,,4.24,l
+Gasoil,fuel,GASOIL_2014,S09_D01,2013-01-01,fuel,,,Population : 4500,,0.61,l
 ,PRODUIT VEGETAUX,,,,,,,,,,
 Blé dur 2015,hard_wheat_grain,HARD_WHEAT_GRAIN_2015,SILO_EXT_01,2015-01-01,,,,Population : 15,,398,ton
 Blé tendre en stockage à façon à la coopérative,wheat_grain,WHEAT_GRAIN_2014,SILO_EXT_01,2014-01-01,,,,Population : 27.7,,180,ton
