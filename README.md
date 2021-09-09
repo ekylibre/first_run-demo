@@ -3,13 +3,15 @@
 It help to populate Ekylibre with real farm data and drive developpement to be more focus on real things.
 Each folder contains an agricultural dataset of raw data to import in Ekylibre to create a farm instance.
 
-## folders demo and demo-gestion
-
 This First-Run is an open *mirror* dataset of french farm (Gaec JOULIN / 17250 SAINT-PORCHAIRE) with husbandry and crops.
 
-# Demo
+# Demos
 
-You can view the implementation of this data throught [![demo](https://github.com/ekylibre/first_run-demo/blob/master/alamano/background.jpg)](https://demo.ekylibre.farm)
+demo, demo-production and demo-gestion
+
+- demo folder is for local development and staging purposes
+
+- [demo-production](https://demo-production.ekyagri.farm) and [demo-gestion](https://demo-gestion.ekyagri.farm) folders is for online demos.
 
 # Bugs
 
