@@ -7,9 +7,11 @@ This First-Run is an open *mirror* dataset of french farm (Gaec JOULIN / 17250 S
 
 # Demos
 
-demo, demo-production and demo-gestion
+demo, demo-innovation, demo-production and demo-gestion
 
 - demo folder is for local development and staging purposes
+
+- [demo-innovation](https://demo-innovation.ekylibre.io/sign-in) folders is for innovation and beta demos.
 
 - [demo-production](https://demo-production.ekyagri.farm) and [demo-gestion](https://demo-gestion.ekyagri.farm) folders is for online demos.
 
@@ -21,7 +23,7 @@ Feel free to write issues if needed
 
 This dataset is release under [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-[Ekylibre](https://ekylibre.com) is Copyright (C) 2012-2019 Brice Texier, David Joulin, Ekylibre SAS.
+[Ekylibre](https://ekylibre.com) is Copyright (C) 2012-2023 Brice Texier, David Joulin, Ekylibre SAS.
 Ekylibre is a free software, and may be redistributed under the terms specified in [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0).
 
 # Warranty
