@@ -42,36 +42,49 @@ financial_years:
   EX2016:                                        # Code d'un exercice comptable
     started_on: 2016-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
     stopped_on: 2016-12-31
+    accounting_system: fr_pcga
     already_existing: true                      # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
   EX2017:                                        # Code d'un exercice comptable
     started_on: 2017-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
     stopped_on: 2017-12-31
+    accounting_system: fr_pcga
     already_existing: true                     # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
   EX2018:                                        # Code d'un exercice comptable
     started_on: 2018-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
     stopped_on: 2018-12-31
+    accounting_system: fr_pcga
     already_existing: true                      # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
   EX2019:                                        # Code d'un exercice comptable
     started_on: 2019-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
     stopped_on: 2019-12-31
+    accounting_system: fr_pcga
     already_existing: true                      # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
   EX2020:                                        # Code d'un exercice comptable
     started_on: 2020-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
     stopped_on: 2020-12-31
+    accounting_system: fr_pcga
     already_existing: true                      # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
   EX2021:                                        # Code d'un exercice comptable
     started_on: 2021-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
     stopped_on: 2021-12-31
+    accounting_system: fr_pcga
     already_existing: true                      # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
   EX2022:                                        # Code d'un exercice comptable
     started_on: 2022-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
     stopped_on: 2022-12-31
+    accounting_system: fr_pcga
+    already_existing: true                      # Fin d'un exercice comptable (format AAAA-MM-JJ)
+    currency: EUR
+  EX2023:                                        # Code d'un exercice comptable
+    started_on: 2023-01-01                       # Début d'un exercice comptable (format AAAA-MM-JJ)
+    stopped_on: 2023-12-31
+    accounting_system: fr_pcga
     already_existing: true                      # Fin d'un exercice comptable (format AAAA-MM-JJ)
     currency: EUR
 journals:
@@ -209,6 +222,7 @@ net_services:                                    # Services en ligne
     password: 000000
 identifiers:                                     # Identifiants
   openweathermap_api_key: 25ec253e68abca2e4115718432525549
+  # agromonitoring_api_key: ab7dfa9e16f9c57f08384dd4095c8c24
   pacage_number: 12346578                        # Nom et valeur d'un identifiant
   husbandry_owner_number: FR01700006989
   cattling_root_number: 173513

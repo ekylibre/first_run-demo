@@ -59,7 +59,8 @@ CLAAS 98 SL,reaper,CLAAS_98_SL,,,,,ETA,"Population : 1 ; application_width : 
 NH 250,grape_reaper,,,,,,ETA,"Population : 1 ; application_width : 2,5m",,88,usage_duration
 Presse balle carré,baler,,,,,,ETA,Population : 1,,93,usage_duration
 ,TRANSPORT,,,,,,,,,,
-Remorque 11T,trailer,,S06_D02,,,,,Population : 1 ;  nominal_storable_net_mass : 11000 kg,,0.68,usage_duration
+Remorque 18T,trailer,REM_18,S06_D02,,,,,Population : 1 ;  nominal_storable_net_mass : 18000 kg,,0.68,usage_duration
+Remorque 11T,trailer,REM_11,S06_D02,,,,,Population : 1 ;  nominal_storable_net_mass : 11000 kg,,0.68,usage_duration
 Remorque épandeur ,spreader_trailer,SPREADER_TRAILER,S06_D02,,,,,Population : 1 ;  nominal_storable_net_mass : 8000 kg,,8,usage_duration
 Remorque monocoque,trailer,MONO_11,S06_D02,,,,,Population : 1 ;  nominal_storable_net_mass : 8000 kg,,0.5,usage_duration
 Benne vendange 60,grape_trailer,,S06_D02,,,,,Population : 1 ;  nominal_storable_net_mass : 6000 kg,,0.5,usage_duration
