@@ -34,3 +34,8 @@ intervention id;Campagne;Date début;Heure début;durée (heures);procedure;desc
 33;2021;12/10/2020;09:00:00;8;superficial_plowing;Cover crop;ZC01, ZC02, ZC06, ZC07, ZC15, ZC18;;;AJ;TRAC_745, PLOW_05;;;;;;;;;;;;;;;;
 34;2021;10/03/2021;09:00:00;8;spraying;Pulvérisation;ZC01, ZC02, ZC06, ZC07, ZC15, ZC18;;;DJ;TRAC_745, PULVE_01;HELIOSOUFFRE_2020;2;liter;hectare;;;;;;;;;;U_20200507154520694718;;
 35;2021;18/04/2021;09:00:00;8;spraying;Pulvérisation;ZC01, ZC02, ZC06, ZC07, ZC15, ZC18;;;DJ;TRAC_745, PULVE_01;HELIOSOUFFRE_2020;2;liter;hectare;;;;;;;;;;U_20200507154520694718;;
+36;2023;18/10/2022;09:00:00;12;sowing_without_plant_output;Semis blé Arrezo Euclide Rubisko;ZC01, ZC02, ZC06;wheat_crop;triticum_aestivum;DJ;TRAC_533, SEM_01;WHEAT_SEED_RUBISKO_2015;135;kilogram;hectare;;;;;;;;;;;;
+37;2023;19/10/2022;09:00:00;12;sowing_without_plant_output;Semis blé Arrezo Euclide Rubisko;ZC07, ZC15, ZC18;wheat_crop;triticum_aestivum;DJ;TRAC_533, SEM_01;WHEAT_SEED_RUBISKO_2015;145;kilogram;hectare;;;;;;;;;;;;
+38;2023;12/10/2022;09:00:00;8;superficial_plowing;Cover crop;ZC01, ZC02, ZC06, ZC07, ZC15, ZC18;;;AJ;TRAC_745, PLOW_05;;;;;;;;;;;;;;;;
+39;2023;10/03/2023;09:00:00;8;spraying;Pulvérisation;ZC01, ZC02, ZC06, ZC07, ZC15, ZC18;;;DJ;TRAC_745, PULVE_01;HELIOSOUFFRE_2020;2;liter;hectare;;;;;;;;;;U_20200507154520694718;;
+40;2023;18/04/2023;09:00:00;8;spraying;Pulvérisation;ZC01, ZC02, ZC06, ZC07, ZC15, ZC18;;;DJ;TRAC_745, PULVE_01;HELIOSOUFFRE_2020;2;liter;hectare;;;;;;;;;;U_20200507154520694718;;

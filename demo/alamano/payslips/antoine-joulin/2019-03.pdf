@@ -1,0 +1,1447 @@
+%PDF-1.6
+%ÿÿÿÿ www.synactis.com
+1 0 obj
+<<
+/CreationDate(D:20190328095123)
+/Title(Impression des bulletins de paie)
+/Author(Pégase 3 - SQL Version 6.4.\(.11\))
+/Subject(Impression des bulletins de paie)
+/Producer(Synactis PDF In-The-Box version 4.04-BETA 3, Licence #001000687)
+/Creator(ReportRetoucher version 5.02)
+>>
+endobj
+5 0 obj
+<<
+/Length 14889
+>>
+stream
+1 1 1 rg 0 0 0 RG []0 d 0.75 w 555.75 136.5 m  39.75 136.5 l  31.95 136.5 25.5 133.3 25.5 129.4 c  25.5 129.35 l  25.5 125.45 31.95 122.25 39.75 122.25 c  555.75 122.25 l  563.55 122.25 570 125.45 570 129.35 c  570 129.4 l  570 133.3 563.55 136.5 555.75 136.5 c  B
+0.753 0.753 0.753 rg 0 0 0 RG []0 d 0.75 w 555.75 150 m  39.75 150 l  31.95 150 25.5 146.95 25.5 143.25 c  25.5 143.25 l  25.5 139.55 31.95 136.5 39.75 136.5 c  555.75 136.5 l  563.55 136.5 570 139.55 570 143.25 c  570 143.25 l  570 146.95 563.55 150 555.75 150 c  B
+1 1 1 rg 0 0 0 RG []0 d 0.75 w 555.75 167.25 m  39.75 167.25 l  31.95 167.25 25.5 163.85 25.5 159.75 c  25.5 159.75 l  25.5 155.65 31.95 152.25 39.75 152.25 c  555.75 152.25 l  563.55 152.25 570 155.65 570 159.75 c  570 159.75 l  570 163.85 563.55 167.25 555.75 167.25 c  B
+0.753 0.753 0.753 rg 0 0 0 RG []0 d 0.75 w 555.75 184.5 m  39.75 184.5 l  31.95 184.5 25.5 180.6 25.5 175.9 c  25.5 175.85 l  25.5 171.15 31.95 167.25 39.75 167.25 c  555.75 167.25 l  563.55 167.25 570 171.15 570 175.85 c  570 175.9 l  570 180.6 563.55 184.5 555.75 184.5 c  B
+1 1 1 rg 0 0 0 RG []0 d 0.75 w 558 199.5 m  36 199.5 l  29.85 199.5 24.75 196.65 24.75 193.15 c  24.75 193.1 l  24.75 189.6 29.85 186.75 36 186.75 c  558 186.75 l  564.15 186.75 569.25 189.6 569.25 193.1 c  569.25 193.15 l  569.25 196.65 564.15 199.5 558 199.5 c  B
+0.753 0.753 0.753 rg 0 0 0 RG []0 d 0.75 w 555.75 120 m  360 120 l  352.2 120 345.75 113.55 345.75 105.75 c  345.75 91.5 l  345.75 83.7 352.2 77.25 360 77.25 c  555.75 77.25 l  563.55 77.25 570 83.7 570 91.5 c  570 105.75 l  570 113.55 563.55 120 555.75 120 c  B
+0 0 0 RG []0 d 0.75 w 329.25 120 m  36.75 120 l  30.6 120 25.5 114.9 25.5 108.75 c  25.5 54.75 l  25.5 48.6 30.6 43.5 36.75 43.5 c  329.25 43.5 l  335.4 43.5 340.5 48.6 340.5 54.75 c  340.5 108.75 l  340.5 114.9 335.4 120 329.25 120 c  S
+0.753 0.753 0.753 rg 0 0 0 RG []0 d 0.75 w 267.75 733.5 m  36 733.5 l  28.2 733.5 21.75 727.05 21.75 719.25 c  21.75 630.75 l  21.75 622.95 28.2 616.5 36 616.5 c  267.75 616.5 l  275.55 616.5 282 622.95 282 630.75 c  282 719.25 l  282 727.05 275.55 733.5 267.75 733.5 c  B
+0.753 0.753 0.753 rg 0 0 0 RG []0 d 0.75 w 25.5 583.5 544.5 15.75 re B
+25.5 581.25 m  n
+0 0 0 RG []0 d 0.75 w 25.5 581.25 m 25.5 201 l  S
+25.5 581.25 m  n
+0 0 0 RG []0 d 0.75 w 25.5 581.25 m 294 581.25 l  S
+25.5 201 m  n
+0 0 0 RG []0 d 0.75 w 25.5 201 m 294 201 l  S
+374.25 581.25 m  n
+0 0 0 RG []0 d 0.75 w 374.25 581.25 m 432 581.25 l  S
+374.25 201 m  n
+0 0 0 RG []0 d 0.75 w 374.25 201 m 432 201 l  S
+0.753 0.753 0.753 rg 294 201 82.5 380.25 re f
+294 581.25 m  n
+0 0 0 RG []0 d 0.75 w 294 581.25 m 376.5 581.25 l  S
+294 201 m  n
+0 0 0 RG []0 d 0.75 w 294 201 m 376.5 201 l  S
+0.753 0.753 0.753 rg 432 201 81 380.25 re f
+432 581.25 m  n
+0 0 0 RG []0 d 0.75 w 432 581.25 m 513 581.25 l  S
+432 201 m  n
+0 0 0 RG []0 d 0.75 w 432 201 m 513 201 l  S
+BT
+/F0 7 Tf
+0 0 0 rg
+0 Tc
+138 588.413 Td
+(Désignation) Tj
+ET
+BT
+/F0 7 Tf
+0 0 0 rg
+0 Tc
+306 589.163 Td
+(Nombre ou Base) Tj
+ET
+BT
+/F0 7 Tf
+0 0 0 rg
+0 Tc
+393.75 589.163 Td
+(Taux) Tj
+ET
+BT
+/F0 7 Tf
+0 0 0 rg
+0 Tc
+454.5 589.163 Td
+(Montant) Tj
+ET
+BT
+/F0 6 Tf
+0 0 0 rg
+0 Tc
+519.75 590.069 Td
+(Part Employeur) Tj
+ET
+512.25 581.25 m  n
+0 0 0 RG []0 d 0.75 w 512.25 581.25 m 569.25 581.25 l  S
+569.25 581.25 m  n
+0 0 0 RG []0 d 0.75 w 569.25 581.25 m 569.25 201 l  S
+512.25 201 m  n
+0 0 0 RG []0 d 0.75 w 512.25 201 m 569.25 201 l  S
+459 100.5 m  n
+0 0 0 RG []0 d 0.75 w 459 100.5 m 459 77.25 l  S
+BT
+/F2 6 Tf
+0 0 0 rg
+0 Tc
+29.25 38.069 Td
+(Nous vous recommandons de conserver votre bulletin de paie, sans limitation de durée. Pour plus ) Tj
+ET
+BT
+/F2 6 Tf
+0 0 0 rg
+0 Tc
+29.25 31.319 Td
+(d'informations, voir à la rubrique dédiée au bulletin de paie sur www.service-public.fr) Tj
+ET
+431.25 598.5 m  n
+0 0 0 RG []0 d 0.75 w 431.25 598.5 m 431.25 583.5 l  S
+432 199.5 m  n
+0 0 0 RG []0 d 0.75 w 432 199.5 m 432 186.75 l  S
+511.5 199.5 m  n
+0 0 0 RG []0 d 0.75 w 511.5 199.5 m 511.5 186.75 l  S
+345.75 100.5 m  n
+0 0 0 RG []0 d 0.75 w 345.75 100.5 m 570 100.5 l  S
+BT
+/F0 10 Tf
+0 0 0 rg
+0 Tc
+263.25 189.698 Td
+(Total des cotisations et contributions) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+59.25 111.258 Td
+(Congés payés) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+35.25 95.508 Td
+(En Cours :) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+35.25 77.508 Td
+(Acquis :) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+35.25 61.758 Td
+(Pris : ) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+35.25 50.508 Td
+(Solde : ) Tj
+ET
+294 598.5 m  n
+0 0 0 RG []0 d 0.75 w 294 598.5 m 294 582.75 l  S
+375.75 598.5 m  n
+0 0 0 RG []0 d 0.75 w 375.75 598.5 m 375.75 582.75 l  S
+512.25 599.25 m  n
+0 0 0 RG []0 d 0.75 w 512.25 599.25 m 512.25 583.5 l  S
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+195.75 103.008 Td
+(Heures : ) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+195.75 90.258 Td
+(Brut : ) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+195.75 60.258 Td
+(Net fiscal : ) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+195.75 77.508 Td
+(Versé employeur : ) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+270 111.258 Td
+(Cumuls ) Tj
+ET
+BT
+/F1 12 Tf
+0 0 0 rg
+0 Tc
+33 172.137 Td
+(Net à Payer avant impôt sur le revenu) Tj
+ET
+327 150 m  n
+0 0 0 RG []0 d 0.75 w 327 150 m 327 122.25 l  S
+384 150 m  n
+0 0 0 RG []0 d 0.75 w 384 150 m 384 122.25 l  S
+491.25 150 m  n
+0 0 0 RG []0 d 0.75 w 491.25 150 m 491.25 122.25 l  S
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+148.5 141.258 Td
+(Impôt sur le  revenu) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+344.25 140.508 Td
+(Base) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+393.75 140.508 Td
+(Taux non personnalisé) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+515.25 140.508 Td
+(Montant) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+33.75 156.258 Td
+(dont évolution de la rémunération liée à la suppression des cotisations salariales chômage et maladie) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+195.75 49.758 Td
+(Impôt prélevé : ) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+106.5 127.758 Td
+(Impôt sur le  revenu prélevé à la source) Tj
+ET
+BT
+/F1 9 Tf
+0 0 0 rg
+0 Tc
+354 691.603 Td
+(JOULIN ANTOINE) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+31.5 667.008 Td
+(Date d'entrée :) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+31.5 643.008 Td
+(Emploi :) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+69.75 643.008 Td
+(Ouvrier agricole) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+31.5 631.008 Td
+(Coefficient :) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+87 631.008 Td
+(202) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+118.5 631.008 Td
+(Niveau :) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+185.25 631.008 Td
+(Échelon :) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+185.25 619.008 Td
+(Abattement : ) Tj
+ET
+BT
+/F1 9 Tf
+0 0 0 rg
+0 Tc
+68.25 822.103 Td
+(EARL JOULIN) Tj
+ET
+BT
+/F0 9 Tf
+0 0 0 rg
+0 Tc
+68.25 810.103 Td
+(8 RUE BOUIL BLEU) Tj
+ET
+BT
+/F0 9 Tf
+0 0 0 rg
+0 Tc
+68.25 774.103 Td
+(17250  ST PORCHAIRE) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+31.5 720.258 Td
+(Période du :) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+87 720.258 Td
+(01/03/2019) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+135.75 720.258 Td
+(au :) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+156 720.258 Td
+(31/03/2019) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+96 667.008 Td
+(02/01/2019) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+334.5 730.758 Td
+(SIRET :) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+334.5 741.258 Td
+(Employeur :) Tj
+ET
+BT
+/F1 20 Tf
+0 0 0 rg
+0 Tc
+331.5 815.895 Td
+(BULLETIN DE PAIE) Tj
+ET
+BT
+/F0 9 Tf
+0 0 0 rg
+0 Tc
+354 675.103 Td
+(11 rue du château) Tj
+ET
+BT
+/F0 9 Tf
+0 0 0 rg
+0 Tc
+354 636.853 Td
+(17770  ECOYEUX) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+31.5 655.008 Td
+(Section : ) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+31.5 708.258 Td
+(Bulletin N° : ) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+31.5 691.008 Td
+(Salarié : ) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+31.5 679.008 Td
+(N° S. S. :) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+70.5 691.008 Td
+(0000000002) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+71.25 679.008 Td
+(197031741528692) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+86.25 708.258 Td
+(003) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+369 730.758 Td
+(326273729 00011) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+462.75 730.758 Td
+(NAF : ) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+462.75 741.258 Td
+(Établissement :) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+528 741.258 Td
+(00001) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+492 730.758 Td
+(0141Z) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+31.5 619.008 Td
+(Qualification : ) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+93.75 619.008 Td
+(Ouvrier) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+387 741.258 Td
+(17005534) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+73.5 655.008 Td
+(Valeur d'attente) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+31.5 607.758 Td
+(Convention Collective : ) Tj
+ET
+BT
+/F0 6 Tf
+0 0 0 rg
+0 Tc
+128.25 609.569 Td
+(Polyculture, Viticulture, Elevage et ETA Charente-maritime) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+27.75 568.758 Td
+(Salaire mensuel) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+345.75 568.758 Td
+(151.67) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+403.5 568.758 Td
+(11.000) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+479.25 568.758 Td
+(1668.37) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+27.75 554.508 Td
+(Total du brut) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+345.75 554.508 Td
+(151.67) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+479.25 554.508 Td
+(1668.37) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+27.75 537.258 Td
+(SANTÉ) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+341.25 526.008 Td
+(1668.37) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+540 526.008 Td
+(116.79) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+43.5 526.008 Td
+(Sécurité Sociale - Maladie Maternité Invalidité Décès) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+341.25 514.758 Td
+(1668.37) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+408 514.758 Td
+(0.820) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+488.25 514.758 Td
+(13.68) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+544.5 514.758 Td
+(19.18) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+43.5 514.758 Td
+(Complémentaire incapacité Invalidité Décès) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+27.75 503.508 Td
+(ACCIDENT DU TRAVAIL-MALADIES PROFESSIONNELLES) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+341.25 503.508 Td
+(1668.37) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+544.5 503.508 Td
+(40.37) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+27.75 492.258 Td
+(RETRAITE) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+341.25 481.008 Td
+(1668.37) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+408 481.008 Td
+(6.900) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+483.75 481.008 Td
+(115.12) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+540 481.008 Td
+(142.65) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+43.5 481.008 Td
+(Sécurité Sociale Plafonnée) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+341.25 469.758 Td
+(1668.37) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+408 469.758 Td
+(0.400) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+492.75 469.758 Td
+(6.67) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+544.5 469.758 Td
+(31.70) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+43.5 469.758 Td
+(Sécurité Sociale Déplafonnée) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+341.25 458.508 Td
+(1668.37) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+408 458.508 Td
+(4.790) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+488.25 458.508 Td
+(79.92) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+544.5 458.508 Td
+(87.25) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+43.5 458.508 Td
+(Complémentaire) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+27.75 447.258 Td
+(FAMILLE) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+544.5 447.258 Td
+(57.56) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+27.75 436.008 Td
+(ASSURANCE CHÔMAGE) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+341.25 436.008 Td
+(1668.37) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+544.5 436.008 Td
+(70.07) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+27.75 424.758 Td
+(AUTRES CONTRIBUTIONS DUES PAR L’EMPLOYEUR) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+544.5 424.758 Td
+(20.64) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+27.75 413.508 Td
+(CSG déductible de l'impôt sur le revenu) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+341.25 413.508 Td
+(1658.36) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+408 413.508 Td
+(6.800) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+483.75 413.508 Td
+(112.77) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+27.75 402.258 Td
+(CSG / CRDS non déductible de l'impôt sur le revenu) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+341.25 402.258 Td
+(1658.36) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+408 402.258 Td
+(2.900) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+488.25 402.258 Td
+(48.09) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+27.75 391.008 Td
+(EXONERATIONS DE COTISATIONS EMPLOYEUR) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+537.75 391.008 Td
+(-348.51) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+27.75 379.758 Td
+(MSA AFNCA - ANEFA) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+341.25 379.758 Td
+(1668.37) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+408 379.758 Td
+(0.010) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+492.75 379.758 Td
+(0.17) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+549 379.758 Td
+(1.00) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+27.75 368.508 Td
+(MSA ADEFA) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+341.25 368.508 Td
+(1668.37) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+408 368.508 Td
+(0.050) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+492.75 368.508 Td
+(0.83) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+549 368.508 Td
+(0.83) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+27.75 354.258 Td
+(Total imposable) Tj
+ET
+BT
+/F1 8 Tf
+0 0 0 rg
+0 Tc
+479.25 354.258 Td
+(1339.21) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+27.75 337.008 Td
+(MSA Complément Formation ANN-FAFSEA) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+341.25 337.008 Td
+(1668.37) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+549 337.008 Td
+(5.84) Tj
+ET
+BT
+/F1 12 Tf
+0 0 0 rg
+0 Tc
+353.25 107.637 Td
+(Net à payer) Tj
+ET
+BT
+/F1 12 Tf
+0 0 0 rg
+0 Tc
+481.5 107.637 Td
+(1291.12) Tj
+ET
+BT
+/F1 12 Tf
+0 0 0 rg
+0 Tc
+531 107.637 Td
+(EUR) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+354.75 92.508 Td
+(Total versé par l'employeur) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+468.75 92.508 Td
+(Allégement de cotisations) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+391.5 81.258 Td
+(1904.56) Tj
+ET
+BT
+/F1 7 Tf
+0 0 0 rg
+0 Tc
+346.5 70.163 Td
+(Paiement :) Tj
+ET
+BT
+/F1 7 Tf
+0 0 0 rg
+0 Tc
+346.5 59.663 Td
+(Banque :) Tj
+ET
+BT
+/F1 7 Tf
+0 0 0 rg
+0 Tc
+346.5 49.163 Td
+(Bénéficiaire :) Tj
+ET
+BT
+/F1 7 Tf
+0 0 0 rg
+0 Tc
+346.5 38.663 Td
+(BIC/IBAN :) Tj
+ET
+BT
+/F0 7 Tf
+0 0 0 rg
+0 Tc
+399 38.663 Td
+( /         ) Tj
+ET
+BT
+/F0 7 Tf
+0 0 0 rg
+0 Tc
+399 49.163 Td
+(JOULIN ANTOINE) Tj
+ET
+BT
+/F0 7 Tf
+0 0 0 rg
+0 Tc
+399 70.163 Td
+(Virement) Tj
+ET
+BT
+/F1 7 Tf
+0 0 0 rg
+0 Tc
+465 70.163 Td
+(le :) Tj
+ET
+BT
+/F0 7 Tf
+0 0 0 rg
+0 Tc
+480.75 70.163 Td
+(31/03/2019) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+502.5 81.258 Td
+(478.64) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+481.5 190.758 Td
+(377.25) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+538.5 190.758 Td
+(236.19) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+426.75 81.258 Td
+(EUR) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+90 94.758 Td
+(7.50) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+90 76.758 Td
+(0.00) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+90 61.008 Td
+(0.00) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+90 49.758 Td
+(0.00) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+316.5 100.008 Td
+(H) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+285.75 100.008 Td
+(455.01) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+316.5 88.758 Td
+(EUR) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+281.25 88.758 Td
+(5005.11) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+316.5 59.508 Td
+(EUR) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+281.25 59.508 Td
+(4017.63) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+316.5 77.508 Td
+(EUR) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+281.25 77.508 Td
+(5713.65) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+533.25 81.258 Td
+(EUR) Tj
+ET
+BT
+/F1 12 Tf
+0 0 0 rg
+0 Tc
+484.5 172.137 Td
+(1291.12) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+507.75 157.758 Td
+(24.36) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+339.75 127.008 Td
+(1339.21) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+426 127.008 Td
+(0.00%) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+528.75 127.008 Td
+(0.00) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+316.5 47.508 Td
+(EUR) Tj
+ET
+BT
+/F0 8 Tf
+0 0 0 rg
+0 Tc
+294.75 47.508 Td
+(0.00) Tj
+ET
+endstream
+endobj
+4 0 obj
+<<
+/Type/Page
+/Parent 2 0 R
+/MediaBox[0 0 595.5 842.25]
+/Contents 5 0 R
+>>
+endobj
+6 0 obj
+
+[278 0 0 0 0 889 0 190 0 0 0 0 278 333 278 278 556 556 556 556 556 556 556 556 556 
+556 0 0 0 0 0 0 0 667 667 722 722 667 610 778 722 278 500 0 556 832 722 778 667 0 
+722 667 610 722 667 0 667 667 610 0 0 0 0 0 0 556 556 500 556 556 278 556 556 222 
+0 0 222 832 556 556 556 0 333 500 278 556 500 0 500 500 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 222 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 667 0 0 0 0 0 0 0 0 0 0 778 0 
+0 0 0 0 0 0 0 0 0 0 556 0 556 0 0 0 0 0 556 556 0 0 0 0 0 0 0 0 0 0 556 ]
+endobj
+7 0 obj
+<<
+/Type/FontDescriptor
+/FontName/Arial
+/Ascent 905
+/Descent -212
+/ItalicAngle 0
+/CapHeight 905
+/Flags 32
+/FontBBox[0 0 0 0]
+>>
+endobj
+8 0 obj
+<<
+/Type/Font
+/Subtype/TrueType
+/Name/F0
+/BaseFont/Arial
+/Encoding/WinAnsiEncoding
+/FirstChar 32
+/LastChar 244
+/Widths 6 0 R
+/FontDescriptor 7 0 R
+>>
+endobj
+9 0 obj
+
+[278 0 0 0 0 0 0 238 0 0 0 0 0 0 278 278 0 556 556 556 0 556 556 556 556 556 333 
+0 0 0 0 0 0 722 722 722 722 667 610 0 722 278 556 0 610 832 722 778 667 778 722 667 
+610 722 667 0 0 0 0 0 0 0 0 0 0 556 610 556 610 556 333 610 610 278 0 0 278 889 610 
+610 610 610 389 556 333 610 556 0 556 556 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 400 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 667 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 556 0 0 0 0 0 0 0 0 556 0 0 0 0 0 0 0 0 0 0 610 ]
+endobj
+10 0 obj
+<<
+/Type/FontDescriptor
+/FontName/Arial,Bold
+/Ascent 905
+/Descent -212
+/ItalicAngle 0
+/CapHeight 905
+/Flags 32
+/FontBBox[0 0 0 0]
+>>
+endobj
+11 0 obj
+<<
+/Type/Font
+/Subtype/TrueType
+/Name/F1
+/BaseFont/Arial,Bold
+/Encoding/WinAnsiEncoding
+/FirstChar 32
+/LastChar 244
+/Widths 9 0 R
+/FontDescriptor 10 0 R
+>>
+endobj
+12 0 obj
+
+[278 0 0 0 0 0 0 190 0 0 0 0 278 333 278 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 722 0 667 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 556 556 500 556 556 
+278 0 0 222 0 0 222 832 556 556 556 556 333 500 278 556 500 722 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 556 0 0 0 0 0 0 0 0 556 ]
+endobj
+13 0 obj
+<<
+/Type/FontDescriptor
+/FontName/Arial,Italic
+/Ascent 905
+/Descent -212
+/ItalicAngle -12
+/CapHeight 905
+/Flags 96
+/FontBBox[0 0 0 0]
+>>
+endobj
+14 0 obj
+<<
+/Type/Font
+/Subtype/TrueType
+/Name/F2
+/BaseFont/Arial,Italic
+/Encoding/WinAnsiEncoding
+/FirstChar 32
+/LastChar 233
+/Widths 12 0 R
+/FontDescriptor 13 0 R
+>>
+endobj
+15 0 obj
+<<
+/Type/Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type/Pages
+/Kids[
+4 0 R
+]
+/Count 1
+/Resources 3 0 R
+>>
+endobj
+3 0 obj
+<<
+/ProcSet[/PDF/Text/ImageC]
+/Font<<
+/F0 8 0 R
+/F1 11 0 R
+/F2 14 0 R
+/F3 0 0 R
+>>
+>>
+endobj
+xref
+0 16
+0000000000 65535 f
+0000000032 00000 n
+0000018010 00000 n
+0000018084 00000 n
+0000015269 00000 n
+0000000327 00000 n
+0000015359 00000 n
+0000015948 00000 n
+0000016091 00000 n
+0000016256 00000 n
+0000016827 00000 n
+0000016976 00000 n
+0000017148 00000 n
+0000017633 00000 n
+0000017786 00000 n
+0000017961 00000 n
+trailer
+<<
+/Size 16
+/Root 15 0 R
+/Info 1 0 R
+/ID[(435524107CpatridstEEUNMRIrsnebliip)(435524107CpatridstEEUNMRIrsnebliip)]
+>>
+startxref
+18185
+%%EOF

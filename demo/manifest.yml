@@ -104,6 +104,10 @@ journals:
     name: Compte courant coop Terra Lacta
     nature: bank
     currency: EUR
+  PAIE:
+    name: Paie
+    nature: payslip
+    currency: EUR
 catalogs:
   VENTE:                                         # Code d'un catalogue de prix
     name: Prix de vente                          # Nom d'un catalogue de prix
@@ -171,6 +175,12 @@ cashes:
     mode: "" 							#mode
     country: fr 						#code pays
     iban: "" 			#numéro IBAN du compte
+payslip_natures:
+  permanent:
+    active: true
+    with_accounting: true
+    imported_centralizing_entries: true
+    journal: 'PAIE'
 outgoing_payment_modes:
   cc_coopca:
     with_accounting: true
